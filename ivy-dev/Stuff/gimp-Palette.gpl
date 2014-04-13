@@ -1,0 +1,19 @@
+GIMP Palette
+Name: Ivy
+Columns: 1
+#
+208  38   4	ROT
+255 139  54	ORANGE
+238 212  90	BEIGE
+255 213   6	GELB
+102 176  62	GRÜN
+#102 216  85	ZYAN(not included)
+ 82 136 209	BLAU
+168 104 212	LILA
+237  76 112	ROSA
+228 174  78	BRAUN
+255 255 255	WEIß(nur transparenz)
+235 235 235	DUNKELWEIß(alles weiße)
+106 106 106	HELLGRAU
+ 23  23  23	DUNKELGRAU(alles schwarze)
+  0   0   0	SCHWARZ(nur transparenz)

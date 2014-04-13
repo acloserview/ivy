@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="32"
+   height="32"
+   id="svg2">
+  <metadata
+     id="metadata33">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <linearGradient
+       id="linearGradient856">
+      <stop
+         id="stop858"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop860"
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3648">
+      <stop
+         id="stop3650"
+         style="stop-color:#dddddd;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3652"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="44"
+       y1="43"
+       x2="44"
+       y2="5.000001"
+       id="linearGradient3027"
+       xlink:href="#linearGradient3648"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.65,0,0,0.65789473,0.4,0.71052581)" />
+    <linearGradient
+       x1="27.96875"
+       y1="5.03125"
+       x2="28"
+       y2="28"
+       id="linearGradient862"
+       xlink:href="#linearGradient856"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <rect
+     width="26"
+     height="25"
+     x="3"
+     y="5"
+     id="rect888"
+     style="opacity:0.1;stroke:none" />
+  <rect
+     width="26"
+     height="25"
+     x="3"
+     y="4"
+     id="rect2852"
+     style="fill:url(#linearGradient3027);stroke:none" />
+  <rect
+     width="26"
+     height="7"
+     x="3"
+     y="4"
+     id="rect846"
+     style="fill:#5288d1;stroke:none" />
+  <rect
+     width="1"
+     height="1"
+     x="6"
+     y="6"
+     id="rect3025"
+     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
+  <path
+     d="m 3.5,4.5 0,24 25,0 0,-24 h -25 z"
+     inkscape:connector-curvature="0"
+     id="path852"
+     style="opacity:0.4;fill:none;stroke:#000000" />
+  <path
+     d="m 4.5312,5.5312 0,21.9375 22.9375,0 0,-21.9375 H 4.5312 z"
+     inkscape:connector-curvature="0"
+     id="path854"
+     style="opacity:0.4;fill:none;stroke:url(#linearGradient862)" />
+  <rect
+     width="24"
+     height="1"
+     x="4"
+     y="10"
+     id="rect864"
+     style="opacity:0.4;stroke:none" />
+  <rect
+     width="24"
+     height="1"
+     x="4"
+     y="11"
+     id="rect866"
+     style="fill:#ffffff;stroke:none" />
+  <rect
+     width="1"
+     height="1"
+     x="7"
+     y="7"
+     id="rect868"
+     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
+  <rect
+     width="1"
+     height="1"
+     x="8"
+     y="8"
+     id="rect870"
+     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
+  <rect
+     width="1"
+     height="1"
+     x="-9"
+     y="6"
+     transform="scale(-1,1)"
+     id="rect872"
+     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
+  <rect
+     width="1"
+     height="1"
+     x="-8"
+     y="7"
+     transform="scale(-1,1)"
+     id="rect874"
+     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
+  <rect
+     width="1"
+     height="1"
+     x="-7"
+     y="8"
+     transform="scale(-1,1)"
+     id="rect876"
+     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
+  <rect
+     width="1"
+     height="3"
+     x="10"
+     y="6"
+     id="rect878"
+     style="fill:#ffffff;stroke:none" />
+  <rect
+     width="3"
+     height="1"
+     x="10"
+     y="8"
+     id="rect880"
+     style="fill:#ffffff;stroke:none" />
+  <rect
+     width="1"
+     height="2"
+     x="12"
+     y="6"
+     id="rect882"
+     style="fill:#ffffff;stroke:none" />
+  <rect
+     width="3"
+     height="1"
+     x="10"
+     y="6"
+     id="rect884"
+     style="fill:#ffffff;stroke:none" />
+  <rect
+     width="3"
+     height="1"
+     x="14"
+     y="8"
+     id="rect886"
+     style="fill:#ffffff;stroke:none" />
+</svg>

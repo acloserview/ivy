@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="48"
+   height="48"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="terminal.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="697"
+     inkscape:window-height="480"
+     id="namedview54"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata56">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <linearGradient
+       id="linearGradient3683">
+      <stop
+         id="stop3685"
+         style="stop-color:#000000;stop-opacity:0.2"
+         offset="0" />
+      <stop
+         id="stop3687"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3648">
+      <stop
+         id="stop3650"
+         style="stop-color:#dddddd;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3652"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3600">
+      <stop
+         id="stop3602"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3604"
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="43.0625"
+       y1="5.9375"
+       x2="43.0625"
+       y2="42.0625"
+       id="linearGradient3020"
+       xlink:href="#linearGradient3600"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(4e-7,-0.7801992)" />
+    <linearGradient
+       x1="44"
+       y1="43"
+       x2="44"
+       y2="5"
+       id="linearGradient3026"
+       xlink:href="#linearGradient3648"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(4e-7,-0.7801992)" />
+    <radialGradient
+       cx="23.984993"
+       cy="44.880875"
+       r="23.232101"
+       fx="23.984993"
+       fy="44.880875"
+       id="radialGradient3029"
+       xlink:href="#linearGradient3683"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.94140978,0,0,0.06456583,1.4202941,39.414029)" />
+    <mask
+       id="mask3037">
+      <rect
+         width="39.959732"
+         height="28.214766"
+         x="4.0536914"
+         y="14"
+         id="rect3039"
+         style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
+    </mask>
+  </defs>
+  <rect
+     style="color:#000000;fill:#171717;fill-rule:evenodd;stroke:none;opacity:0.1"
+     id="rect3033"
+     y="15.000235"
+     x="4.0536914"
+     height="28.214766"
+     width="39.959732" />
+  <rect
+     width="40"
+     height="38"
+     x="4"
+     y="4.2198005"
+     id="rect2852"
+     style="fill:url(#linearGradient3026);stroke:none" />
+  <rect
+     width="40"
+     height="9.7802"
+     x="4"
+     y="4.2198005"
+     id="rect2854"
+     style="fill:#5288d1;stroke:none" />
+  <path
+     d="m 4.4688,4.6886 0,37.0625 39.0625,0 0,-37.0625 -39.0625,0 z"
+     inkscape:connector-curvature="0"
+     id="path2856"
+     style="opacity:0.4;fill:none;stroke:#000000" />
+  <path
+     d="m 4.9369,13.5286 38.1261,4e-4"
+     inkscape:connector-curvature="0"
+     id="path2858"
+     style="opacity:0.56199999;fill:none;stroke:#000000" />
+  <path
+     d="m 5.4375,5.6573 0,35.125 37.125,0 0,-35.125 -37.125,0 z"
+     inkscape:connector-curvature="0"
+     id="path2860"
+     style="opacity:0.5;fill:none;stroke:url(#linearGradient3020)" />
+  <rect
+     width="39.959732"
+     height="28.214766"
+     x="4.0536914"
+     y="14"
+     id="rect3031"
+     style="color:#000000;fill:#171717;fill-rule:evenodd;stroke:none" />
+  <path
+     d="m 4.4688,4.6886 0,37.0625 39.0625,0 0,-37.0625 -39.0625,0 z"
+     inkscape:connector-curvature="0"
+     mask="url(#mask3037)"
+     id="path3033"
+     style="opacity:0.8;fill:none;stroke:#000000" />
+  <rect
+     width="1"
+     height="1"
+     x="13"
+     y="19"
+     id="rect3041"
+     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
+  <rect
+     width="1"
+     height="1"
+     x="9"
+     y="19"
+     id="rect3043"
+     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
+  <rect
+     width="1"
+     height="1"
+     x="10"
+     y="19"
+     id="rect3045"
+     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
+  <rect
+     width="1"
+     height="1"
+     x="11"
+     y="20"
+     id="rect3047"
+     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
+  <rect
+     width="1"
+     height="1"
+     x="13"
+     y="20"
+     id="rect3049"
+     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
+  <rect
+     width="1"
+     height="1"
+     x="12"
+     y="21"
+     id="rect3051"
+     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
+  <rect
+     width="3"
+     height="1"
+     x="17"
+     y="17"
+     id="rect3053"
+     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
+  <rect
+     width="3"
+     height="1"
+     x="-20"
+     y="-21"
+     transform="scale(-1,-1)"
+     id="rect3055"
+     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
+  <rect
+     width="3"
+     height="1"
+     x="-20"
+     y="-24"
+     transform="scale(-1,-1)"
+     id="rect3057"
+     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
+  <rect
+     width="2"
+     height="1"
+     x="-23"
+     y="20"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="rect3059"
+     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
+  <rect
+     width="2"
+     height="1"
+     x="-20"
+     y="16"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="rect3061"
+     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
+  <rect
+     width="9"
+     height="1"
+     x="-25"
+     y="18"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="rect3063"
+     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
+  <rect
+     width="1"
+     height="1"
+     x="8"
+     y="20"
+     id="rect3065"
+     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
+  <rect
+     width="1"
+     height="1"
+     x="8"
+     y="21"
+     id="rect3067"
+     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
+  <rect
+     width="1"
+     height="1"
+     x="20"
+     y="18"
+     id="rect3069"
+     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
+  <rect
+     width="1"
+     height="1"
+     x="-23"
+     y="16"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="rect3071"
+     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
+  <rect
+     width="5"
+     height="1"
+     x="24"
+     y="24"
+     id="rect3073"
+     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
+  <rect
+     width="1"
+     height="1"
+     x="7"
+     y="8"
+     id="rect3023"
+     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
+  <rect
+     width="1"
+     height="1"
+     x="8"
+     y="9"
+     id="rect3025"
+     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
+  <rect
+     width="1"
+     height="1"
+     x="9"
+     y="10"
+     id="rect3027"
+     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
+  <rect
+     width="1"
+     height="1"
+     x="7"
+     y="10"
+     id="rect3029"
+     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
+  <rect
+     width="1"
+     height="1"
+     x="9"
+     y="8"
+     id="rect3032"
+     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
+  <rect
+     width="1"
+     height="3"
+     x="12"
+     y="8"
+     id="rect3034"
+     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
+  <rect
+     width="1"
+     height="3"
+     x="10"
+     y="-15"
+     transform="matrix(0,1,-1,0,0,0)"
+     id="rect3042"
+     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
+  <rect
+     width="1"
+     height="3"
+     x="-15"
+     y="-11"
+     transform="scale(-1,-1)"
+     id="rect3044"
+     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
+  <rect
+     width="1"
+     height="3"
+     x="-9"
+     y="12"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="rect3046"
+     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
+  <rect
+     width="1"
+     height="3"
+     x="-11"
+     y="17"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="rect3048"
+     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
+</svg>

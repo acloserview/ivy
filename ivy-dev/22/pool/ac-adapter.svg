@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="22" height="22" id="svg2" inkscape:version="0.48.4 r9939" sodipodi:docname="ac-adapter.svg">
+<sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="640" inkscape:window-height="480" id="namedview25" showgrid="false" inkscape:zoom="10.727273" inkscape:cx="11" inkscape:cy="11.09322" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="0" inkscape:current-layer="svg2" />
+<metadata id="metadata40">
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+<dc:title />
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<defs id="defs4">
+<linearGradient id="linearGradient880">
+<stop id="stop882" style="stop-color:#ebebeb;stop-opacity:1" offset="0" />
+<stop id="stop884" style="stop-color:#cbcbcb;stop-opacity:1" offset="1" />
+</linearGradient>
+<linearGradient id="linearGradient844">
+<stop id="stop846" style="stop-color:#343434;stop-opacity:1" offset="0" />
+<stop id="stop848" style="stop-color:#6a6a6a;stop-opacity:1" offset="1" />
+</linearGradient>
+<linearGradient x1="41" y1="22" x2="41" y2="36" id="linearGradient850" xlink:href="#linearGradient844" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.47221971,0,0,0.46811027,-0.36210304,-0.12615048)" />
+<linearGradient x1="1012.3622" y1="-17" x2="1012.3622" y2="-11" id="linearGradient886" xlink:href="#linearGradient880" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.45833333,0,0,0.50238728,-460.22916,0.54058368)" />
+<linearGradient x1="1012.3622" y1="-17" x2="1012.3622" y2="-11" id="linearGradient912" xlink:href="#linearGradient880" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.45833333,0,0,0.5,-460.24933,-7.4999993)" />
+</defs>
+<rect width="11" height="3.2767718" x="5" y="17.723228" id="rect847" style="opacity:0.1;fill:#000000;stroke:none" />
+<rect width="7.3333178" height="3" x="1" y="-16" transform="matrix(0,1,-1,0,0,0)" id="rect906" style="fill:url(#linearGradient912);stroke:none" />
+<rect width="7.3333178" height="3.0143237" x="1.0201696" y="-8" transform="matrix(0,1,-1,0,0,0)" id="rect20" style="fill:url(#linearGradient886);stroke:none" />
+<path d="m 1.53125,-7.5 0,2 6.3125,0 0,-2 L 1.53125,-7.5 Z" transform="matrix(0,1,-1,0,0,0)" id="path894" style="opacity:0.6;fill:none;stroke:#000000" />
+<path d="m 1.53125,-7.5 0,2 6.3125,0 0,-2 L 1.53125,-7.5 Z" transform="matrix(0,1,-1,0,8,-0.03125)" id="path834" style="opacity:0.6;fill:none;stroke:#000000" />
+<path d="M 1.9989954,5.959283 1.9990447,10 5,17 16,17 18.998955,10 18.998906,5.959283 Z" id="path22" style="fill:url(#linearGradient850);stroke:none" />
+<path style="opacity:0.1;fill:black;stroke:none" id="path3002" d="M 1.9989954,7.959283 1.9990447,12 5,19 l 11,0 2.998955,-7 -4.9e-5,-4.040717 z" inkscape:connector-curvature="0" />
+<rect width="13.996986" height="1" x="3.5109696" y="10" id="rect852" style="opacity:0.2;fill:#ffffff;stroke:none" />
+<rect width="11" height="3.2767718" x="5" y="16.725819" id="rect32" style="fill:#6a6a6a;stroke:none" />
+<rect width="15" height="1.0000002" x="3" y="9" id="rect42" style="opacity:0.5;stroke:none" />
+<rect width="9" height="1" x="6" y="17" id="rect854" style="opacity:0.5;stroke:none" />
+<path d="m 2.5,6.46875 0,3.4375 2.96875,6.90625 A 0.51102068,0.51102068 0 0 1 5.5,17 l 0,2.5 10,0 0,-2.5 a 0.51102068,0.51102068 0 0 1 0.03125,-0.1875 L 18.5,9.90625 18.5,6.46875 2.5,6.46875 Z" id="path843" style="opacity:0.8;fill:none;stroke:#000000" />
+</svg>

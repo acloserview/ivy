@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="16"
+   height="16"
+   id="svg2">
+  <defs
+     id="defs6">
+    <linearGradient
+       id="linearGradient3837">
+      <stop
+         id="stop3839"
+         style="stop-color:#66b03e;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3841"
+         style="stop-color:#a3d588;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="5"
+       y1="3"
+       x2="5"
+       y2="45.122025"
+       id="linearGradient826"
+       xlink:href="#linearGradient3837"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.36460807,0,0,0.35679374,-1.2782638,-1.0394203)" />
+  </defs>
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     d="m 0.97232993,10.881945 0,5.141685 L 14,8 0.97232993,1.0236297 l 0,7.443088 L 5,6 9,8 5,11 5,8 z"
+     inkscape:connector-curvature="0"
+     id="path828"
+     style="opacity:0.1;fill:#000000;fill-opacity:1;stroke:none" />
+  <path
+     d="m 0.97232993,9.8819447 0,5.1416853 L 14,7 0.97232993,0.02362966 l 0,7.44308804 L 5,5 9,7 5,10 5,7 z"
+     inkscape:connector-curvature="0"
+     id="path7268"
+     style="fill:url(#linearGradient826);fill-opacity:1;stroke:none" />
+  <g
+     transform="translate(-61.851023,-17.467916)"
+     id="g17259" />
+  <text
+     x="-6.4478149"
+     y="9.8261948"
+     id="text5527"
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+       x="-6.4478149"
+       y="9.8261948"
+       id="tspan5529" /></text>
+  <path
+     d="M 1.5,0.9062 1.5,6.5 4.7188,4.5312 a 0.533369,0.533369 0 0 1 0.53125,0 l 4,2 a 0.533369,0.533369 0 0 1 0.0625,0.90625 l -4,3 A 0.533369,0.533369 0 0 1 4.4688,9.99995 V 8.0312 L 1.5,10.1562 v 3.90625 L 12.9062,7.03125 1.5,0.90625 z"
+     inkscape:connector-curvature="0"
+     id="path826"
+     style="opacity:0.28000004;fill:none;stroke:#000000" />
+</svg>

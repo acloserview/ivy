@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="16"
+   height="16"
+   id="svg6361">
+  <defs
+     id="defs3">
+    <linearGradient
+       id="linearGradient837">
+      <stop
+         id="stop839"
+         style="stop-color:#ff8b36;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop841"
+         style="stop-color:#ffcda9;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="32"
+       y1="12"
+       x2="32"
+       y2="32"
+       id="linearGradient845"
+       xlink:href="#linearGradient837"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.27975,0,0,1.27975,10.238,-8.9557496)" />
+  </defs>
+  <metadata
+     id="metadata31">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="matrix(0.3125,0,0,0.3125,6,6)"
+     id="g865">
+    <g
+       transform="translate(-19.200001,-0.00625129)"
+       id="g1118">
+      <rect
+         width="51.190002"
+         height="51.190002"
+         x="0"
+         y="-19.19375"
+         id="rect863"
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none" />
+      <path
+         d="m 46.071,6.4013 5.119,0 0,25.595 -25.595,0 v -5.119 z"
+         inkscape:connector-curvature="0"
+         id="rect834"
+         style="fill:url(#linearGradient845);fill-opacity:1;stroke:none" />
+      <rect
+         width="5.119"
+         height="7.9881897"
+         x="40.952"
+         y="13.770061"
+         id="rect829"
+         style="opacity:0.4;fill:#ffffff;stroke:none" />
+      <path
+         d="m 29.4688,17.5938 -11.875,11.875 0,0.9375 12.8125,0 0,-12.8125 h -0.9375 z"
+         inkscape:connector-curvature="0"
+         transform="matrix(1.5996876,0,0,1.5996876,0,-19.19375)"
+         id="path827"
+         style="opacity:0.3;fill:none;stroke:#000000;stroke-width:3.20000005;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+  </g>
+</svg>

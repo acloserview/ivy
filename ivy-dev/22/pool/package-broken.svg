@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="22"
+   height="22"
+   id="svg2"
+   inkscape:version="0.48+devel r"
+   sodipodi:docname="package-broken.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="804"
+     inkscape:window-height="480"
+     id="namedview28"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="13.427413"
+     inkscape:cy="12"
+     inkscape:window-x="75"
+     inkscape:window-y="18"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata30">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3799">
+      <stop
+         id="stop3801"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3803"
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient832">
+      <stop
+         id="stop834"
+         style="stop-color:#d02604;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop836"
+         style="stop-color:#fb4622;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="45"
+       y1="3"
+       x2="45"
+       y2="45"
+       id="linearGradient838"
+       xlink:href="#linearGradient832"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5,0,0,0.5,-0.49999988,-1.4999917)" />
+    <radialGradient
+       cx="60.053322"
+       cy="51.392563"
+       r="15.032452"
+       fx="60.053322"
+       fy="51.392563"
+       id="radialGradient3625"
+       xlink:href="#linearGradient3588"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.404511,1.1888571,-1,-1.1813958,145.59411,12.635247)" />
+    <linearGradient
+       id="linearGradient3588">
+      <stop
+         id="stop3590"
+         style="stop-color:#eeeeee;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3592"
+         style="stop-color:#dcdcdc;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="22"
+       y1="3"
+       x2="22"
+       y2="22"
+       id="linearGradient3805"
+       xlink:href="#linearGradient3799"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.99999986,-2)" />
+  </defs>
+  <rect
+     width="21"
+     height="21"
+     rx="2"
+     ry="2"
+     x="1"
+     y="1"
+     id="rect3807"
+     style="opacity:0.1;stroke:none" />
+  <rect
+     width="21"
+     height="21"
+     rx="2"
+     ry="2"
+     x="1"
+     y="6.7055225e-08"
+     id="rect2816"
+     style="fill:url(#linearGradient838);stroke:none" />
+  <g
+     transform="translate(268.63657,78.11585)"
+     id="text3570"
+     style="font-size:6.93857622px;line-height:100%;fill:url(#radialGradient3625)" />
+  <path
+     d="M 3,0.5 C 2.156104,0.5 1.5,1.156104 1.5,2 l 0,17 c 0,0.843896 0.656104,1.5 1.5,1.5 l 17,0 c 0.843896,0 1.5,-0.656104 1.5,-1.5 l 0,-17 C 21.5,1.156104 20.843896,0.5 20,0.5 L 3,0.5 Z"
+     inkscape:connector-curvature="0"
+     id="path3027"
+     style="opacity:0.4;fill:none;stroke:#000000" />
+  <path
+     d="M 3,1.5 C 2.692658,1.5 2.5,1.692658 2.5,2 l 0,17 c 0,0.307342 0.192658,0.5 0.5,0.5 l 17,0 c 0.307342,0 0.5,-0.192658 0.5,-0.5 l 0,-17 C 20.5,1.692658 20.307342,1.5 20,1.5 L 3,1.5 Z"
+     inkscape:connector-curvature="0"
+     id="path3029"
+     style="opacity:0.4;fill:none;stroke:url(#linearGradient3805)" />
+</svg>

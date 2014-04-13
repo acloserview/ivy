@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="48"
+   height="48"
+   id="svg2">
+  <metadata
+     id="metadata35">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5">
+    <linearGradient
+       id="linearGradient833">
+      <stop
+         id="stop835"
+         style="stop-color:#d02604;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop837"
+         style="stop-color:#fc8f7a;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3798">
+      <stop
+         id="stop3800"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3802"
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="43"
+       y1="13"
+       x2="43"
+       y2="30"
+       id="linearGradient3804"
+       xlink:href="#linearGradient3798"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="44"
+       y1="17"
+       x2="44"
+       y2="31"
+       id="linearGradient839"
+       xlink:href="#linearGradient833"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <rect
+     width="40"
+     height="14"
+     x="4"
+     y="18"
+     id="rect834"
+     style="opacity:0.15;stroke:none" />
+  <rect
+     width="40"
+     height="14"
+     x="4"
+     y="17"
+     id="rect3022"
+     style="fill:url(#linearGradient839);stroke:none" />
+  <path
+     d="m 4.4375,17.4375 0,13.125 39.125,0 0,-13.125 H 4.4375 z"
+     inkscape:connector-curvature="0"
+     id="path3026"
+     style="opacity:0.57999998;fill:none;stroke:#000000" />
+  <path
+     d="m 5.5,18.5 0,11 37,0 0,-11 h -37 z"
+     inkscape:connector-curvature="0"
+     id="path3028"
+     style="opacity:0.57999998;fill:none;stroke:url(#linearGradient3804)" />
+</svg>
