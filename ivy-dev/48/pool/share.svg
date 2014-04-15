@@ -8,11 +8,34 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
    width="48"
    height="48"
-   id="svg2">
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="emblem-shared.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview17"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
   <metadata
      id="metadata18">
     <rdf:RDF>
@@ -42,11 +65,11 @@
        id="linearGradient837">
       <stop
          id="stop839"
-         style="stop-color:#5288d1;stop-opacity:1"
+         style="stop-color:#ebebeb;stop-opacity:1"
          offset="0" />
       <stop
          id="stop841"
-         style="stop-color:#8aaee0;stop-opacity:1"
+         style="stop-color:#ffffff;stop-opacity:1"
          offset="1" />
     </linearGradient>
     <linearGradient
