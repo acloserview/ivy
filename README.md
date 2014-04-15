@@ -11,7 +11,7 @@ A very minimalistic but colorful png icon theme for lightweight X11 Desktop Envi
 
 #####Howto create a png icon theme:
 
-**Note:** *you can also use the ivy-dev folder as SVG theme but svg rendering takes longer and it will scale all stuff*
+**Note:** *We make a png theme because it's faster and pixel perfect*
 
 * **`cd ~`**
 * **`git clone https://github.com/sixsixfive/ivy.git`**

@@ -8,42 +8,11 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
    width="48"
    height="48"
-   id="svg2"
-   inkscape:version="0.49+devel r"
-   sodipodi:docname="mime-gamerom.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1334"
-     inkscape:window-height="747"
-     id="namedview41"
-     showgrid="true"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:bbox-paths="true"
-     inkscape:zoom="11.307246"
-     inkscape:cx="27.873297"
-     inkscape:cy="23.545228"
-     inkscape:window-x="32"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
-    <inkscape:grid
-       type="xygrid"
-       id="grid846" />
-  </sodipodi:namedview>
+   id="svg2">
   <metadata
      id="metadata43">
     <rdf:RDF>
@@ -52,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -135,217 +104,217 @@
      id="path4021"
      style="opacity:0.77999998;fill:none;stroke:url(#linearGradient4029)" />
   <rect
-     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:none"
-     id="rect848"
      width="12"
      height="8"
      x="18"
-     y="18" />
+     y="18"
+     id="rect848"
+     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:none" />
   <rect
-     y="14"
-     x="18"
-     height="4"
      width="4"
+     height="4"
+     x="18"
+     y="14"
      id="rect852"
      style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:none" />
   <rect
-     y="11.000006"
-     x="14"
-     height="4"
      width="4"
+     height="4"
+     x="14"
+     y="11.000006"
      id="rect896"
      style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none" />
   <rect
-     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:none"
-     id="rect854"
      width="4"
      height="4"
      x="14"
-     y="10" />
+     y="10"
+     id="rect854"
+     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:none" />
   <rect
-     style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none"
+     width="4"
+     height="4"
+     x="30"
+     y="27.000008"
      id="rect898"
-     width="4"
-     height="4"
-     x="30"
-     y="27.000008" />
+     style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none" />
   <rect
-     y="26"
-     x="30"
-     height="4"
      width="4"
+     height="4"
+     x="30"
+     y="26"
      id="rect864"
      style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:none" />
   <rect
-     y="27.000008"
-     x="22"
-     height="4"
      width="8"
+     height="4"
+     x="22"
+     y="27.000008"
      id="rect900"
      style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none" />
   <rect
-     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:none"
-     id="rect866"
      width="8"
      height="4"
      x="22"
-     y="26" />
+     y="26"
+     id="rect866"
+     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:none" />
   <rect
-     transform="scale(-1,1)"
-     y="27.000008"
-     x="-18"
-     height="4"
      width="4"
+     height="4"
+     x="-18"
+     y="27.000008"
+     transform="scale(-1,1)"
      id="rect902"
      style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none" />
   <rect
-     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:none"
-     id="rect868"
      width="4"
      height="4"
      x="-18"
      y="26"
-     transform="scale(-1,1)" />
-  <rect
      transform="scale(-1,1)"
-     style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none"
+     id="rect868"
+     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:none" />
+  <rect
+     width="4"
+     height="4"
+     x="-22"
+     y="27.000008"
+     transform="scale(-1,1)"
      id="rect904"
+     style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none" />
+  <rect
      width="4"
      height="4"
      x="-22"
-     y="27.000008" />
-  <rect
      y="26"
-     x="-22"
-     height="4"
-     width="4"
-     id="rect870"
-     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:none"
-     transform="scale(-1,1)" />
-  <rect
      transform="scale(-1,1)"
-     style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none"
-     id="rect906"
+     id="rect870"
+     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:none" />
+  <rect
      width="4"
      height="4"
      x="-34"
-     y="11.000006" />
+     y="11.000006"
+     transform="scale(-1,1)"
+     id="rect906"
+     style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none" />
   <rect
-     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:none"
-     id="rect872"
      width="4"
      height="4"
      x="-30"
      y="14"
-     transform="scale(-1,1)" />
+     transform="scale(-1,1)"
+     id="rect872"
+     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:none" />
   <rect
-     style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none"
-     id="rect908"
      width="4"
      height="4"
      x="-14"
      y="31.000008"
-     transform="scale(-1,1)" />
+     transform="scale(-1,1)"
+     id="rect908"
+     style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none" />
   <rect
-     y="10"
+     width="4"
+     height="4"
      x="-34"
-     height="4"
-     width="4"
+     y="10"
+     transform="scale(-1,1)"
      id="rect874"
-     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:none"
-     transform="scale(-1,1)" />
+     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:none" />
   <rect
-     y="31.000008"
-     x="34"
-     height="4"
      width="4"
+     height="4"
+     x="34"
+     y="31.000008"
      id="rect910"
      style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none" />
   <rect
-     style="opacity:0.96520003;fill:#ffffff;fill-opacity:1;stroke:none"
-     id="rect876"
      width="4"
      height="4"
      x="18"
-     y="22" />
+     y="22"
+     id="rect876"
+     style="opacity:0.96520003;fill:#ffffff;fill-opacity:1;stroke:none" />
   <rect
-     style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none"
-     id="rect912"
      width="8"
      height="4"
      x="26"
-     y="35" />
+     y="35"
+     id="rect912"
+     style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none" />
   <rect
-     y="22"
-     x="26"
-     height="4"
      width="4"
+     height="4"
+     x="26"
+     y="22"
      id="rect878"
      style="opacity:0.96520003;fill:#ffffff;fill-opacity:1;stroke:none" />
   <rect
-     y="35"
-     x="14"
-     height="4"
      width="8"
+     height="4"
+     x="14"
+     y="35"
      id="rect914"
      style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none" />
   <rect
-     transform="scale(-1,1)"
-     y="30"
-     x="-14"
-     height="4"
      width="4"
+     height="4"
+     x="-14"
+     y="30"
+     transform="scale(-1,1)"
      id="rect880"
      style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:none" />
   <rect
-     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:none"
-     id="rect882"
      width="4"
      height="4"
      x="-18"
      y="22"
-     transform="scale(-1,1)" />
-  <rect
      transform="scale(-1,1)"
-     y="18"
-     x="-18"
-     height="4"
+     id="rect882"
+     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:none" />
+  <rect
      width="4"
+     height="4"
+     x="-18"
+     y="18"
+     transform="scale(-1,1)"
      id="rect884"
      style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:none" />
   <rect
-     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:none"
-     id="rect886"
      width="4"
      height="4"
      x="34"
-     y="30" />
+     y="30"
+     id="rect886"
+     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:none" />
   <rect
-     y="22"
-     x="30"
-     height="4"
      width="4"
+     height="4"
+     x="30"
+     y="22"
      id="rect888"
      style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:none" />
   <rect
-     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:none"
-     id="rect890"
      width="4"
      height="4"
      x="30"
-     y="18" />
+     y="18"
+     id="rect890"
+     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:none" />
   <rect
-     y="34"
-     x="26"
-     height="4"
      width="8"
+     height="4"
+     x="26"
+     y="34"
      id="rect892"
      style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:none" />
   <rect
-     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:none"
-     id="rect894"
      width="8"
      height="4"
      x="14"
-     y="34" />
+     y="34"
+     id="rect894"
+     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:none" />
 </svg>

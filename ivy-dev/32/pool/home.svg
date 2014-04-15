@@ -1,30 +1,91 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="32" height="32" id="svg2">
-<metadata id="metadata23">
-<rdf:RDF>
-<cc:Work rdf:about="">
-<dc:format>image/svg+xml</dc:format>
-<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-<dc:title></dc:title>
-</cc:Work>
-</rdf:RDF>
-</metadata>
-<defs id="defs6">
-<linearGradient id="linearGradient3776">
-<stop id="stop3778" style="stop-color:white;stop-opacity:1" offset="0" />
-<stop id="stop3780" style="stop-color:white;stop-opacity:0" offset="1" />
-</linearGradient>
-<linearGradient id="linearGradient878">
-<stop id="stop880" style="stop-color:#5288d1;stop-opacity:1" offset="0" />
-<stop id="stop882" style="stop-color:#6f9bd9;stop-opacity:1" offset="1" />
-</linearGradient>
-<radialGradient cx="24" cy="50.26754" r="23" fx="24" fy="50.26754" id="radialGradient884" xlink:href="#linearGradient878" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.66666667,0,0,0.58695651,0.5833333,2.4222143)" />
-<linearGradient x1="31" y1="5" x2="31" y2="30" id="linearGradient3782" xlink:href="#linearGradient3776" gradientUnits="userSpaceOnUse" />
-</defs>
-<path d="m 16.583333,4 -15.333666,17 4.75,0 L 6,31 l 21.166666,0 -3.33e-4,-10 4.75,0 L 26,13.384356 26.000334,6.0001689 20,6 c 0.02445,0.8171179 0,0 0,1.4586192 z" id="path3784" style="opacity:0.15;fill:black;stroke:none" />
-<path d="m 16.583333,3 -15.333666,17 4.75,0 L 6,30 l 21.166666,0 -3.33e-4,-10 4.75,0 L 26,12.384356 26.000334,5.0001689 20,5 c 0.02445,0.8171179 0,0 0,1.4586192 z" id="rect2823" style="fill:url(#radialGradient884);stroke:none" />
-<path d="M 16.59375,3.75 2.40625,19.46875 6,19.46875 A 0.51956526,0.51956526 0 0 1 6.53125,20 l 0,9.46875 20.09375,0 0,-9.46875 a 0.51956526,0.51956526 0 0 1 0.53125,-0.53125 l 3.6875,0 -5.25,-6.78125 a 0.51956526,0.51956526 0 0 1 -0.125,-0.3125 l 0,-6.84375 -4.9375,0 c -7.79e-4,0.1022598 0,0.010172 0,0.9375 A 0.51956526,0.51956526 0 0 1 19.625,6.84375 L 16.59375,3.75 z" id="path3004" style="opacity:0.4;fill:none;stroke:black" />
-<path d="M 16.65625,5.25 4.75,18.4375 l 1.25,0 A 1.5524144,1.5524144 0 0 1 7.5625,20 l 0,8.4375 18.03125,0 0,-8.4375 a 1.5524144,1.5524144 0 0 1 1.5625,-1.5625 l 1.59375,0 -3.96875,-5.125 A 1.5524144,1.5524144 0 0 1 24.4375,12.375 l 0,-5.8125 -2.90625,0 a 1.5524144,1.5524144 0 0 1 -2.625,1 l -2.25,-2.3125 z" id="path3006" style="opacity:0.4;fill:none;stroke:url(#linearGradient3782)" />
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="32"
+   height="32"
+   id="svg2">
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <linearGradient
+       id="linearGradient3776">
+      <stop
+         id="stop3778"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3780"
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient878">
+      <stop
+         id="stop880"
+         style="stop-color:#5288d1;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop882"
+         style="stop-color:#6f9bd9;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       cx="24"
+       cy="50.26754"
+       r="23"
+       fx="24"
+       fy="50.26754"
+       id="radialGradient884"
+       xlink:href="#linearGradient878"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.66666667,0,0,0.58695651,0.5833333,2.4222143)" />
+    <linearGradient
+       x1="31"
+       y1="5"
+       x2="31"
+       y2="30"
+       id="linearGradient3782"
+       xlink:href="#linearGradient3776"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <path
+     d="m 16.583333,4 -15.333666,17 4.75,0 L 6,31 l 21.166666,0 -3.33e-4,-10 4.75,0 L 26,13.384356 26.000334,6.0001689 20,6 c 0.02445,0.8171179 0,0 0,1.4586192 z"
+     inkscape:connector-curvature="0"
+     id="path3784"
+     style="opacity:0.15;fill:#000000;stroke:none" />
+  <path
+     d="m 16.583333,3 -15.333666,17 4.75,0 L 6,30 l 21.166666,0 -3.33e-4,-10 4.75,0 L 26,12.384356 26.000334,5.0001689 20,5 c 0.02445,0.8171179 0,0 0,1.4586192 z"
+     inkscape:connector-curvature="0"
+     id="rect2823"
+     style="fill:url(#radialGradient884);stroke:none" />
+  <path
+     d="M 16.59375,3.75 2.40625,19.46875 6,19.46875 A 0.51956526,0.51956526 0 0 1 6.53125,20 l 0,9.46875 20.09375,0 0,-9.46875 a 0.51956526,0.51956526 0 0 1 0.53125,-0.53125 l 3.6875,0 -5.25,-6.78125 a 0.51956526,0.51956526 0 0 1 -0.125,-0.3125 l 0,-6.84375 -4.9375,0 c -7.79e-4,0.1022598 0,0.010172 0,0.9375 A 0.51956526,0.51956526 0 0 1 19.625,6.84375 L 16.59375,3.75 z"
+     inkscape:connector-curvature="0"
+     id="path3004"
+     style="opacity:0.4;fill:none;stroke:#000000" />
+  <path
+     d="M 16.65625,5.25 4.75,18.4375 l 1.25,0 A 1.5524144,1.5524144 0 0 1 7.5625,20 l 0,8.4375 18.03125,0 0,-8.4375 a 1.5524144,1.5524144 0 0 1 1.5625,-1.5625 l 1.59375,0 -3.96875,-5.125 A 1.5524144,1.5524144 0 0 1 24.4375,12.375 l 0,-5.8125 -2.90625,0 a 1.5524144,1.5524144 0 0 1 -2.625,1 l -2.25,-2.3125 z"
+     inkscape:connector-curvature="0"
+     id="path3006"
+     style="opacity:0.4;fill:none;stroke:url(#linearGradient3782)" />
 </svg>

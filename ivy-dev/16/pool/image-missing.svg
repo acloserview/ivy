@@ -7,46 +7,11 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
    width="16"
    height="16"
-   id="svg6361"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="image-missing.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1162"
-     inkscape:window-height="656"
-     id="namedview7"
-     showgrid="true"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-paths="true"
-     inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:zoom="21.086546"
-     inkscape:cx="21.028715"
-     inkscape:cy="7.4848559"
-     inkscape:window-x="32"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg6361">
-    <inkscape:grid
-       type="xygrid"
-       id="grid2984"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true" />
-  </sodipodi:namedview>
+   id="svg6361">
   <defs
      id="defs3" />
   <metadata
@@ -64,8 +29,7 @@
      d="M 8.2721187,9.1362692e-4 C 6.6249717,0.02155595 5.0650957,0.50049395 3.8943827,1.2480418 c -1.170712,0.7475461 -1.973649,1.5804544 -1.960386,2.7058055 0.0092,0.8024064 0.693753,1.4020604 1.544225,1.3913917 0.913442,-0.011472 1.731618,-0.7106729 1.721701,-1.5515876 -7.55e-4,-0.063481 -3e-5,-0.1459876 -0.02373,-0.2182752 C 5.1525027,3.5031422 5.1048327,3.420391 5.0451437,3.259113 4.9932037,3.1338575 4.9559637,3.0916393 4.9553337,3.0428891 4.9499337,2.6555129 5.2337127,2.2739066 5.8125457,1.959146 6.3913897,1.644386 7.039146,1.0120576 8,1 8.8855168,0.988974 9.7609255,1.5930448 10.204586,1.9239217 10.648241,2.2547863 10.992449,3.3598236 11,4 c 0.0079,0.7436444 -0.332125,0.866491 -0.774472,1.50024 -0.0044,0.00513 0.0044,0.014813 2.33e-4,0.019875 -0.4621485,0.6328972 -0.7722095,0.665451 -1.8921513,1.2941968 -1.321831,0.7332347 -2.081284,1.3919344 -2.566853,2.0601572 -0.48556,0.6682234 -0.633289,1.475791 -0.794634,2.791756 -0.02091,0.168768 0.140848,0.336286 0.322227,0.333746 l 1.060831,-0.01329 c 0.153174,-0.0014 0.295587,-0.119948 0.315201,-0.262264 0.124967,-0.981854 0.367548,-1.613928 0.824049,-2.0966803 0.456503,-0.4827545 1.156942,-0.8557953 2.2990088,-1.1812979 0.0081,1.307e-4 0.01408,4.17e-5 0.02129,-2.659e-4 1.2854645,-0.3964535 2.0329125,-0.7822431 2.7829985,-1.5251604 1.55e-4,-0.00656 7.6e-5,-0.013259 -2.35e-4,-0.019877 C 13.522814,5.9665916 14.079689,4.8317521 14.065916,3.66379 14.052616,2.5412901 13.411863,1.5777523 12.378715,0.94290401 11.345551,0.30806124 9.9275265,-0.01984118 8.2722247,9.2905966e-4 z"
      inkscape:connector-curvature="0"
      id="path2860"
-     style="font-size:34.52774811px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:0.5;fill:#6a6a6a;fill-opacity:1;stroke:none;font-family:URW Bookman L;-inkscape-font-specification:URW Bookman L Italic"
-     sodipodi:nodetypes="csccccccscsccccsccccscccccscc" />
+     style="font-size:34.52774811px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:0.5;fill:#6a6a6a;fill-opacity:1;stroke:none;font-family:URW Bookman L;-inkscape-font-specification:URW Bookman L Italic" />
   <path
      d="m 6.2666209,13.000124 c -1.2558764,0.01257 -2.2804648,0.838953 -2.2664794,1.785913 0.00595,0.351692 0.1711583,0.675403 0.48067,0.893437 0.3095137,0.218026 0.7512015,0.325162 1.2290844,0.320378 1.2279364,-0.01232 2.3034237,-0.793299 2.2899794,-1.702983 C 7.988959,13.5591 7.2393929,12.990385 6.266622,13.000123 z"
      inkscape:connector-curvature="0"

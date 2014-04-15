@@ -8,6 +8,7 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="16"
    height="16"
@@ -61,7 +62,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -80,7 +81,8 @@
      id="rect856"
      style="fill:url(#linearGradient1044);fill-opacity:1;stroke:none" />
   <path
-     d="m 1.5625,1.5625 0,12.875 12.875,0 0,-12.875 L 1.5625,1.5625 Z"
+     d="m 1.5625,1.5625 0,12.875 12.875,0 0,-12.875 -12.875,0 z"
+     inkscape:connector-curvature="0"
      id="path33"
      style="opacity:0.4;fill:none;stroke:#000000" />
   <g
@@ -88,7 +90,8 @@
      id="g2851"
      style="fill:#ffffff">
     <path
-       d="M 28.678,23.3898 12.0273,32.5963 12.3796,13.5731 28.678,23.3898 Z"
+       d="M 28.678,23.3898 12.0273,32.5963 12.3796,13.5731 28.678,23.3898 z"
+       inkscape:connector-curvature="0"
        transform="matrix(0.99984261,-0.01774122,0.01774122,0.99984261,5.4919568,2.3986116)"
        id="path2847"
        style="fill:#ffffff;fill-opacity:1;stroke:none" />
@@ -129,7 +132,8 @@
      id="rect35"
      style="opacity:0.4;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
   <path
-     d="m 2.5625,2.5625 0,10.875 10.875,0 0,-10.875 L 2.5625,2.5625 Z"
+     d="m 2.5625,2.5625 0,10.875 10.875,0 0,-10.875 -10.875,0 z"
+     inkscape:connector-curvature="0"
      transform="matrix(1.0055055,0,0,0.99975836,-0.01279391,0.0019331)"
      id="path30"
      style="opacity:0.2;fill:none;stroke:url(#linearGradient846)" />

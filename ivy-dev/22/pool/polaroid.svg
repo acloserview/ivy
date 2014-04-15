@@ -8,36 +8,11 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
    width="48"
    height="48"
-   id="svg2"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="polaroid.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview39"
-     showgrid="false"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="24"
-     inkscape:cy="24.20339"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2" />
+   id="svg2">
   <metadata
      id="metadata22">
     <rdf:RDF>
@@ -85,45 +60,6 @@
          style="stop-color:#ffffff;stop-opacity:0"
          offset="1" />
     </linearGradient>
-    <linearGradient
-       id="linearGradient4023">
-      <stop
-         id="stop4025"
-         style="stop-color:#ffffff;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop4027"
-         style="stop-color:#ffffff;stop-opacity:0"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient919">
-      <stop
-         id="stop921"
-         style="stop-color:#dedede;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop923"
-         style="stop-color:#f4f4f4;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       x1="41"
-       y1="3"
-       x2="41"
-       y2="44"
-       id="linearGradient4015"
-       xlink:href="#linearGradient919"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,0.92414495,0,3.3376223)" />
-    <linearGradient
-       x1="40"
-       y1="3"
-       x2="39.90625"
-       y2="42.96875"
-       id="linearGradient4029"
-       xlink:href="#linearGradient4023"
-       gradientUnits="userSpaceOnUse" />
     <linearGradient
        x1="44"
        y1="4"
@@ -183,14 +119,17 @@
      style="fill:url(#radialGradient3822);fill-opacity:1;stroke:none" />
   <path
      d="m 3.53125,3.53125 0,40.9375 40.9375,0 0,-40.9375 -40.9375,0 z"
+     inkscape:connector-curvature="0"
      id="path3771"
      style="opacity:0.4;fill:none;stroke:#000000" />
   <path
      d="m 4.5,4.5 0,39 39,0 0,-39 -39,0 z"
+     inkscape:connector-curvature="0"
      id="path3773"
      style="fill:none;stroke:url(#linearGradient3781)" />
   <path
      d="m 7.53125,7.53125 0,27.9375 32.9375,0 0,-27.9375 -32.9375,0 z"
+     inkscape:connector-curvature="0"
      id="path3795"
      style="fill:none;stroke:#000000" />
   <rect
@@ -203,17 +142,20 @@
   <g
      transform="scale(1.0126344,0.98752324)"
      id="text3801"
-     style="font-size:22.86327933999999829px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ebebeb;fill-opacity:1;stroke:none;font-family:Sans">
+     style="font-size:22.86327934px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ebebeb;fill-opacity:1;stroke:none;font-family:Sans">
     <path
        d="m 18.762941,11.138978 c -2.324154,2.873196 -4.937616,6.075807 -4.937616,10.126344 0,5.063172 2.613893,7.616652 4.937616,10.236265 l -2.753878,0 c -2.733133,-2.85132 -5.109125,-6.365271 -5.146307,-10.192468 0.202463,-4.178415 2.621837,-7.587957 5.146307,-10.170141 l 2.753878,0"
+       inkscape:connector-curvature="0"
        id="path3806"
        style="fill:#ebebeb" />
     <path
        d="m 21.725511,16.202151 14.812849,0 0,3.037903 -14.812849,0 0,-3.037903"
+       inkscape:connector-curvature="0"
        id="path3812"
        style="fill:#ebebeb" />
     <path
        d="m 21.725511,22.277957 14.812849,0 0,3.037903 -14.812849,0 0,-3.037903"
+       inkscape:connector-curvature="0"
        id="path3814"
        style="fill:#ebebeb" />
   </g>

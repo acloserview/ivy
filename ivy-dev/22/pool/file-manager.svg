@@ -8,6 +8,7 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="48"
    height="48"
@@ -102,7 +103,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -110,7 +111,8 @@
      transform="translate(0,-1004.3622)"
      id="layer1">
     <path
-       d="m 10,1011.3622 -5,5 0,32 38,0 0,-32 -5,-5 L 10,1011.3622 Z"
+       d="m 10,1011.3622 -5,5 0,32 38,0 0,-32 -5,-5 -28,0 z"
+       inkscape:connector-curvature="0"
        id="rect888"
        style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none" />
     <rect
@@ -121,7 +123,8 @@
        id="rect812"
        style="fill:url(#radialGradient844);fill-opacity:1;stroke:none" />
     <path
-       d="m 10,1010.3622 28,0 5,5 L 5,1015.3622 Z"
+       d="m 10,1010.3622 28,0 5,5 -38,0 z"
+       inkscape:connector-curvature="0"
        id="rect814"
        style="fill:url(#linearGradient836);fill-opacity:1;stroke:none" />
     <rect
@@ -146,7 +149,8 @@
        id="rect821"
        style="fill:#e4ae4e;fill-opacity:1;stroke:none" />
     <path
-       d="m 10.21875,6.53125 -4.6875,4.6875 0,31.25 36.9375,0 0,-31.25 -4.6875,-4.6875 L 10.21875,6.53125 Z"
+       d="m 10.21875,6.53125 -4.6875,4.6875 0,31.25 36.9375,0 0,-31.25 -4.6875,-4.6875 -27.5625,0 z"
+       inkscape:connector-curvature="0"
        transform="translate(0,1004.3622)"
        id="path828"
        style="opacity:0.4;fill:none;stroke:#000000" />
@@ -172,7 +176,8 @@
        id="rect850"
        style="opacity:0.4;fill:#ffffff;fill-opacity:1;stroke:none" />
     <path
-       d="m 9.40625,1019.7812 0,23.1876 29.1875,0 0,-23.1876 L 9.40625,1019.7812 Z"
+       d="m 9.40625,1019.7812 0,23.1876 29.1875,0 0,-23.1876 -29.1875,0 z"
+       inkscape:connector-curvature="0"
        id="path854"
        style="opacity:0.2;fill:none;stroke:#000000" />
     <rect
@@ -184,7 +189,8 @@
        id="rect864"
        style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none" />
     <path
-       d="m 17.53125,1025.9062 0,3.9376 12.9375,0 0,-3.9376 L 17.53125,1025.9062 Z"
+       d="m 17.53125,1025.9062 0,3.9376 12.9375,0 0,-3.9376 -12.9375,0 z"
+       inkscape:connector-curvature="0"
        id="path884"
        style="opacity:0.4;fill:none;stroke:#000000" />
     <rect

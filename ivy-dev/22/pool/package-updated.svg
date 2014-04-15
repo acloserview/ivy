@@ -8,34 +8,11 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="22"
    height="22"
-   id="svg2"
-   inkscape:version="0.48+devel r"
-   sodipodi:docname="package-updated.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="804"
-     inkscape:window-height="480"
-     id="namedview28"
-     showgrid="false"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="13.427413"
-     inkscape:cy="12"
-     inkscape:window-x="145"
-     inkscape:window-y="20"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2" />
+   id="svg2">
   <metadata
      id="metadata30">
     <rdf:RDF>
@@ -44,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -135,12 +112,12 @@
      id="text3570"
      style="font-size:6.93857622px;line-height:100%;fill:url(#radialGradient3625)" />
   <path
-     d="M 3,0.5 C 2.156104,0.5 1.5,1.156104 1.5,2 l 0,17 c 0,0.843896 0.656104,1.5 1.5,1.5 l 17,0 c 0.843896,0 1.5,-0.656104 1.5,-1.5 l 0,-17 C 21.5,1.156104 20.843896,0.5 20,0.5 L 3,0.5 Z"
+     d="M 3,0.5 C 2.156104,0.5 1.5,1.156104 1.5,2 l 0,17 c 0,0.843896 0.656104,1.5 1.5,1.5 l 17,0 c 0.843896,0 1.5,-0.656104 1.5,-1.5 l 0,-17 C 21.5,1.156104 20.843896,0.5 20,0.5 l -17,0 z"
      inkscape:connector-curvature="0"
      id="path3027"
      style="opacity:0.4;fill:none;stroke:#000000" />
   <path
-     d="M 3,1.5 C 2.692658,1.5 2.5,1.692658 2.5,2 l 0,17 c 0,0.307342 0.192658,0.5 0.5,0.5 l 17,0 c 0.307342,0 0.5,-0.192658 0.5,-0.5 l 0,-17 C 20.5,1.692658 20.307342,1.5 20,1.5 L 3,1.5 Z"
+     d="M 3,1.5 C 2.692658,1.5 2.5,1.692658 2.5,2 l 0,17 c 0,0.307342 0.192658,0.5 0.5,0.5 l 17,0 c 0.307342,0 0.5,-0.192658 0.5,-0.5 l 0,-17 C 20.5,1.692658 20.307342,1.5 20,1.5 l -17,0 z"
      inkscape:connector-curvature="0"
      id="path3029"
      style="opacity:0.4;fill:none;stroke:url(#linearGradient3805)" />

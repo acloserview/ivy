@@ -8,38 +8,11 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="16"
    height="16"
-   id="svg2"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="music.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1135"
-     inkscape:window-height="680"
-     id="namedview22"
-     showgrid="true"
-     inkscape:zoom="31.621815"
-     inkscape:cx="8.0006788"
-     inkscape:cy="8.0006788"
-     inkscape:window-x="32"
-     inkscape:window-y="7"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2">
-    <inkscape:grid
-       type="xygrid"
-       id="grid2999" />
-  </sodipodi:namedview>
+   id="svg2">
   <defs
      id="defs6">
     <linearGradient
@@ -146,8 +119,8 @@
      id="path836"
      style="opacity:0.51999996;fill:none;stroke:url(#linearGradient3597);stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
   <path
-     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.1494;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
      d="m 4.71875,9.09375 c -1.1451282,0.2043008 -2.2218951,0.8960399 -3.125,2.25 l 0.8125,0.5625 c 0.790222,-1.184723 1.6169043,-1.654948 2.5,-1.8125 0.8830957,-0.1575519 1.8732303,0.0285 2.9375,0.375 l 0.3125,-0.9375 C 7.0267422,9.1635071 5.8638782,8.8894492 4.71875,9.09375 z"
+     inkscape:connector-curvature="0"
      id="path3003"
-     inkscape:connector-curvature="0" />
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.1494;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
 </svg>

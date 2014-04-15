@@ -7,7 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="22"
    height="22"
@@ -20,53 +20,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs6">
-    <linearGradient
-       id="linearGradient3791">
-      <stop
-         id="stop3793"
-         style="stop-color:#ffffff;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop3795"
-         style="stop-color:#ffffff;stop-opacity:0"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient3648">
-      <stop
-         id="stop3650"
-         style="stop-color:#dddddd;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop3652"
-         style="stop-color:#ffffff;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       x1="44"
-       y1="43"
-       x2="43.91153"
-       y2="-1.0159998"
-       id="linearGradient3027"
-       xlink:href="#linearGradient3648"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.49999998,0,0,0.5,-0.99999981,-1.5)" />
-    <linearGradient
-       x1="21"
-       y1="4"
-       x2="21"
-       y2="21"
-       id="linearGradient3797"
-       xlink:href="#linearGradient3791"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-0.99999986,-2)" />
-  </defs>
+     id="defs6" />
   <rect
      width="20"
      height="6"
@@ -125,6 +84,7 @@
      style="color:#000000;fill:#c1c1c1;fill-rule:evenodd;stroke:none" />
   <path
      d="m 1.5,1.5 0,5 19,0 0,-5 -19,0 z"
+     inkscape:connector-curvature="0"
      id="path3005"
      style="opacity:0.4;fill:none;stroke:#000000" />
   <rect

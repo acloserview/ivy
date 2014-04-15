@@ -8,34 +8,11 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="22"
    height="22"
-   id="svg2"
-   inkscape:version="0.48+devel r"
-   sodipodi:docname="system-log-out.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1323"
-     inkscape:window-height="746"
-     id="namedview32"
-     showgrid="false"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="12"
-     inkscape:cy="12"
-     inkscape:window-x="43"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+   id="svg2">
   <metadata
      id="metadata49">
     <rdf:RDF>
@@ -44,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -169,12 +146,12 @@
        id="g3635-5-8" />
   </g>
   <path
-     d="m 12,2.9999999 0,4 7,0 1e-6,5.9130451 -7.103347,0.04348 L 4,11 4,9.9999999 Z"
+     d="m 12,2.9999999 0,4 7,0 1e-6,5.9130451 -7.103347,0.04348 L 4,11 4,9.9999999 z"
      inkscape:connector-curvature="0"
      id="path3289"
      style="opacity:0.4;stroke:none" />
   <path
-     d="m 12,3.9999999 0,4 7,0 L 19,13.913 12,14 12,18 4,11 Z"
+     d="m 12,3.9999999 0,4 7,0 L 19,13.913 12,14 12,18 4,11 z"
      inkscape:connector-curvature="0"
      id="rect2849"
      style="fill:#ffffff;stroke:none" />

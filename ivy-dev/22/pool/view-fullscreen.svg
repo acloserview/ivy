@@ -8,34 +8,11 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="22"
    height="22"
-   id="svg2"
-   inkscape:version="0.49+devel r"
-   sodipodi:docname="view-fullscreen.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview21"
-     showgrid="false"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="12"
-     inkscape:cy="12"
-     inkscape:window-x="32"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2" />
+   id="svg2">
   <metadata
      id="metadata23">
     <rdf:RDF>
@@ -44,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -106,32 +83,32 @@
      id="rect2852"
      style="fill:url(#linearGradient3027);stroke:none" />
   <path
-     d="m 1.5,1.5 0,18 19,0 0,-18 L 1.5,1.5 Z"
+     d="m 1.5,1.5 0,18 19,0 0,-18 -19,0 z"
      inkscape:connector-curvature="0"
      id="path3019"
      style="opacity:0.4;fill:none;stroke:#000000" />
   <path
-     d="m 2.5,2.5 0,16 17,0 0,-16 L 2.5,2.5 Z"
+     d="m 2.5,2.5 0,16 17,0 0,-16 -17,0 z"
      inkscape:connector-curvature="0"
      id="path3021"
      style="opacity:0.4;fill:none;stroke:url(#linearGradient3797)" />
   <path
-     d="M 3,3 3,8 8,3 Z"
+     d="M 3,3 3,8 8,3 z"
      inkscape:connector-curvature="0"
      id="path3009"
      style="fill:#6a6a6a;stroke:none" />
   <path
-     d="M 19,3 14,3 19,8 Z"
+     d="m 19,3 -5,0 5,5 z"
      inkscape:connector-curvature="0"
      id="path3011"
      style="fill:#6a6a6a;stroke:none" />
   <path
-     d="M 19,18 19,13 14,18 Z"
+     d="m 19,18 0,-5 -5,5 z"
      inkscape:connector-curvature="0"
      id="path3013"
      style="fill:#6a6a6a;stroke:none" />
   <path
-     d="M 3,18 8,18 3,13 Z"
+     d="M 3,18 8,18 3,13 z"
      inkscape:connector-curvature="0"
      id="path3015"
      style="fill:#6a6a6a;stroke:none" />

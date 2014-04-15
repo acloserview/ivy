@@ -8,38 +8,11 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="22"
    height="22"
-   id="svg2"
-   inkscape:version="0.49+devel r"
-   sodipodi:docname="terminal.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview38"
-     showgrid="true"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="15.814749"
-     inkscape:cy="12"
-     inkscape:window-x="32"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2">
-    <inkscape:grid
-       type="xygrid"
-       id="grid40" />
-  </sodipodi:namedview>
+   id="svg2">
   <metadata
      id="metadata50">
     <rdf:RDF>
@@ -48,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -90,7 +63,7 @@
      id="rect3803"
      style="opacity:0.1;stroke:none" />
   <path
-     d="m 2.5,2.5 0,16 17,0 0,-16 L 2.5,2.5 Z"
+     d="m 2.5,2.5 0,16 17,0 0,-16 -17,0 z"
      inkscape:connector-curvature="0"
      id="path3021"
      style="opacity:0.4;fill:none;stroke:url(#linearGradient3797)" />
@@ -109,7 +82,7 @@
      id="rect3023"
      style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
   <path
-     d="m 1.5,1.5 0,18 19,0 0,-18 L 1.5,1.5 Z"
+     d="m 1.5,1.5 0,18 19,0 0,-18 -19,0 z"
      inkscape:connector-curvature="0"
      id="path3019"
      style="opacity:0.4;fill:none;stroke:#000000" />
@@ -134,8 +107,7 @@
      y="8.3900633"
      id="text4006"
      xml:space="preserve"
-     style="font-size:40px;line-height:125%;letter-spacing:0;word-spacing:0;fill:#ffffff;stroke:none;font-family:Sans"
-     sodipodi:linespacing="125%"><tspan
+     style="font-size:40px;line-height:125%;letter-spacing:0;word-spacing:0;fill:#ffffff;stroke:none;font-family:Sans"><tspan
        x="29.786743"
        y="8.3900633"
        id="tspan4008" /></text>

@@ -8,6 +8,7 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="16"
    height="16"
@@ -65,7 +66,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -79,18 +80,22 @@
      style="fill:url(#radialGradient3034);fill-opacity:1;stroke:none" />
   <path
      d="m 7.1085307,0.99987634 1.3808184,0 c 0.5000802,0 0.7565905,0.37613336 0.902671,0.80002006 L 12.976018,12.199981 C 13.122097,12.623867 12.573426,13 12.073347,13 L 3.92277,13 C 3.4226906,13 2.8890722,12.627715 3.0200997,12.199981 L 6.2058604,1.7998964 C 6.3368874,1.3721626 6.6084514,0.99987634 7.1085307,0.99987634 z"
+     inkscape:connector-curvature="0"
      id="rect814"
      style="fill:url(#radialGradient3031);fill-opacity:1;stroke:none" />
   <path
      d="m 5.59375,4 -0.65625,2.03125 5.90625,0 L 10.125,4 5.59375,4 z"
+     inkscape:connector-curvature="0"
      id="rect4006"
      style="fill:#ebebeb;fill-opacity:1;stroke:none" />
   <path
      d="m 4.3125,8 -0.59375,2 8.5,0 -0.6875,-2 -7.21875,0 z"
+     inkscape:connector-curvature="0"
      id="rect4008"
      style="fill:#ebebeb;fill-opacity:1;stroke:none" />
   <path
      d="M 7.09375,1.46875 C 6.9671214,1.46875 6.939785,1.4931772 6.875,1.5625 6.810215,1.6318228 6.7403588,1.7961939 6.6875,1.96875 l -3.125,10.1875 a 0.48123877,0.48123877 0 0 1 -0.46875,0.3125 l -1.40625,0 c -0.1267644,0 -0.1875,0.06074 -0.1875,0.1875 l 0,1.6875 c 0,0.126764 0.087687,0.21875 0.1875,0.21875 l 12.59375,0 c 0.09981,0 0.21875,-0.118938 0.21875,-0.21875 l 0,-1.6875 c 0,-0.09981 -0.09199,-0.1875 -0.21875,-0.1875 l -1.375,0 a 0.48123877,0.48123877 0 0 1 -0.46875,-0.3125 l -3.5,-10.1875 C 8.8783631,1.7971504 8.8224753,1.6683861 8.75,1.59375 8.6775247,1.5191139 8.6253954,1.46875 8.5,1.46875 l -1.40625,0 z"
+     inkscape:connector-curvature="0"
      id="path3053"
      style="opacity:0.4;fill:none;stroke:#000000" />
   <rect

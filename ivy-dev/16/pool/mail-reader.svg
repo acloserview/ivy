@@ -8,42 +8,11 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
    width="16"
    height="16"
-   id="svg6361"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="mail-reader.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="651"
-     inkscape:window-height="480"
-     id="namedview18"
-     showgrid="true"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-paths="true"
-     inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:zoom="14.75"
-     inkscape:cx="8"
-     inkscape:cy="8"
-     inkscape:window-x="32"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg6361">
-    <inkscape:grid
-       type="xygrid"
-       id="grid2997" />
-  </sodipodi:namedview>
+   id="svg6361">
   <defs
      id="defs3">
     <linearGradient
@@ -111,7 +80,7 @@
      d="M 8,0.625 C 3.92775,0.625 0.625,3.92775 0.625,8 c 0,4.07225 3.30275,7.375 7.375,7.375 4.07225,0 7.375,-3.30275 7.375,-7.375 C 15.375,3.92775 12.07225,0.625 8,0.625 z"
      inkscape:connector-curvature="0"
      id="path833"
-     style="opacity:0.54;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+     style="opacity:0.54000005;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
   <path
      d="M 8,1.625 C 4.45743,1.625 1.625,4.45743 1.625,8 c 0,3.54257 2.83243,6.375 6.375,6.375 3.54257,0 6.375,-2.83243 6.375,-6.375 C 14.375,4.45743 11.54257,1.625 8,1.625 z"
      inkscape:connector-curvature="0"
@@ -123,10 +92,10 @@
      id="rect3772"
      style="fill:#ffffff;fill-opacity:1;stroke:none" />
   <rect
-     style="fill:#ffffff;fill-rule:evenodd;stroke:none"
-     id="rect2995"
      width="1"
      height="1"
      x="8"
-     y="8" />
+     y="8"
+     id="rect2995"
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none" />
 </svg>

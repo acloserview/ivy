@@ -8,34 +8,11 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
    width="22"
    height="22"
-   id="svg2"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="object-rotate-left.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="876"
-     inkscape:window-height="480"
-     id="namedview24"
-     showgrid="false"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="12"
-     inkscape:cy="12"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2" />
+   id="svg2">
   <metadata
      id="metadata26">
     <rdf:RDF>
@@ -135,7 +112,7 @@
      d="m 1.2181,12.5 2.7476,0 a 0.515913,0.516361 0 0 0 0.530789,-0.53125 v -7.5 A 0.515913,0.516361 0 0 0 4.4652661,4.4375 c -0.0053,-0.06796 -0.0044,-0.112751 0,-0.15625 a 0.515913,0.516361 0 0 0 0,-0.09375 c -0.0014,-0.017722 0.031223,-0.114977 0.031223,-0.21875 0,-0.632794 0.370391,-1.24773 0.96791,-1.71875 0.597518,-0.471018 1.3898,-0.75 2.09193,-0.75 h 2.9661799 9.9601 v 4.9375 h -2.49783 -7.02515 A 0.515913,0.516361 0 0 0 10.42884,6.96875 v 5 A 0.515913,0.516361 0 0 0 10.959629,12.5 h 2.87251 l -6.3069999,6.7188 -6.307,-6.7188 z"
      inkscape:connector-curvature="0"
      id="path3024"
-     style="opacity:0.4;fill:none;stroke:black" />
+     style="opacity:0.4;fill:none;stroke:#000000" />
   <path
      d="m 3.5911,13.5 0.3747,0 a 1.53708,1.53842 0 0 0 1.52992,-1.53125 v -7.5 a 1.53708,1.53842 0 0 0 0,-0.09375 1.53708,1.53842 0 0 0 0,-0.28125 c 0.00749,0.0985 0,0.029847 0,-0.125 0,-0.240476 0.174576,-0.576226 0.593235,-0.90625 C 6.507614,2.732476 7.125425,2.5 7.556435,2.5 h 2.96618 8.96097 v 2.9375 h -1.4987 -7.02515 a 1.53708,1.53842 0 0 0 -1.52992,1.53125 v 5 A 1.53708,1.53842 0 0 0 10.959735,13.5 h 0.499567 l -3.9341,4.2188 -3.9341,-4.2188 z"
      inkscape:connector-curvature="0"

@@ -8,34 +8,11 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
    width="22"
    height="22"
-   id="svg2"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="object-rotate-right.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="876"
-     inkscape:window-height="480"
-     id="namedview24"
-     showgrid="false"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="12"
-     inkscape:cy="12"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2" />
+   id="svg2">
   <metadata
      id="metadata26">
     <rdf:RDF>
@@ -135,7 +112,7 @@
      d="m 20.7808,12.5 -2.75,0 a 0.516361,0.516361 0 0 1 -0.53125,-0.53125 v -7.5 A 0.516361,0.516361 0 0 1 17.5308,4.4375 c 0.0053,-0.06796 0.0044,-0.112751 0,-0.15625 a 0.516361,0.516361 0 0 1 0,-0.09375 C 17.5322,4.169778 17.49955,4.072523 17.49955,3.96875 17.49955,3.335956 17.128837,2.72102 16.5308,2.25 15.932763,1.778982 15.13979,1.5 14.43705,1.5 H 11.4683 1.49955 v 4.9375 h 2.5 7.03125 a 0.516361,0.516361 0 0 1 0.53125,0.53125 v 5 A 0.516361,0.516361 0 0 1 11.0308,12.5 h -2.875 l 6.3125,6.7188 6.3125,-6.7188 z"
      inkscape:connector-curvature="0"
      id="path3024"
-     style="opacity:0.4;fill:none;stroke:black" />
+     style="opacity:0.4;fill:none;stroke:#000000" />
   <path
      d="m 18.4058,13.5 -0.375,0 a 1.53842,1.53842 0 0 1 -1.53125,-1.53125 v -7.5 a 1.53842,1.53842 0 0 1 0,-0.09375 1.53842,1.53842 0 0 1 0,-0.28125 c -0.0075,0.0985 0,0.029847 0,-0.125 0,-0.240476 -0.174728,-0.576226 -0.59375,-0.90625 C 15.486778,2.732476 14.86843,2.5 14.43705,2.5 H 11.4683 2.49955 v 2.9375 h 1.5 7.03125 a 1.53842,1.53842 0 0 1 1.53125,1.53125 v 5 A 1.53842,1.53842 0 0 1 11.0308,13.5 h -0.5 l 3.9375,4.2188 3.9375,-4.2188 z"
      inkscape:connector-curvature="0"

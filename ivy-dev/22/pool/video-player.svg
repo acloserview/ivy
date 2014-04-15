@@ -8,42 +8,11 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="22"
    height="22"
-   id="svg2"
-   inkscape:version="0.49+devel r"
-   sodipodi:docname="video-player.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="895"
-     inkscape:window-height="624"
-     id="namedview30"
-     showgrid="true"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:bbox-paths="true"
-     inkscape:zoom="21.46"
-     inkscape:cx="11"
-     inkscape:cy="11"
-     inkscape:window-x="32"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2">
-    <inkscape:grid
-       type="xygrid"
-       id="grid32" />
-  </sodipodi:namedview>
+   id="svg2">
   <metadata
      id="metadata32">
     <rdf:RDF>
@@ -52,23 +21,22 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs6">
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient838">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop840" />
+         id="stop840"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
-         offset="1"
-         id="stop842" />
+         id="stop842"
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1" />
     </linearGradient>
     <linearGradient
        id="linearGradient1038">
@@ -82,47 +50,6 @@
          offset="1" />
     </linearGradient>
     <linearGradient
-       id="linearGradient3683">
-      <stop
-         id="stop3685"
-         style="stop-color:#000000;stop-opacity:0.2"
-         offset="0" />
-      <stop
-         id="stop3687"
-         style="stop-color:#000000;stop-opacity:0"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient3600">
-      <stop
-         id="stop3602"
-         style="stop-color:#ffffff;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop3604"
-         style="stop-color:#ffffff;stop-opacity:0"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       x1="43.0625"
-       y1="5.9375"
-       x2="43.0625"
-       y2="42.0625"
-       id="linearGradient3020"
-       xlink:href="#linearGradient3600"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.45375855,0,0,0.45839108,0.37857276,-0.3590079)" />
-    <radialGradient
-       cx="23.984993"
-       cy="44.880875"
-       r="23.232101"
-       fx="23.984993"
-       fy="44.880875"
-       id="radialGradient3029"
-       xlink:href="#linearGradient3683"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.94140978,0,0,0.06456583,1.4202941,39.414029)" />
-    <linearGradient
        x1="41"
        y1="42"
        x2="41"
@@ -132,22 +59,21 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.44999998,0,0,0.49100641,0.20000006,-0.7301919)" />
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient838"
-       id="linearGradient844"
        x1="19.0625"
        y1="2.9375"
        x2="19"
        y2="19"
+       id="linearGradient844"
+       xlink:href="#linearGradient838"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <rect
-     style="opacity:0.15;fill:#000000;stroke:none"
-     id="rect36"
-     y="3"
-     x="2"
+     width="18"
      height="18"
-     width="18" />
+     x="2"
+     y="3"
+     id="rect36"
+     style="opacity:0.15;fill:#000000;stroke:none" />
   <rect
      width="18"
      height="18.000385"
@@ -156,12 +82,9 @@
      id="rect2852"
      style="fill:#171717;stroke:none" />
   <path
-     d="m 3.4375,3.4375 0,15.125 15.125,0 0,-15.125 L 3.4375,3.4375 Z"
+     d="m 3.4375,3.4375 0,15.125 15.125,0 0,-15.125 -15.125,0 z"
      id="path36"
-     style="opacity:0.2;fill:none;stroke:url(#linearGradient844)"
-     inkscape:original="M 2 2 L 2 20 L 20 20 L 20 2 L 2 2 z "
-     inkscape:radius="-1.4319664"
-     sodipodi:type="inkscape:offset" />
+     style="opacity:0.2;fill:none;stroke:url(#linearGradient844)" />
   <rect
      width="18"
      height="6.0000005"
@@ -181,7 +104,7 @@
      id="g2851"
      style="fill:#ffffff">
     <path
-       d="M 28.678,23.3898 12.0273,32.5963 12.3796,13.5731 28.678,23.3898 Z"
+       d="M 28.678,23.3898 12.0273,32.5963 12.3796,13.5731 28.678,23.3898 z"
        inkscape:connector-curvature="0"
        transform="matrix(0.99984261,-0.01774122,0.01774122,0.99984261,5.4919568,2.3986116)"
        id="path2847"
@@ -200,7 +123,7 @@
      x="3"
      y="14"
      id="rect1046"
-     style="opacity:0.56999972;fill:#ffffff;stroke:none" />
+     style="opacity:0.56999966;fill:#ffffff;stroke:none" />
   <rect
      width="13.999999"
      height="0.99999964"
@@ -223,10 +146,7 @@
      id="rect1052"
      style="opacity:0.5;stroke:none" />
   <path
-     sodipodi:type="inkscape:offset"
-     inkscape:radius="-0.51258153"
-     inkscape:original="M 2 2 L 2 20 L 20 20 L 20 2 L 2 2 z "
-     style="fill:none;stroke:#000000;opacity:0.5"
+     d="m 2.5,2.5 0,17 17,0 0,-17 -17,0 z"
      id="path34"
-     d="m 2.5,2.5 0,17 17,0 0,-17 L 2.5,2.5 Z" />
+     style="opacity:0.5;fill:none;stroke:#000000" />
 </svg>

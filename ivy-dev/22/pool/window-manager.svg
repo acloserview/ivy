@@ -8,41 +8,11 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="22"
    height="22"
-   id="svg2"
-   inkscape:version="0.49+devel r"
-   sodipodi:docname="window-manager.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="722"
-     inkscape:window-height="480"
-     id="namedview41"
-     showgrid="true"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-nodes="true"
-     inkscape:bbox-paths="true"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="16.169492"
-     inkscape:cy="12"
-     inkscape:window-x="32"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2">
-    <inkscape:grid
-       type="xygrid"
-       id="grid846" />
-  </sodipodi:namedview>
+   id="svg2">
   <metadata
      id="metadata45">
     <rdf:RDF>
@@ -51,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -138,12 +108,12 @@
      id="rect3309"
      style="fill:#6a6a6a;stroke:none" />
   <path
-     d="m 0.50000035,0.49999902 0,17.99999998 19.00000065,0 0,-17.99999998 L 0.50000035,0.49999902 Z"
+     d="m 0.50000035,0.49999902 0,17.99999998 19.00000065,0 0,-17.99999998 -19.00000065,0 z"
      inkscape:connector-curvature="0"
      id="path3311"
      style="opacity:0.4;fill:none;stroke:#000000" />
   <path
-     d="m 1.5000004,1.4999991 0,15.9999999 17.0000006,0 0,-15.9999999 L 1.5000004,1.4999991 Z"
+     d="m 1.5000004,1.4999991 0,15.9999999 17.0000006,0 0,-15.9999999 -17.0000006,0 z"
      inkscape:connector-curvature="0"
      id="path3313"
      style="opacity:0.4;fill:none;stroke:url(#linearGradient3333)" />
@@ -225,12 +195,12 @@
      id="rect2854"
      style="fill:#5288d1;stroke:none" />
   <path
-     d="m 2.5000004,2.4999991 0,17.9999999 19.0000006,0 0,-17.9999999 L 2.5000004,2.4999991 Z"
+     d="m 2.5000004,2.4999991 0,17.9999999 19.0000006,0 0,-17.9999999 -19.0000006,0 z"
      inkscape:connector-curvature="0"
      id="path3019"
      style="opacity:0.4;fill:none;stroke:#000000" />
   <path
-     d="m 3.5000004,3.4999991 0,15.9999999 17.0000006,0 0,-15.9999999 L 3.5000004,3.4999991 Z"
+     d="m 3.5000004,3.4999991 0,15.9999999 17.0000006,0 0,-15.9999999 -17.0000006,0 z"
      inkscape:connector-curvature="0"
      id="path3021"
      style="opacity:0.4;fill:none;stroke:url(#linearGradient3797)" />

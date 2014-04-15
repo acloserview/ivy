@@ -8,34 +8,11 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="48"
    height="48"
-   id="svg2"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="terminal.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="697"
-     inkscape:window-height="480"
-     id="namedview54"
-     showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="24"
-     inkscape:cy="24"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2" />
+   id="svg2">
   <metadata
      id="metadata56">
     <rdf:RDF>
@@ -49,17 +26,6 @@
   </metadata>
   <defs
      id="defs6">
-    <linearGradient
-       id="linearGradient3683">
-      <stop
-         id="stop3685"
-         style="stop-color:#000000;stop-opacity:0.2"
-         offset="0" />
-      <stop
-         id="stop3687"
-         style="stop-color:#000000;stop-opacity:0"
-         offset="1" />
-    </linearGradient>
     <linearGradient
        id="linearGradient3648">
       <stop
@@ -100,16 +66,6 @@
        xlink:href="#linearGradient3648"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(4e-7,-0.7801992)" />
-    <radialGradient
-       cx="23.984993"
-       cy="44.880875"
-       r="23.232101"
-       fx="23.984993"
-       fy="44.880875"
-       id="radialGradient3029"
-       xlink:href="#linearGradient3683"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.94140978,0,0,0.06456583,1.4202941,39.414029)" />
     <mask
        id="mask3037">
       <rect
@@ -122,12 +78,12 @@
     </mask>
   </defs>
   <rect
-     style="color:#000000;fill:#171717;fill-rule:evenodd;stroke:none;opacity:0.1"
-     id="rect3033"
-     y="15.000235"
-     x="4.0536914"
+     width="39.959732"
      height="28.214766"
-     width="39.959732" />
+     x="4.0536914"
+     y="15.000235"
+     id="rect3033"
+     style="opacity:0.1;color:#000000;fill:#171717;fill-rule:evenodd;stroke:none" />
   <rect
      width="40"
      height="38"

@@ -8,6 +8,7 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
    width="48"
    height="48"
@@ -20,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -178,17 +179,10 @@
        id="linearGradient3886"
        xlink:href="#linearGradient3880"
        gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       x1="45"
-       y1="5"
-       x2="45.03125"
-       y2="29.03125"
-       id="linearGradient3898"
-       xlink:href="#linearGradient3846"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <path
      d="m 9,6 0,14 -7,0 0,24 36,0 0,-14 7,0 L 45,6 9,6 z"
+     inkscape:connector-curvature="0"
      id="rect3894"
      style="opacity:0.1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
   <g
@@ -223,10 +217,12 @@
      style="fill:url(#linearGradient3844);fill-opacity:1;fill-rule:evenodd;stroke:none" />
   <path
      d="m 9.46875,5.46875 0,23.0625 35.0625,0 0,-23.0625 -35.0625,0 z"
+     inkscape:connector-curvature="0"
      id="path3046"
      style="opacity:0.4;fill:none;stroke:#000000" />
   <path
      d="m 10.46875,6.46875 0,21.0625 33.0625,0 0,-21.0625 -33.0625,0 z"
+     inkscape:connector-curvature="0"
      id="path3050"
      style="opacity:0.1;fill:none;stroke:url(#linearGradient3826)" />
   <rect
@@ -252,10 +248,12 @@
      style="fill:url(#linearGradient3870);fill-opacity:1;fill-rule:evenodd;stroke:none" />
   <path
      d="m 2.46875,19.46875 0,23.0625 35.0625,0 0,-23.0625 -35.0625,0 z"
+     inkscape:connector-curvature="0"
      id="path3042"
      style="opacity:0.4;fill:none;stroke:#000000" />
   <path
      d="m 3.40625,20.40625 0,21.1875 33.1875,0 0,-21.1875 -33.1875,0 z"
+     inkscape:connector-curvature="0"
      id="path3828"
      style="opacity:0.4;fill:none;stroke:url(#linearGradient3836)" />
   <rect

@@ -210,7 +210,7 @@
      x="3"
      y="4"
      id="rect3037"
-     style="opacity:0.5699999;fill:#171717;fill-opacity:1;stroke:none" />
+     style="opacity:0.56999984;fill:#171717;fill-opacity:1;stroke:none" />
   <rect
      width="1"
      height="8"
@@ -218,7 +218,7 @@
      y="-12"
      transform="matrix(0,1,-1,0,0,0)"
      id="rect3039"
-     style="opacity:0.5699999;fill:#171717;fill-opacity:1;stroke:none" />
+     style="opacity:0.56999984;fill:#171717;fill-opacity:1;stroke:none" />
   <rect
      width="1"
      height="8"
@@ -226,7 +226,7 @@
      y="-12"
      transform="scale(-1,-1)"
      id="rect3041"
-     style="opacity:0.5699999;fill:#171717;fill-opacity:1;stroke:none" />
+     style="opacity:0.56999984;fill:#171717;fill-opacity:1;stroke:none" />
   <rect
      width="1"
      height="8"
@@ -234,7 +234,7 @@
      y="4"
      transform="matrix(0,-1,1,0,0,0)"
      id="rect3043"
-     style="opacity:0.5699999;fill:#171717;fill-opacity:1;stroke:none" />
+     style="opacity:0.56999984;fill:#171717;fill-opacity:1;stroke:none" />
   <path
      d="m 2,2.5312 c -0.266028,0 -0.46875,0.202722 -0.46875,0.46875 v 10 c 0,0.266028 0.202722,0.46875 0.46875,0.46875 h 12 c 0.266028,0 0.46875,-0.202722 0.46875,-0.46875 v -10 C 14.46875,2.733922 14.266028,2.5312 14,2.5312 H 2 z"
      inkscape:connector-curvature="0"

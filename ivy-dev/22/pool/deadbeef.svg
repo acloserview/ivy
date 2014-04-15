@@ -8,34 +8,11 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="22"
    height="22"
-   id="svg2"
-   inkscape:version="0.49+devel r"
-   sodipodi:docname="deadbeef.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="722"
-     inkscape:window-height="480"
-     id="namedview20"
-     showgrid="false"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="12.045718"
-     inkscape:cy="12"
-     inkscape:window-x="32"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2" />
+   id="svg2">
   <metadata
      id="metadata26">
     <rdf:RDF>
@@ -44,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -92,12 +69,12 @@
        gradientTransform="translate(0,-1)" />
   </defs>
   <path
-     d="M 3,15 3,22 20,11 3,1 3,11 8,8 13,11 8,15 8,11 Z"
+     d="M 3,15 3,22 20,11 3,1 3,11 8,8 l 5,3 -5,4 0,-4 z"
      inkscape:connector-curvature="0"
      id="path3003"
      style="opacity:0.1;stroke:none" />
   <path
-     d="M 3,14 3,21 20,10 3,0 3,10 8,7 13,10 8,14 8,10 Z"
+     d="M 3,14 3,21 20,10 3,0 3,10 8,7 l 5,3 -5,4 0,-4 z"
      inkscape:connector-curvature="0"
      id="path7268"
      style="fill:url(#linearGradient826);stroke:none" />
@@ -114,12 +91,12 @@
        y="15.826195"
        id="tspan5529" /></text>
   <path
-     d="m 3.5312,0.9375 0,8.0938 4.1875,-2.5 a 0.546888,0.546888 0 0 1 0.5625,0 l 5,3 a 0.546888,0.546888 0 0 1 0.0625,0.90625 l -5,4 a 0.546888,0.546888 0 0 1 -0.875,-0.4375 l 0,-2.875 -3.9375,3.1562 L 3.5312,20 18.9374,10 3.5312,0.9375 Z"
+     d="m 3.5312,0.9375 0,8.0938 4.1875,-2.5 a 0.546888,0.546888 0 0 1 0.5625,0 l 5,3 a 0.546888,0.546888 0 0 1 0.0625,0.90625 l -5,4 a 0.546888,0.546888 0 0 1 -0.875,-0.4375 l 0,-2.875 -3.9375,3.1562 L 3.5312,20 18.9374,10 3.5312,0.9375 z"
      inkscape:connector-curvature="0"
      id="path3009"
      style="opacity:0.4;fill:none;stroke:#000000" />
   <path
-     d="m 4.5312,2.6875 0,4.625 2.6875,-1.625 a 1.53193,1.53193 0 0 1 1.5625,0 l 5,3 a 1.53193,1.53193 0 0 1 0.1875,2.5 l -5,4 A 1.53193,1.53193 0 0 1 6.4687,14 l 0,-0.8125 -1.9375,1.5625 0,3.4375 12.5625,-8.125 L 4.5312,2.6875 Z"
+     d="m 4.5312,2.6875 0,4.625 2.6875,-1.625 a 1.53193,1.53193 0 0 1 1.5625,0 l 5,3 a 1.53193,1.53193 0 0 1 0.1875,2.5 l -5,4 A 1.53193,1.53193 0 0 1 6.4687,14 l 0,-0.8125 -1.9375,1.5625 0,3.4375 12.5625,-8.125 -12.5625,-7.375 z"
      inkscape:connector-curvature="0"
      id="path3011"
      style="opacity:0.4;fill:none;stroke:url(#linearGradient3787)" />

@@ -8,34 +8,11 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="48"
    height="48"
-   id="svg2"
-   inkscape:version="0.49+devel r"
-   sodipodi:docname="multimedia.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="720"
-     inkscape:window-height="480"
-     id="namedview82"
-     showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="27.560355"
-     inkscape:cy="56.542373"
-     inkscape:window-x="32"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2" />
+   id="svg2">
   <defs
      id="defs6">
     <linearGradient
@@ -278,7 +255,7 @@
        d="m 15.4375,11.4375 0,37.125 37.125,0 0,-37.125 h -37.125 z"
        inkscape:connector-curvature="0"
        id="path3704"
-       style="opacity:0.36700033;fill:none;stroke:url(#linearGradient2874)" />
+       style="opacity:0.36700039;fill:none;stroke:url(#linearGradient2874)" />
     <rect
        width="22"
        height="14"

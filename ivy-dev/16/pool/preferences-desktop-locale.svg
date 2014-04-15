@@ -8,47 +8,11 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
    width="16"
    height="16"
-   id="svg2"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="preferences-desktop-locale.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1364"
-     inkscape:window-height="749"
-     id="namedview54"
-     showgrid="true"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-paths="true"
-     inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:zoom="34.270352"
-     inkscape:cx="3.2647484"
-     inkscape:cy="7.1875476"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2"
-     inkscape:snap-bbox-midpoints="true">
-    <inkscape:grid
-       type="xygrid"
-       id="grid3031"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true" />
-  </sodipodi:namedview>
+   id="svg2">
   <metadata
      id="metadata51">
     <rdf:RDF>
@@ -57,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -183,32 +147,12 @@
        xlink:href="#linearGradient3880"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.33333333,0,0,0.37500002,0.33333333,-1.1250001)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3846"
-       id="linearGradient3848"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.41784871,0,0,0.45833335,1.1968083,-0.29166736)"
-       x1="45"
-       y1="5"
-       x2="45.03125"
-       y2="29.03125" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3872"
-       id="linearGradient3051"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.33333332,0,0,0.37500006,0.33333326,-1.1250006)"
-       x1="26"
-       y1="19"
-       x2="26"
-       y2="43" />
   </defs>
   <path
-     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0.1"
      d="m 3,2 0,5 -2,0 0,9 12,0 0,-5 2,0 0,-9 -12,0 z"
+     inkscape:connector-curvature="0"
      id="rect3047"
-     inkscape:connector-curvature="0" />
+     style="opacity:0.1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
   <g
      transform="translate(-56.173557,-15.731802)"
      id="g2808" />
@@ -240,19 +184,16 @@
      id="rect3034"
      style="fill:url(#linearGradient3844);fill-opacity:1;fill-rule:evenodd;stroke:none" />
   <path
-     sodipodi:type="inkscape:offset"
-     inkscape:radius="-0.4960556"
-     inkscape:original="M 3 1 L 3 10 L 15 10 L 15 1 L 3 1 z "
-     style="opacity:0.4;fill:none;stroke:#000000"
+     d="m 3.5,1.5 0,8 11,0 0,-8 -11,0 z"
      id="path3031"
-     d="m 3.5,1.5 0,8 11,0 0,-8 -11,0 z" />
+     style="opacity:0.4;fill:none;stroke:#000000" />
   <rect
-     style="opacity:0.3;fill:#ffffff;stroke:none"
-     id="rect3039"
      width="9"
      height="4"
      x="4"
-     y="5" />
+     y="5"
+     id="rect3039"
+     style="opacity:0.3;fill:#ffffff;stroke:none" />
   <rect
      width="12"
      height="9"
@@ -275,31 +216,28 @@
      id="rect3038"
      style="fill:url(#linearGradient3870);fill-opacity:1;fill-rule:evenodd;stroke:none" />
   <path
-     sodipodi:type="inkscape:offset"
-     inkscape:radius="-0.4960556"
-     inkscape:original="M 1 6 L 1 15 L 13 15 L 13 6 L 1 6 z "
-     style="opacity:0.4;fill:none;stroke:#000000"
+     d="m 1.5,6.5 0,8 11,0 0,-8 -11,0 z"
      id="path3037"
-     d="m 1.5,6.5 0,8 11,0 0,-8 -11,0 z" />
+     style="opacity:0.4;fill:none;stroke:#000000" />
   <rect
-     style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none"
-     id="rect3041"
      width="10"
      height="1"
      x="4"
-     y="2" />
+     y="2"
+     id="rect3041"
+     style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none" />
   <rect
-     style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none"
-     id="rect3043"
      width="10"
      height="1"
      x="2"
-     y="7" />
+     y="7"
+     id="rect3043"
+     style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none" />
   <rect
-     style="opacity:0.56720017;fill:#ffffff;fill-opacity:1;stroke:none"
-     id="rect3045"
      width="4"
      height="1"
      x="5"
-     y="7" />
+     y="7"
+     id="rect3045"
+     style="opacity:0.56720019;fill:#ffffff;fill-opacity:1;stroke:none" />
 </svg>

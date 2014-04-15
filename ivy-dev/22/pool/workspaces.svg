@@ -8,38 +8,11 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="22"
    height="22"
-   id="svg2"
-   inkscape:version="0.49+devel r"
-   sodipodi:docname="workspaces.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1285"
-     inkscape:window-height="557"
-     id="namedview26"
-     showgrid="true"
-     inkscape:zoom="10.727273"
-     inkscape:cx="-0.69915254"
-     inkscape:cy="11"
-     inkscape:window-x="79"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2">
-    <inkscape:grid
-       type="xygrid"
-       id="grid828" />
-  </sodipodi:namedview>
+   id="svg2">
   <metadata
      id="metadata29">
     <rdf:RDF>
@@ -48,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -137,11 +110,13 @@
      id="rect2892"
      style="fill:url(#linearGradient3786);stroke:none" />
   <path
-     d="m 2.5,2.5 0,17 17,0 0,-17 L 2.5,2.5 Z"
+     d="m 2.5,2.5 0,17 17,0 0,-17 -17,0 z"
+     inkscape:connector-curvature="0"
      id="path3023"
      style="opacity:0.4;fill:none;stroke:#000000" />
   <path
-     d="m 3.5312,3.5312 0,14.9375 14.9375,0 0,-14.9375 L 3.5312,3.5312 Z"
+     d="m 3.5312,3.5312 0,14.9375 14.9375,0 0,-14.9375 -14.9375,0 z"
+     inkscape:connector-curvature="0"
      id="path3025"
      style="opacity:0.4;fill:none;stroke:url(#linearGradient3801)" />
   <rect

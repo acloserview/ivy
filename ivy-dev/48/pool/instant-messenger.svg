@@ -72,8 +72,8 @@
        color-interpolation-filters="sRGB"
        id="filter3922">
       <feGaussianBlur
-         id="feGaussianBlur3924"
-         stdDeviation="0.61265625" />
+         stdDeviation="0.61265625"
+         id="feGaussianBlur3924" />
     </filter>
     <linearGradient
        x1="5.96875"

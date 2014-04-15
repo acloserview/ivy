@@ -8,6 +8,7 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
    width="48"
    height="48"
@@ -20,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -84,21 +85,15 @@
        id="linearGradient3883"
        xlink:href="#linearGradient3877"
        gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       x1="46"
-       y1="12"
-       x2="46"
-       y2="41"
-       id="linearGradient3894"
-       xlink:href="#linearGradient3851"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <path
      d="m 4,7 0,4 3,0 0,6 -2,0 0,3 2,0 0,3.5 -2,0 0,3 2,0 0,18.5 4,0 0,-8 6,0 0,5 4,0 15,0 0,-5 4,0 0,5 6,0 0,-5 0,-24 -35,0 0,-2 0,-4 -7,0 z"
+     inkscape:connector-curvature="0"
      id="path3885"
      style="opacity:0.1;fill:#000000;stroke:none" />
   <path
      d="m 9,12 0,24 8,0 0,5 4,0 15,0 0,-5 4,0 0,5 6,0 0,-5 0,-24 -37,0 z"
+     inkscape:connector-curvature="0"
      id="rect842"
      style="fill:url(#linearGradient3070);stroke:none" />
   <rect
@@ -124,10 +119,12 @@
      style="fill:#eed45a;stroke:none" />
   <path
      d="m 9.5,12.5 0,23 7.5,0 a 0.5028514,0.5028514 0 0 1 0.5,0.5 l 0,4.5 3.5,0 14.5,0 0,-4.5 A 0.5028514,0.5028514 0 0 1 36,35.5 l 4,0 a 0.5028514,0.5028514 0 0 1 0.5,0.5 l 0,4.5 5,0 0,-4.5 0,-23.5 -36,0 z"
+     inkscape:connector-curvature="0"
      id="path3871"
      style="opacity:0.4;fill:none;stroke:#000000" />
   <path
      d="m 10.5,13.5 0,21 6.5,0 0,1 0,0.5 0.5,0 1,0 0,3.5 2.5,0 13.5,0 0,-3.5 1,0 0.5,0 0,-0.5 0,-1 4,0 0,1 0,0.5 0.5,0 1,0 0,3.5 3,0 0,-3.5 0,-22.5 -34,0 z"
+     inkscape:connector-curvature="0"
      id="path3875"
      style="opacity:0.4;fill:none;stroke:url(#linearGradient3883)" />
   <rect
@@ -195,6 +192,7 @@
      style="fill:#6a6a6a;stroke:none" />
   <path
      d="m 19.4999,16.4999 0,5.9375 5.9375,0 0,-5.9375 -5.9375,0 z"
+     inkscape:connector-curvature="0"
      id="path3891"
      style="opacity:0.3;fill:none;stroke:#000000" />
   <rect
@@ -206,6 +204,7 @@
      style="fill:#6a6a6a;stroke:none" />
   <path
      d="m 35.5312,16.5312 0,5.9375 5.9375,0 0,-5.9375 -5.9375,0 z"
+     inkscape:connector-curvature="0"
      id="path3053"
      style="opacity:0.3;fill:none;stroke:#000000" />
   <rect
@@ -224,6 +223,7 @@
      style="opacity:0.2;stroke:none" />
   <path
      d="m 14.4375,27.4375 0,5.125 3.125,0 0,-5.125 -3.125,0 z"
+     inkscape:connector-curvature="0"
      transform="translate(-0.0625,-0.9375)"
      id="path3849"
      style="opacity:0.3;fill:none;stroke:#000000" />
@@ -236,6 +236,7 @@
      style="fill:#6a6a6a;fill-rule:evenodd" />
   <path
      d="m 14.4375,27.4375 0,5.125 3.125,0 0,-5.125 -3.125,0 z"
+     inkscape:connector-curvature="0"
      transform="translate(7.9375,-0.9375)"
      id="path3859"
      style="opacity:0.3;fill:none;stroke:#000000" />
@@ -248,6 +249,7 @@
      style="fill:#6a6a6a;fill-rule:evenodd" />
   <path
      d="m 14.4375,27.4375 0,5.125 3.125,0 0,-5.125 -3.125,0 z"
+     inkscape:connector-curvature="0"
      transform="translate(23.9375,-0.9375)"
      id="path3863"
      style="opacity:0.3;fill:none;stroke:#000000" />
@@ -260,6 +262,7 @@
      style="fill:#6a6a6a;fill-rule:evenodd" />
   <path
      d="m 14.4375,27.4375 0,5.125 3.125,0 0,-5.125 -3.125,0 z"
+     inkscape:connector-curvature="0"
      transform="translate(15.9375,-0.9375)"
      id="path3867"
      style="opacity:0.3;fill:none;stroke:#000000" />
@@ -279,10 +282,12 @@
      style="fill:#6a6a6a;stroke:none" />
   <path
      d="m 4,6 0,4 3,0 0,34 4,0 0,-34 0,-4 -7,0 z"
+     inkscape:connector-curvature="0"
      id="rect838"
      style="fill:url(#linearGradient939);stroke:none" />
   <path
      d="m 3.5312,6.5312 0,2.9375 2.4688,0 a 0.530877,0.530877 0 0 1 0.53125,0.53125 v 33.4688 h 2.9375 V 9.99995 6.5312 h -5.9375 z"
+     inkscape:connector-curvature="0"
      transform="translate(1,0)"
      id="path931"
      style="opacity:0.4;fill:none;stroke:#000000" />
