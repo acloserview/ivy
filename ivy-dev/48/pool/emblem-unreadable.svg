@@ -1,95 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.0"
-   width="48"
-   height="48"
-   id="svg2">
-  <metadata
-     id="metadata20">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs3">
-    <linearGradient
-       id="linearGradient853">
-      <stop
-         id="stop855"
-         style="stop-color:#ffffff;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop857"
-         style="stop-color:#ffffff;stop-opacity:0"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient837">
-      <stop
-         id="stop839"
-         style="stop-color:#d02604;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop841"
-         style="stop-color:#fc785d;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       x1="32"
-       y1="12"
-       x2="32"
-       y2="32"
-       id="linearGradient845"
-       xlink:href="#linearGradient837"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.8,0,0,0.8,6.4,6.4)" />
-    <linearGradient
-       x1="31.0625"
-       y1="16.9375"
-       x2="31.0625"
-       y2="31.0625"
-       id="linearGradient859"
-       xlink:href="#linearGradient853"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
-  <g
-     transform="scale(1.5,1.5)"
-     id="g865">
-    <rect
-       width="32"
-       height="32"
-       x="0"
-       y="0"
-       id="rect863"
-       style="opacity:0;fill:#ffffff;stroke:none" />
-    <path
-       d="m 29.6,16 2.4,0 0,16 -16,0 0,-2.4 z"
-       inkscape:connector-curvature="0"
-       id="rect834"
-       style="fill:url(#linearGradient845);stroke:none" />
-    <path
-       d="m 29.8438,16.5625 -13.2812,13.25 0,1.625 14.875,0 0,-14.875 h -1.59375 z"
-       inkscape:connector-curvature="0"
-       id="path849"
-       style="opacity:0.4;fill:none;stroke:#000000" />
-    <path
-       d="m 30.2188,17.4375 -12.7812,12.75 0,0.375 13.125,0 0,-13.125 h -0.34375 z"
-       inkscape:connector-curvature="0"
-       id="path851"
-       style="opacity:0.4;fill:none;stroke:url(#linearGradient859)" />
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.0" width="48" height="48">
+ <defs id="defs3">
+  <linearGradient id="linearGradient853">
+   <stop id="stop855" stop-color="#ffffff"/>
+   <stop id="stop857" offset="1" stop-color="#ffffff" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="linearGradient837">
+   <stop id="stop839" stop-color="#d02604"/>
+   <stop id="stop841" offset="1" stop-color="#fc785d"/>
+  </linearGradient>
+  <linearGradient y1="12" x2="0" y2="32" id="linearGradient845" xlink:href="#linearGradient837" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.8,0,0,0.8,6.4,6.4)"/>
+  <linearGradient y1="16.9375" x2="0" y2="31.0625" id="linearGradient859" xlink:href="#linearGradient853" gradientUnits="userSpaceOnUse"/>
+ </defs>
+ <g transform="scale(1.5,1.5)" id="g865">
+  <path d="m 29.6,16 2.4,0 0,16 -16,0 0,-2.4 z" inkscape:connector-curvature="0" id="rect834" fill="url(#linearGradient845)"/>
+  <path d="m 29.8438,16.5625 -13.2812,13.25 0,1.625 14.875,0 0,-14.875 h -1.59375 z" inkscape:connector-curvature="0" id="path849" opacity="0.4" fill="none" stroke="#000000"/>
+  <path d="m 30.2188,17.4375 -12.7812,12.75 0,0.375 13.125,0 0,-13.125 h -0.34375 z" inkscape:connector-curvature="0" id="path851" opacity="0.4" fill="none" stroke="url(#linearGradient859)"/>
+ </g>
 </svg>

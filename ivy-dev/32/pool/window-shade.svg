@@ -1,133 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
-   width="32"
-   height="32"
-   id="svg2">
-  <metadata
-     id="metadata33">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs6" />
-  <rect
-     width="26"
-     height="7"
-     x="3"
-     y="5"
-     id="rect3014"
-     style="opacity:0.1;fill:#000000;stroke:none" />
-  <rect
-     width="26"
-     height="7"
-     x="3"
-     y="4"
-     id="rect846"
-     style="fill:#5288d1;stroke:none" />
-  <rect
-     width="1"
-     height="1"
-     x="6"
-     y="6"
-     id="rect3025"
-     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
-  <rect
-     width="1"
-     height="1"
-     x="7"
-     y="7"
-     id="rect868"
-     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
-  <rect
-     width="1"
-     height="1"
-     x="8"
-     y="8"
-     id="rect870"
-     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
-  <rect
-     width="1"
-     height="1"
-     x="-9"
-     y="6"
-     transform="scale(-1,1)"
-     id="rect872"
-     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
-  <rect
-     width="1"
-     height="1"
-     x="-8"
-     y="7"
-     transform="scale(-1,1)"
-     id="rect874"
-     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
-  <rect
-     width="1"
-     height="1"
-     x="-7"
-     y="8"
-     transform="scale(-1,1)"
-     id="rect876"
-     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
-  <rect
-     width="1"
-     height="3"
-     x="10"
-     y="6"
-     id="rect878"
-     style="fill:#ffffff;stroke:none" />
-  <rect
-     width="3"
-     height="1"
-     x="10"
-     y="8"
-     id="rect880"
-     style="fill:#ffffff;stroke:none" />
-  <rect
-     width="1"
-     height="2"
-     x="12"
-     y="6"
-     id="rect882"
-     style="fill:#ffffff;stroke:none" />
-  <rect
-     width="3"
-     height="1"
-     x="10"
-     y="6"
-     id="rect884"
-     style="fill:#ffffff;stroke:none" />
-  <rect
-     width="3"
-     height="1"
-     x="14"
-     y="8"
-     id="rect886"
-     style="fill:#ffffff;stroke:none" />
-  <path
-     d="m 3.5,4.5 0,6 25,0 0,-6 -25,0 z"
-     id="path3012"
-     style="opacity:0.4;fill:none;stroke:#000000" />
-  <rect
-     width="24"
-     height="1"
-     x="4"
-     y="5"
-     id="rect3016"
-     style="opacity:0.4;fill:#ffffff;fill-opacity:1;stroke:none" />
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="32" height="32">
+ <rect width="26" height="7" x="3" y="5" id="rect3014" opacity="0.1"/>
+ <rect width="26" height="7" x="3" y="4" id="rect846" fill="#5288d1"/>
+ <rect width="1" height="1" x="6" y="6" id="rect3025" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
+ <rect width="1" height="1" x="7" y="7" id="rect868" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
+ <rect width="1" height="1" x="8" y="8" id="rect870" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
+ <rect width="1" height="1" x="-9" y="6" transform="scale(-1,1)" id="rect872" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
+ <rect width="1" height="1" x="-8" y="7" transform="scale(-1,1)" id="rect874" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
+ <rect width="1" height="1" x="-7" y="8" transform="scale(-1,1)" id="rect876" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
+ <rect width="1" height="3" x="10" y="6" id="rect878" fill="#ffffff"/>
+ <rect width="3" height="1" x="10" y="8" id="rect880" fill="#ffffff"/>
+ <rect width="1" height="2" x="12" y="6" id="rect882" fill="#ffffff"/>
+ <rect width="3" height="1" x="10" y="6" id="rect884" fill="#ffffff"/>
+ <rect width="3" height="1" x="14" y="8" id="rect886" fill="#ffffff"/>
+ <path d="m 3.5,4.5 0,6 25,0 0,-6 -25,0 z" id="path3012" opacity="0.4" fill="none" stroke="#000000"/>
+ <rect width="24" height="1" x="4" y="5" id="rect3016" opacity="0.4" fill="#ffffff"/>
 </svg>

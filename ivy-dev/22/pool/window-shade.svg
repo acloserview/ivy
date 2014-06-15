@@ -1,97 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="22"
-   height="22"
-   id="svg2">
-  <metadata
-     id="metadata28">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs6" />
-  <rect
-     width="20"
-     height="6"
-     x="1"
-     y="2"
-     id="rect3009"
-     style="opacity:0.1;fill:#000000;stroke:none" />
-  <rect
-     width="20"
-     height="6"
-     x="1"
-     y="1"
-     id="rect2854"
-     style="fill:#5288d1;stroke:none" />
-  <rect
-     width="1.000001"
-     height="0.99999905"
-     x="3"
-     y="3.000001"
-     id="rect3023"
-     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
-  <rect
-     width="2.000001"
-     height="1.999999"
-     x="6"
-     y="3.000001"
-     id="rect3031"
-     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
-  <rect
-     width="2.000001"
-     height="1"
-     x="8.9999952"
-     y="4"
-     id="rect3033"
-     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
-  <rect
-     width="1.000001"
-     height="0.99999905"
-     x="4"
-     y="4.000001"
-     id="rect3035"
-     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
-  <rect
-     width="1.000001"
-     height="0.99999905"
-     x="3.000001"
-     y="4.000001"
-     id="rect3037"
-     style="color:#000000;fill:#c1c1c1;fill-rule:evenodd;stroke:none" />
-  <rect
-     width="1.000001"
-     height="0.99999905"
-     x="4"
-     y="3"
-     id="rect3039"
-     style="color:#000000;fill:#c1c1c1;fill-rule:evenodd;stroke:none" />
-  <path
-     d="m 1.5,1.5 0,5 19,0 0,-5 -19,0 z"
-     inkscape:connector-curvature="0"
-     id="path3005"
-     style="opacity:0.4;fill:none;stroke:#000000" />
-  <rect
-     width="18"
-     height="1"
-     x="2"
-     y="2"
-     id="rect3007"
-     style="opacity:0.4;fill:#ffffff;stroke:none" />
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="22" height="22">
+ <rect width="20" height="6" x="1" y="2" id="rect3009" opacity="0.1"/>
+ <rect width="20" height="6" x="1" y="1" id="rect2854" fill="#5288d1"/>
+ <rect width="1" height="0.999999" x="3" y="3" id="rect3023" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
+ <rect width="2" height="1.999999" x="6" y="3" id="rect3031" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
+ <rect width="2" height="1" x="8.999995" y="4" id="rect3033" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
+ <rect width="1" height="0.999999" x="4" y="4" id="rect3035" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
+ <rect width="1" height="0.999999" x="3" y="4" id="rect3037" fill="#c1c1c1" fill-rule="evenodd" color="#000000"/>
+ <rect width="1" height="0.999999" x="4" y="3" id="rect3039" fill="#c1c1c1" fill-rule="evenodd" color="#000000"/>
+ <path d="m 1.5,1.5 0,5 19,0 0,-5 -19,0 z" inkscape:connector-curvature="0" id="path3005" opacity="0.4" fill="none" stroke="#000000"/>
+ <rect width="18" height="1" x="2" y="2" id="rect3007" opacity="0.4" fill="#ffffff"/>
 </svg>

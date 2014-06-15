@@ -1,145 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   version="1.1"
-   width="48"
-   height="48"
-   id="svg2">
-  <metadata
-     id="metadata39">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs6">
-    <linearGradient
-       id="linearGradient3776">
-      <stop
-         id="stop3778"
-         style="stop-color:#ffffff;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop3780"
-         style="stop-color:#ffffff;stop-opacity:0"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       x1="43"
-       y1="6"
-       x2="43"
-       y2="13"
-       id="linearGradient3782"
-       xlink:href="#linearGradient3776"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
-  <rect
-     width="40"
-     height="10.119114"
-     x="4.000001"
-     y="6.0188861"
-     id="rect3019"
-     style="opacity:0.15;fill:#000000;stroke:none" />
-  <rect
-     width="40"
-     height="10.119114"
-     x="4.000001"
-     y="5.0193205"
-     id="rect2854"
-     style="fill:#5288d1;stroke:none" />
-  <rect
-     width="1"
-     height="1"
-     x="7.0313272"
-     y="9.111062"
-     id="rect3023"
-     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
-  <rect
-     width="1"
-     height="1"
-     x="8.0313272"
-     y="10.111062"
-     id="rect3025"
-     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
-  <rect
-     width="1"
-     height="1"
-     x="9.0313272"
-     y="11.111061"
-     id="rect3027"
-     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
-  <rect
-     width="1"
-     height="1"
-     x="7.0313272"
-     y="11.111061"
-     id="rect3029"
-     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
-  <rect
-     width="1"
-     height="1"
-     x="9.0313272"
-     y="9.111062"
-     id="rect3032"
-     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
-  <rect
-     width="1"
-     height="3"
-     x="12.031327"
-     y="9.111062"
-     id="rect3034"
-     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
-  <rect
-     width="1"
-     height="3"
-     x="11.111061"
-     y="-15.031327"
-     transform="matrix(0,1,-1,0,0,0)"
-     id="rect3042"
-     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
-  <rect
-     width="1"
-     height="3"
-     x="-15.031327"
-     y="-12.111061"
-     transform="scale(-1,-1)"
-     id="rect3044"
-     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
-  <rect
-     width="1"
-     height="3"
-     x="-10.111062"
-     y="12.031327"
-     transform="matrix(0,-1,1,0,0,0)"
-     id="rect3046"
-     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
-  <rect
-     width="1"
-     height="3"
-     x="-12.111061"
-     y="17.031328"
-     transform="matrix(0,-1,1,0,0,0)"
-     id="rect3048"
-     style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke:none" />
-  <path
-     d="m 4.4375,5.46875 0,9.21875 39.125,0 0,-9.21875 -39.125,0 z"
-     id="path3015"
-     style="opacity:0.4;fill:none;stroke:#000000" />
-  <path
-     d="m 5.40625,6.4375 0,7.28125 37.1875,0 0,-7.28125 -37.1875,0 z"
-     id="path3017"
-     style="opacity:0.4;fill:none;stroke:url(#linearGradient3782)" />
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="48" height="48">
+ <defs id="defs6">
+  <linearGradient id="linearGradient3776">
+   <stop id="stop3778" stop-color="#ffffff"/>
+   <stop id="stop3780" offset="1" stop-color="#ffffff" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient y1="6" x2="0" y2="13" id="linearGradient3782" xlink:href="#linearGradient3776" gradientUnits="userSpaceOnUse"/>
+ </defs>
+ <rect width="40" height="10.119114" x="4" y="6.01889" id="rect3019" opacity="0.15"/>
+ <rect width="40" height="10.119114" x="4" y="5.01932" id="rect2854" fill="#5288d1"/>
+ <rect width="1" height="1" x="7.03133" y="9.111062" id="rect3023" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
+ <rect width="1" height="1" x="8.03133" y="10.111062" id="rect3025" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
+ <rect width="1" height="1" x="9.03133" y="11.11106" id="rect3027" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
+ <rect width="1" height="1" x="7.03133" y="11.11106" id="rect3029" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
+ <rect width="1" height="1" x="9.03133" y="9.111062" id="rect3032" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
+ <rect width="1" height="3" x="12.03133" y="9.111062" id="rect3034" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
+ <rect width="1" height="3" x="11.11106" y="-15.03133" transform="matrix(0,1,-1,0,0,0)" id="rect3042" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
+ <rect width="1" height="3" x="-15.03133" y="-12.11106" transform="scale(-1,-1)" id="rect3044" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
+ <rect width="1" height="3" x="-10.111062" y="12.03133" transform="matrix(0,-1,1,0,0,0)" id="rect3046" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
+ <rect width="1" height="3" x="-12.11106" y="17.03133" transform="matrix(0,-1,1,0,0,0)" id="rect3048" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
+ <path d="m 4.4375,5.46875 0,9.21875 39.125,0 0,-9.21875 -39.125,0 z" id="path3015" opacity="0.4" fill="none" stroke="#000000"/>
+ <path d="m 5.40625,6.4375 0,7.28125 37.1875,0 0,-7.28125 -37.1875,0 z" id="path3017" opacity="0.4" fill="none" stroke="url(#linearGradient3782)"/>
 </svg>
