@@ -1,3 +1,6 @@
+->![alt text](https://raw.githubusercontent.com/sixsixfive/ivy/master/prev.png "Preview")<-
+
+
 A very minimalistic but colorful png icon theme for lightweight X11 Desktop Environments such as: Xfce & LXDE heavily inspired by the [FatCow icons](http://www.fatcow.com/free-icons) & [Tango!](http://en.wikipedia.org/wiki/Tango_Desktop_Project) under CC-BY-SA
 
 * [Ivy@deviantart](http://sixsixfive.deviantart.com/art/Ivy-371216510)
