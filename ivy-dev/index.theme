@@ -19,14 +19,14 @@ ZipOverlay=
 DesktopDefault=48
 DesktopSizes=16,22,32,48
 ToolbarDefault=16
-ToolbarSizes=16,22,32,48
+ToolbarSizes=16,22,32
 MainToolbarDefault=16
-MainToolbarSizes=16,22,32,48
+MainToolbarSizes=16,22,32
 SmallDefault=16
 SmallSizes=16,22,32,48
 PanelDefault=22
 PanelSizes=16,22,32,48
-DialogDefault=22
+DialogDefault=48
 DialogSizes=16,24,32,48
 
 ##########################
