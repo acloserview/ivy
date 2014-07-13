@@ -4,7 +4,6 @@ basedir="$(dirname "$(readlink -f "${0}")")"
 command -v inkscape >/dev/null 2>&1 || { echo >&2 "I require Inkscape but it's not installed.  Aborting."; exit 1; }
 command -v convert >/dev/null 2>&1 || { echo >&2 "I require ImageMagick but it's not installed.  Aborting."; exit 1; }
 command -v gtk-update-icon-cache-3.0 >/dev/null 2>&1 || { echo >&2 "I require libgtk-3-bin but it's not installed.  Aborting."; exit 1; }
-
 cd $basedir
 mkdir -p ivy/16
 mkdir -p ivy/22
@@ -66,6 +65,8 @@ cp -R /tmp/ivy-dev-tmp/* $basedir/ivy/32
 cp -R /tmp/ivy-dev-tmp/* $basedir/ivy/48
 rm -R /tmp/ivy-dev-tmp
 cd $basedir
+#temporary fix for bigger icons than 48px
+cp -R $basedir/ivy-dev/48 $basedir/ivy/scalable
 gtk-update-icon-cache-3.0 ivy
 #7z a -mx=9 -m0=PPMd -mmem=512m -ms=on ivy ivy
 echo "done, you can now copy the ivy folder to your icon dir($HOME/.icons) or ($HOME/.kde/share/icons) for KDE"
