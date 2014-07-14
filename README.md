@@ -20,3 +20,10 @@ A very minimalistic but colorful png icon theme for X11 Desktop Environments suc
 * **`cd ivy`**
 * **`bash createpngset`**
 
+####Limitations/Bugs:
+
+* some smaller icons are fuzzy cause they are scaled down from other sizes(sry, but I don't have plenty of time but someday they will be complete I guess ;)
+* some few icons are still missing(that's just a matter of time ;) 
+* Due KDE bug [190385](https://bugs.kde.org/show_bug.cgi?id=190385) this icon theme is limited to 16,22,24,32 and 48 px on KDE/Qt desktops
+* Due Xfce bug [10126](https://bugzilla.xfce.org/show_bug.cgi?id=10126) it's impossible to select any icons in the built-in *.desktop editor
+
