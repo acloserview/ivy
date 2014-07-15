@@ -5,6 +5,12 @@ command -v inkscape >/dev/null 2>&1 || { echo >&2 "I require Inkscape but it's n
 command -v convert >/dev/null 2>&1 || { echo >&2 "I require ImageMagick but it's not installed.  Aborting."; exit 1; }
 command -v gtk-update-icon-cache-3.0 >/dev/null 2>&1 || { echo >&2 "I require libgtk-3-bin but it's not installed.  Aborting."; exit 1; }
 cd $basedir
+sizes="16
+22
+24
+32
+48"
+
 mkdir -p ivy/16
 mkdir -p ivy/22
 mkdir -p ivy/24
