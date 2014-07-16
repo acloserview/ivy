@@ -2,7 +2,7 @@
 #somechecks
 command -v inkscape >/dev/null 2>&1 || { echo >&2 "I require Inkscape but it's not installed.  Aborting."; exit 1; }
 command -v convert >/dev/null 2>&1 || { echo >&2 "I require ImageMagick but it's not installed.  Aborting."; exit 1; }
-command -v gtk-update-icon-cache >/dev/null 2>&1 || { echo >&2 "gtk-update-icon-cache is missing, skipping icon cache creation"; }
+command -v gtk-update-icon-cache >/dev/null 2>&1 || { echo >&2 "gtk-update-icon-cache is missing, icon cache creation will fail"; }
 sleep 5
 basedir="$(dirname "$(readlink -f "${0}")")"
 
@@ -10,13 +10,13 @@ basedir="$(dirname "$(readlink -f "${0}")")"
 echo "Would you like to upscale all icons(icon set will be ~450MB)(Needed for all Qt apps) [Y,n]"
 read input
 if [[ $input == "Y" || $input == "y" ]]; then
-echo "creating scaled version" && sleep 5
+	echo "creating scaled version" && sleep 5
 sizes="16 22 32 48 64 80 96 112 128 144 160 176 192 208 224 240 256"
 defaultsizes="16 22 32 48"
 extrasizes="64 80 96 112 128 144 160 176 192 208 224 240 256"
 indextheme=ivy-dev/index.theme.scaled
 else
-echo "creating fixed version" && sleep 5
+	echo "creating fixed version" && sleep 5
 sizes="16 22 32 48"
 indextheme=ivy-dev/index.theme.48
 fi
