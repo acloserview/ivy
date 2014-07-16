@@ -1,58 +1,57 @@
 #!/bin/bash
-basedir="$(dirname "$(readlink -f "${0}")")"
 #somechecks
 command -v inkscape >/dev/null 2>&1 || { echo >&2 "I require Inkscape but it's not installed.  Aborting."; exit 1; }
 command -v convert >/dev/null 2>&1 || { echo >&2 "I require ImageMagick but it's not installed.  Aborting."; exit 1; }
-command -v gtk-update-icon-cache-3.0 >/dev/null 2>&1 || { echo >&2 "I require libgtk-3-bin but it's not installed.  Aborting."; exit 1; }
-cd $basedir
-sizes="16
-22
-24
-32
-48"
+command -v gtk-update-icon-cache >/dev/null 2>&1 || { echo >&2 "gtk-update-icon-cache is missing, skipping icon cache creation"; }
+sleep 5
+basedir="$(dirname "$(readlink -f "${0}")")"
 
-mkdir -p ivy/16
-mkdir -p ivy/22
-mkdir -p ivy/24
-mkdir -p ivy/32
-mkdir -p ivy/48
-cp -R ivy-dev/16/pool ivy/16
-cp -R ivy-dev/22/pool ivy/22
-cp -R ivy-dev/32/pool ivy/32
-cp -R ivy-dev/48/pool ivy/48
-cp ivy-dev/COPYING ivy
-cp ivy-dev/COPYING.pdf ivy
-cp ivy-dev/index.theme.png ivy/index.theme
-cp ivy-dev/freedesktop-status.html ivy/freedesktop-status.html
-#coverting the svg to pngs
-cd ivy/16/pool
-for name16 in `find  -wholename "*.svg"`; do
-inkscape -z $type --export-area-page --export-width=16 --export-height=16 --export-png="`echo "$name16" | sed "s/\.\w*$/.png/"`" "$name16"
+#scaled(Qtsvg fix(https://bugs.kde.org/show_bug.cgi?id=190385) or non-scaled version
+echo "Would you like to upscale all icons(icon set will be ~450MB)(Needed for all Qt apps) [Y,n]"
+read input
+if [[ $input == "Y" || $input == "y" ]]; then
+echo "creating scaled version" && sleep 5
+sizes="16 22 32 48 64 80 96 112 128 144 160 176 192 208 224 240 256"
+defaultsizes="16 22 32 48"
+extrasizes="64 80 96 112 128 144 160 176 192 208 224 240 256"
+indextheme=ivy-dev/index.theme.scaled
+else
+echo "creating fixed version" && sleep 5
+sizes="16 22 32 48"
+indextheme=ivy-dev/index.theme.48
+fi
+
+cd $basedir
+for size in $sizes; do
+	mkdir -p $basedir/ivy/$size
 done
-rm *.svg
-cd ../../22/pool
-for name24 in `find  -wholename "*.svg"`; do
-inkscape -z $type --export-area-page --export-width=22 --export-height=22 --export-png="`echo "$name24" | sed "s/\.\w*$/.png/"`" "$name24"
+
+if [[ $input == "Y" || $input == "y" ]]; then
+	for defaultsize in $defaultsizes; do
+		cp -R ivy-dev/$defaultsize/pool $basedir/ivy/$defaultsize
+	done
+	for extrasize in $extrasizes; do
+		cp -R ivy-dev/48/pool $basedir/ivy/$extrasize
+	done
+else
+	for size in $sizes; do
+		cp -R ivy-dev/$size/pool $basedir/ivy/$size
+	done
+fi
+
+cp ivy-dev/COPYING $basedir/ivy
+cp ivy-dev/COPYING.pdf $basedir/ivy
+cp $indextheme $basedir/ivy/index.theme
+
+#coverting the svgs to pngs
+for size in $sizes; do
+	cd $basedir/ivy/$size/pool
+		for name in `find  -wholename "*.svg"`; do
+		inkscape -z --export-area-page --export-width=$size --export-height=$size --export-png="`echo "$name" | sed "s/\.\w*$/.png/"`" "$name"
+		done
+	rm *.svg
 done
-rm *.svg
-cd ../../32/pool
-for name32 in `find  -wholename "*.svg"`; do
-inkscape -z $type --export-area-page --export-width=32 --export-height=32 --export-png="`echo "$name32" | sed "s/\.\w*$/.png/"`" "$name32"
-done
-rm *.svg
-cd ../../48/pool
-for name48 in `find  -wholename "*.svg"`; do
-inkscape -z $type --export-area-page --export-width=48 --export-height=48 --export-png="`echo "$name48" | sed "s/\.\w*$/.png/"`" "$name48"
-done
-rm *.svg
-cd ../../../
-#fix 24px icons
-cp -R ivy/22/pool ivy/24
-cd ivy/24
-for name24 in `find  -wholename "*.png"`; do
-#convert -bordercolor Transparent -border 1x1 "$name24" "$name24"
-convert -gravity center -extent 24x24 -background Transparent "$name24" -set colorspace RGB "$name24"
-done
+
 #copying symlinks
 cd $basedir/ivy-dev/48/
 mkdir /tmp/ivy-dev-tmp
@@ -63,16 +62,24 @@ for svgsymlinks in `find  -wholename "*.svg"`; do
 	ln -sf "`readlink $svgsymlinks|sed 's/\.svg$/\.png/'`" "`ls $svgsymlinks|sed 's/\.svg$/\.png/'`"
 done
 find  -wholename "*.svg" -exec rm -rf {} \;
+
 #copy the pngs to the png theme
-cp -R /tmp/ivy-dev-tmp/* $basedir/ivy/16
-cp -R /tmp/ivy-dev-tmp/* $basedir/ivy/22
-cp -R /tmp/ivy-dev-tmp/* $basedir/ivy/24
-cp -R /tmp/ivy-dev-tmp/* $basedir/ivy/32
-cp -R /tmp/ivy-dev-tmp/* $basedir/ivy/48
-rm -R /tmp/ivy-dev-tmp
 cd $basedir
-#temporary fix for bigger icons than 48px
-cp -R $basedir/ivy-dev/48 $basedir/ivy/scalable
-gtk-update-icon-cache-3.0 ivy
+for size in $sizes; do
+	cp -R /tmp/ivy-dev-tmp/* $basedir/ivy/$size
+done
+rm -R /tmp/ivy-dev-tmp
+
+#fix 24px icons
+cd $basedir
+cp -R $basedir/ivy/22 $basedir/ivy/24
+cd $basedir/ivy/24/pool
+for name24 in `find  -wholename "*.png"`; do
+	convert -gravity center -extent 24x24 -background Transparent "$name24" -set colorspace RGB "$name24"
+done
+
+#create a icon cache
+cd $basedir
+gtk-update-icon-cache ivy
 #7z a -mx=9 -m0=PPMd -mmem=512m -ms=on ivy ivy
 echo "done, you can now copy the ivy folder to your icon dir($HOME/.icons) or ($HOME/.kde/share/icons) for KDE"
