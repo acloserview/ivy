@@ -3,7 +3,7 @@ basedir="$(dirname "$(readlink -f "${0}")")"
 #somechecks
 command -v inkscape >/dev/null 2>&1 || { echo >&2 "I require Inkscape but it's not installed.  Aborting."; exit 1; }
 command -v convert >/dev/null 2>&1 || { echo >&2 "I require ImageMagick but it's not installed.  Aborting."; exit 1; }
-command -v gtk-update-icon-cache-3.0 >/dev/null 2>&1 || { echo >&2 "I require libgtk-3-bin but it's not installed.  Aborting."; exit 1; }
+command -v gtk-update-icon-cache >/dev/null 2>&1 || { echo >&2 "I require libgtk2-bin but it's not installed.  Aborting."; exit 1; }
 cd $basedir
 sizes="16
 22
@@ -22,7 +22,7 @@ cp -R ivy-dev/32/pool ivy/32
 cp -R ivy-dev/48/pool ivy/48
 cp ivy-dev/COPYING ivy
 cp ivy-dev/COPYING.pdf ivy
-cp ivy-dev/index.theme.png ivy/index.theme
+cp ivy-dev/index.theme.48 ivy/index.theme
 cp ivy-dev/freedesktop-status.html ivy/freedesktop-status.html
 #coverting the svg to pngs
 cd ivy/16/pool
@@ -73,6 +73,6 @@ rm -R /tmp/ivy-dev-tmp
 cd $basedir
 #temporary fix for bigger icons than 48px
 cp -R $basedir/ivy-dev/48 $basedir/ivy/scalable
-gtk-update-icon-cache-3.0 ivy
+gtk-update-icon-cache ivy
 #7z a -mx=9 -m0=PPMd -mmem=512m -ms=on ivy ivy
 echo "done, you can now copy the ivy folder to your icon dir($HOME/.icons) or ($HOME/.kde/share/icons) for KDE"
