@@ -7,7 +7,7 @@ sleep 5
 basedir="$(dirname "$(readlink -f "${0}")")"
 
 #scaled(Qtsvg fix(https://bugs.kde.org/show_bug.cgi?id=190385) or non-scaled version
-echo "Would you like to upscale all icons(icon set will be ~450MB)(Needed for all Qt apps) [Y,n]"
+echo "Would you like to upscale all icons(takes a lot more time)(Needed for all Qt apps) [Y,n]"
 read input
 if [[ $input == "Y" || $input == "y" ]]; then
 	echo "creating scaled version" && sleep 5
