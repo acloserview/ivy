@@ -1,7 +1,7 @@
 
 | ![alt text](https://raw.githubusercontent.com/sixsixfive/ivy/master/prev.png "unscaled") | ![alt text](https://raw.githubusercontent.com/sixsixfive/ivy/master/prev2.png "upscaled")|
 | ------------- |:-------------:|
-| -> default 48px version <- | -> upscaled version <- |
+| default 48px version | upscaled version |
 
 A very minimalistic but colorful png icon theme for X11 Desktop Environments such as: Xfce & LXQt heavily inspired by the [FatCow](http://www.fatcow.com/free-icons) & [Tango!](http://en.wikipedia.org/wiki/Tango_Desktop_Project) icons under [CC-BY-SA](http://creativecommons.org/licenses/by-sa/4.0/deed.en)
 
