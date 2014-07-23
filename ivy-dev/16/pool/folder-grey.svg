@@ -13,9 +13,9 @@
    <stop id="stop3987" stop-color="#eeeeec"/>
    <stop id="stop3989" offset="1" stop-color="#555753"/>
   </linearGradient>
-  <linearGradient x1="3.152961" y1="3.992717" x2="2.280967" y2="22.971022" id="linearGradient3083" xlink:href="#linearGradient3985" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.36446205,0,0,0.32415507,-0.74084604,-0.24799665)"/>
-  <linearGradient x1="15.20339" y1="2.644068" x2="15.263405" y2="12.955609" id="linearGradient862" xlink:href="#linearGradient856" gradientUnits="userSpaceOnUse"/>
-  <linearGradient x1="16.05593" y1="3.225909" x2="16.02446" y2="13.937774" id="linearGradient845" xlink:href="#linearGradient847" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="3.153" y1="3.993" x2="2.281" y2="22.971" id="linearGradient3083" xlink:href="#linearGradient3985" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.36446205,0,0,0.32415507,-0.74084604,-0.24799665)"/>
+  <linearGradient x1="15.203" y1="2.644" x2="15.263" y2="12.956" id="linearGradient862" xlink:href="#linearGradient856" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="16.06" y1="3.226" x2="16.02" y2="13.938" id="linearGradient845" xlink:href="#linearGradient847" gradientUnits="userSpaceOnUse"/>
  </defs>
  <path d="m 8.5871,4.043433 c -0.151434,0 -0.241788,0.087582 -0.307515,0.20167 C 8.257678,4.283129 8.241386,4.324608 8.222638,4.366105 l -0.2847,0.6453 -0.2961,0.6453 C 7.623089,5.698203 7.606798,5.73968 7.584891,5.777707 7.519165,5.891799 7.425345,6.007894 7.277376,5.979377 l -3.3485,0 -1.75397,0 -2.18677,0 0,8.68195 c 0,0.178761 0.16255,0.322673 0.364462,0.322673 l 15.3074,0 c 0.201912,0 0.36446,-0.143912 0.36446,-0.322673 l 0,-10.2953 c 0,-0.178761 -0.17509,-0.260653 -0.364461,-0.322672 l -1.97037,0 -3.13209,0 z" inkscape:connector-curvature="0" id="path841" opacity="0.1" fill-rule="evenodd" color="#000000"/>
  <path d="m 1.5598,1.0486 c -0.201912,0 -0.289474,0.157418 -0.364462,0.324155 l -0.4328,0.6729 h -0.41002 c -0.201912,0 -0.364462,0.144573 -0.364462,0.324155 v 11.2904 c 0,0.179583 0.16255,0.324155 0.364462,0.324155 h 15.3074 c 0.201911,0 0.364461,-0.144572 0.364461,-0.324155 V 2.36981 c 0,-0.179582 -0.16255,-0.324155 -0.364461,-0.324155 h -8.2004 l -0.4328,-0.6729 C 6.9517306,1.206018 6.864168,1.0486 6.662256,1.0486 z" inkscape:connector-curvature="0" id="rect3065" fill="url(#linearGradient3083)" fill-rule="evenodd" color="#000000"/>

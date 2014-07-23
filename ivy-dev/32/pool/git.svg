@@ -13,13 +13,13 @@
    <stop id="stop1408" stop-color="#fb5938"/>
    <stop id="stop1410" offset="1" stop-color="#d02604"/>
   </linearGradient>
-  <linearGradient x1="-15.588422" y1="49.48266" x2="16.263456" y2="17.67767" id="linearGradient1412" xlink:href="#linearGradient1406" gradientUnits="userSpaceOnUse"/>
-  <linearGradient x1="15.556349" y1="18.384777" x2="-15.37959" y2="49.32072" id="linearGradient1428" xlink:href="#linearGradient1422" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="-15.588" y1="49.48" x2="16.263" y2="17.678" id="linearGradient1412" xlink:href="#linearGradient1406" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="15.556" y1="18.385" x2="-15.38" y2="49.32" id="linearGradient1428" xlink:href="#linearGradient1422" gradientUnits="userSpaceOnUse"/>
   <radialGradient cx="24" cy="47" r="3.5" id="radialGradient1446" xlink:href="#linearGradient1440" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1,0,0,0.28571429,0,33.571429)"/>
  </defs>
  <g id="layer1">
   <rect width="7" height="2" rx="1" x="20.5" y="46" id="rect1430" opacity="0.15" fill="url(#radialGradient1446)"/>
-  <rect width="34.19236" height="34.19236" rx="2.849364" x="-17.09618" y="16.844944" transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)" id="rect1386" fill="url(#linearGradient1412)"/>
+  <rect width="34.19" height="34.19" rx="2.849" x="-17.1" y="16.845" transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)" id="rect1386" fill="url(#linearGradient1412)"/>
   <path d="m -14.25,18.3438 c -0.77914,0 -1.34375,0.56461 -1.34375,1.34375 v 28.5 c 0,0.77914 0.56461,1.34375 1.34375,1.34375 h 28.5 c 0.77914,0 1.34375,-0.56461 1.34375,-1.34375 v -28.5 c 0,-0.77914 -0.56461,-1.34375 -1.34375,-1.34375 h -28.5 z" inkscape:connector-curvature="0" transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)" id="path1394" opacity="0.5" fill="none" stroke="url(#linearGradient1428)"/>
   <path d="M 17,7 35,24" inkscape:connector-curvature="0" id="path1398" fill="none" stroke="#ffffff" stroke-width="3"/>
   <path d="m 21.5,11 0,18" inkscape:connector-curvature="0" id="path1400" fill="none" stroke="#ffffff" stroke-width="3"/>

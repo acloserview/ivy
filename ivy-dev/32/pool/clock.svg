@@ -17,10 +17,10 @@
    <stop id="stop3590" stop-color="#eeeeee"/>
    <stop id="stop3592" offset="1" stop-color="#dcdcdc"/>
   </linearGradient>
-  <radialGradient cx="60.05332" cy="51.39256" r="15.03245" id="radialGradient3625" xlink:href="#linearGradient3588" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.404511,1.1888571,-1,-1.1813958,199.73811,11.750541)"/>
-  <linearGradient y1="3.465544" x2="0" y2="44.524227" id="linearGradient3658" xlink:href="#linearGradient3652" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.95121939,0,0,0.95121939,1.1707346,1.6754234)"/>
-  <radialGradient cx="41.09363" cy="-2.099589" r="14" id="radialGradient3678" xlink:href="#linearGradient3672" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.423769,0.86858806,-0.91413465,-1.4984286,80.588527,-24.535325)"/>
-  <linearGradient x1="44.15445" y1="4.100785" x2="44.21271" y2="45.04252" id="linearGradient3821" xlink:href="#linearGradient3815" gradientUnits="userSpaceOnUse"/>
+  <radialGradient cx="60.05" cy="51.39" r="15.03" id="radialGradient3625" xlink:href="#linearGradient3588" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.404511,1.1888571,-1,-1.1813958,199.73811,11.750541)"/>
+  <linearGradient y1="3.466" x2="0" y2="44.524" id="linearGradient3658" xlink:href="#linearGradient3652" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.95121939,0,0,0.95121939,1.1707346,1.6754234)"/>
+  <radialGradient cx="41.09" cy="-2.1" r="14" id="radialGradient3678" xlink:href="#linearGradient3672" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.423769,0.86858806,-0.91413465,-1.4984286,80.588527,-24.535325)"/>
+  <linearGradient x1="44.15" y1="4.101" x2="44.21" y2="45.04" id="linearGradient3821" xlink:href="#linearGradient3815" gradientUnits="userSpaceOnUse"/>
  </defs>
  <path d="m 44.0691,25.4996 a 20.5,20.4985 0 1 1 -41,0 20.5,20.4985 0 1 1 41,0 z" inkscape:connector-curvature="0" id="path3823" opacity="0.2"/>
  <path d="m 44.0691,24.4998 a 20.5,20.4985 0 1 1 -41,0 20.5,20.4985 0 1 1 41,0 z" inkscape:connector-curvature="0" id="path2794" fill="url(#linearGradient3821)"/>

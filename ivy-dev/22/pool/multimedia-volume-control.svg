@@ -20,12 +20,12 @@
   <linearGradient y1="11" x2="0" y2="17" id="linearGradient3858" xlink:href="#linearGradient3820" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.42857146,0,0,0.49999998,12.571428,6.5000013)"/>
   <linearGradient y1="4" x2="0" y2="21" id="linearGradient3815" xlink:href="#linearGradient3809" gradientUnits="userSpaceOnUse" gradientTransform="translate(0,-2)"/>
  </defs>
- <rect width="21" height="18.986528" x="1" y="2.01347" id="rect3817" opacity="0.1"/>
- <rect width="21" height="18.986528" x="1" y="1.013472" id="rect2852" fill="url(#linearGradient3007)"/>
- <rect width="1.461762" height="13" x="5.538239" y="4" id="rect3026" opacity="0.791" fill="#ffffff"/>
- <rect width="1.461762" height="13" x="9.538239" y="4" id="rect3028" opacity="0.791" fill="#ffffff"/>
- <rect width="3" height="2.92145" x="8" y="10.07855" id="rect3864" opacity="0.15"/>
- <rect width="1.461762" height="13" x="13.538239" y="4" id="rect3030" opacity="0.791" fill="#ffffff"/>
+ <rect width="21" height="18.987" x="1" y="2.01" id="rect3817" opacity="0.1"/>
+ <rect width="21" height="18.987" x="1" y="1.013" id="rect2852" fill="url(#linearGradient3007)"/>
+ <rect width="1.462" height="13" x="5.538" y="4" id="rect3026" opacity="0.791" fill="#ffffff"/>
+ <rect width="1.462" height="13" x="9.538" y="4" id="rect3028" opacity="0.791" fill="#ffffff"/>
+ <rect width="3" height="2.921" x="8" y="10.08" id="rect3864" opacity="0.15"/>
+ <rect width="1.462" height="13" x="13.538" y="4" id="rect3030" opacity="0.791" fill="#ffffff"/>
  <rect width="1" height="13" x="5" y="4" id="rect3018" opacity="0.5" fill="#6a6a6a"/>
  <rect width="1" height="13" x="18" y="4" id="rect3032" opacity="0.791" fill="#ffffff"/>
  <rect width="1" height="13" x="9" y="4" id="rect3020" opacity="0.5" fill="#6a6a6a"/>
@@ -33,8 +33,8 @@
  <rect width="1" height="13" x="17" y="4" id="rect3024" opacity="0.5" fill="#6a6a6a"/>
  <rect width="3" height="3" x="4" y="6" id="rect3862" opacity="0.15"/>
  <rect width="3" height="3" x="4" y="5" id="rect3034" fill="url(#linearGradient3826)"/>
- <rect width="3" height="2.92145" x="12" y="5.07855" id="rect3866" opacity="0.15"/>
- <rect width="3" height="2.79374" x="16" y="13.20626" id="rect3868" opacity="0.15"/>
+ <rect width="3" height="2.921" x="12" y="5.079" id="rect3866" opacity="0.15"/>
+ <rect width="3" height="2.794" x="16" y="13.206" id="rect3868" opacity="0.15"/>
  <rect width="3" height="3" x="8" y="9" id="rect3828" fill="url(#linearGradient3838)"/>
  <rect width="3" height="3" x="12" y="4" id="rect3842" fill="url(#linearGradient3848)"/>
  <rect width="3" height="3" x="16" y="12" id="rect3852" fill="url(#linearGradient3858)"/>

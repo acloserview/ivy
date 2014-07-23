@@ -5,10 +5,10 @@
    <stop id="stop3799" stop-color="#d02604"/>
    <stop id="stop3801" offset="1" stop-color="#fb4624"/>
   </linearGradient>
-  <linearGradient x1="39.691929" y1="7.129963" x2="39.804695" y2="40.2555" id="linearGradient3004" xlink:href="#linearGradient3797" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.36514242,0,0,0.36186105,-0.53434709,-0.54543919)"/>
+  <linearGradient x1="39.692" y1="7.13" x2="39.805" y2="40.26" id="linearGradient3004" xlink:href="#linearGradient3797" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.36514242,0,0,0.36186105,-0.53434709,-0.54543919)"/>
  </defs>
  <path d="M 14,12 5,12 5,6 14,6 13.999964,3 3,3 2,4 l 0,10 1,1 10.999964,0" inkscape:connector-curvature="0" id="path3013" opacity="0.1"/>
  <path d="M 14,11 5,11 5,5 14,5 13.999964,2 3,2 2,3 l 0,10 1,1 10.999964,0" inkscape:connector-curvature="0" id="path3005" fill="url(#linearGradient3004)"/>
- <rect width="10" height="1" rx="0.020833" x="3" y="3" id="rect3011" opacity="0.3" fill="#ffffff"/>
+ <rect width="10" height="1" rx="0.021" x="3" y="3" id="rect3011" opacity="0.3" fill="#ffffff"/>
  <path d="m 3.21875,2.46875 -0.75,0.75 0,9.5625 0.75,0.75 10.3125,0 0,-2.0625 -8.53125,0 A 0.46945083,0.46945083 0 0 1 4.53125,11 l 0,-6 A 0.46945083,0.46945083 0 0 1 5,4.53125 l 8.53125,0 0,-2.0625 -10.3125,0 z" id="path3009" opacity="0.4" fill="none" stroke="#000000"/>
 </svg>

@@ -10,24 +10,24 @@
    <stop id="stop3634" offset="1" stop-color="#bec2c2"/>
   </linearGradient>
   <linearGradient y1="7" x2="0" y2="41" id="linearGradient3636" xlink:href="#linearGradient3630" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.29411766,0,0,0.29411765,0.94117632,0.9411754)"/>
-  <linearGradient y1="44" x2="0" y2="35.856644" id="linearGradient3649" xlink:href="#linearGradient3643" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.33333302,0,0,0.33333302,-0.33333115,0.333347)"/>
+  <linearGradient y1="44" x2="0" y2="35.857" id="linearGradient3649" xlink:href="#linearGradient3643" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.33333302,0,0,0.33333302,-0.33333115,0.333347)"/>
  </defs>
  <rect width="14" height="14" rx="0" x="1" y="1" id="rect2818" fill="#73bf4a"/>
  <path d="M 1.000001,13.000002 2.9999991,15 l -1.9999982,0 0,-1.999998 z" inkscape:connector-curvature="0" id="rect3640" fill="url(#linearGradient3649)"/>
- <rect width="10" height="10" rx="1.176471" x="3" y="3" id="rect3614" fill="url(#linearGradient3636)"/>
- <rect width="5" height="0.999999" rx="0" x="5" y="5" id="rect3651" opacity="0.4"/>
- <rect width="1.999999" height="1.999999" rx="0" x="5" y="9" id="rect3657" opacity="0.3"/>
- <rect width="0.333333" height="0.333333" rx="0" x="5" y="9" id="rect3659" opacity="0.3"/>
- <rect width="0.333333" height="0.333333" rx="0" x="6.666667" y="9" id="rect3661" opacity="0.3" fill="#ffffff"/>
- <rect width="0.333333" height="0.333333" rx="0" x="6" y="9" id="rect3663" opacity="0.3" fill="#ffffff"/>
- <rect width="0.333333" height="0.333333" rx="0" x="5.333334" y="9" id="rect3665" opacity="0.3" fill="#ffffff"/>
- <rect width="0.333333" height="0.333333" rx="0" x="5.666668" y="9.333337" id="rect3667" opacity="0.3" fill="#ffffff"/>
- <rect width="0.333333" height="0.333333" rx="0" x="6.333334" y="9.333337" id="rect3669" opacity="0.3" fill="#ffffff"/>
- <rect width="0.333333" height="0.333333" rx="0" x="6.333334" y="10" id="rect3671" opacity="0.3" fill="#ffffff"/>
- <rect width="0.333333" height="0.333333" rx="0" x="5.399408" y="10.153105" id="rect3673" opacity="0.3" fill="#ffffff"/>
- <rect width="0.333333" height="0.333333" rx="0" x="5.629062" y="9.954072" id="rect3675" opacity="0.1"/>
- <rect width="0.333333" height="0.333333" rx="0" x="6.547678" y="9.877519" id="rect3677" opacity="0.1"/>
- <rect width="0.333333" height="0.333333" rx="0" x="5.797475" y="9.142625" id="rect3679" opacity="0.1"/>
+ <rect width="10" height="10" rx="1.176" x="3" y="3" id="rect3614" fill="url(#linearGradient3636)"/>
+ <rect width="5" height="1" rx="0" x="5" y="5" id="rect3651" opacity="0.4"/>
+ <rect width="2" height="2" rx="0" x="5" y="9" id="rect3657" opacity="0.3"/>
+ <rect width="0.333" height="0.333" rx="0" x="5" y="9" id="rect3659" opacity="0.3"/>
+ <rect width="0.333" height="0.333" rx="0" x="6.667" y="9" id="rect3661" opacity="0.3" fill="#ffffff"/>
+ <rect width="0.333" height="0.333" rx="0" x="6" y="9" id="rect3663" opacity="0.3" fill="#ffffff"/>
+ <rect width="0.333" height="0.333" rx="0" x="5.333" y="9" id="rect3665" opacity="0.3" fill="#ffffff"/>
+ <rect width="0.333" height="0.333" rx="0" x="5.667" y="9.333" id="rect3667" opacity="0.3" fill="#ffffff"/>
+ <rect width="0.333" height="0.333" rx="0" x="6.333" y="9.333" id="rect3669" opacity="0.3" fill="#ffffff"/>
+ <rect width="0.333" height="0.333" rx="0" x="6.333" y="10" id="rect3671" opacity="0.3" fill="#ffffff"/>
+ <rect width="0.333" height="0.333" rx="0" x="5.399" y="10.153" id="rect3673" opacity="0.3" fill="#ffffff"/>
+ <rect width="0.333" height="0.333" rx="0" x="5.629" y="9.954" id="rect3675" opacity="0.1"/>
+ <rect width="0.333" height="0.333" rx="0" x="6.548" y="9.878" id="rect3677" opacity="0.1"/>
+ <rect width="0.333" height="0.333" rx="0" x="5.797" y="9.143" id="rect3679" opacity="0.1"/>
  <path d="m 1.53125,1.53125 0,12.9375 12.9375,0 0,-12.9375 -12.9375,0 z" id="path3031" opacity="0.5" fill="none" stroke="#000000"/>
  <rect width="8" height="1" rx="0" x="4" y="13" id="rect3035" opacity="0.4" fill="#ffffff"/>
  <path d="M 4.1875,3.5 C 3.8076863,3.5 3.5,3.8076863 3.5,4.1875 l 0,7.625 C 3.5,12.192314 3.8076861,12.5 4.1875,12.5 l 7.625,0 c 0.379814,0 0.6875,-0.307686 0.6875,-0.6875 l 0,-7.625 C 12.5,3.8076861 12.192314,3.5 11.8125,3.5 l -7.625,0 z" id="path3039" opacity="0.45" fill="none" stroke="#000000"/>

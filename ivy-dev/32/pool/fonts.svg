@@ -13,8 +13,8 @@
    <stop id="stop851" stop-color="#d02604"/>
    <stop id="stop853" offset="1" stop-color="#fc7357"/>
   </linearGradient>
-  <linearGradient y1="5.861805" x2="0" y2="78.12972" id="linearGradient855" xlink:href="#linearGradient849" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.29113367,0,0,0.3044228,-0.4902538,0.2155324)"/>
-  <linearGradient y1="5.861805" x2="0" y2="78.12972" id="linearGradient834" xlink:href="#linearGradient898" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.29113367,0,0,0.3044228,6.5098638,6.2155324)"/>
+  <linearGradient y1="5.862" x2="0" y2="78.13" id="linearGradient855" xlink:href="#linearGradient849" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.29113367,0,0,0.3044228,-0.4902538,0.2155324)"/>
+  <linearGradient y1="5.862" x2="0" y2="78.13" id="linearGradient834" xlink:href="#linearGradient898" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.29113367,0,0,0.3044228,6.5098638,6.2155324)"/>
   <linearGradient y1="3" x2="0" y2="16" id="linearGradient850" xlink:href="#linearGradient844" gradientUnits="userSpaceOnUse"/>
   <linearGradient y1="3" x2="0" y2="23" id="linearGradient864" xlink:href="#linearGradient844" gradientUnits="userSpaceOnUse"/>
  </defs>

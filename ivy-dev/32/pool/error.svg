@@ -9,13 +9,11 @@
    <stop id="stop840" stop-color="#d02604"/>
    <stop id="stop842" offset="1" stop-color="#fb5736"/>
   </linearGradient>
-  <radialGradient cx="60.05332" cy="51.39256" r="15.03245" id="radialGradient3625" xlink:href="#linearGradient3588" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.404511,1.1888571,-1,-1.1813958,199.73811,11.750541)"/>
+  <radialGradient cx="60.05" cy="51.39" r="15.03" id="radialGradient3625" xlink:href="#linearGradient3588" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.404511,1.1888571,-1,-1.1813958,199.73811,11.750541)"/>
   <linearGradient id="linearGradient3588">
    <stop id="stop3590" stop-color="#eeeeee"/>
    <stop id="stop3592" offset="1" stop-color="#dcdcdc"/>
   </linearGradient>
-  <radialGradient cx="60.05332" cy="51.39256" r="15.03245" id="radialGradient3625-5" xlink:href="#linearGradient3588" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.404511,1.1888571,-1,-1.1813958,199.73811,11.750541)"/>
-  <radialGradient cx="60.05332" cy="51.39256" r="15.03245" id="radialGradient3625-56" xlink:href="#linearGradient3588" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.404511,1.1888571,-1,-1.1813958,199.73811,11.750541)"/>
   <linearGradient y1="4" x2="0" y2="44" id="linearGradient844" xlink:href="#linearGradient838" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.65981102,0,0,0.65960548,0.1489313,0.156951)"/>
   <linearGradient y1="4" x2="0" y2="28" id="linearGradient864" xlink:href="#linearGradient858" gradientUnits="userSpaceOnUse"/>
  </defs>

@@ -9,12 +9,12 @@
    <stop id="stop3839" stop-color="#66b03e"/>
    <stop id="stop3841" offset="1" stop-color="#a3d588"/>
   </linearGradient>
-  <linearGradient y1="3" x2="0" y2="45.12203" id="linearGradient826" xlink:href="#linearGradient3837" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.47679516,0,0,0.49951122,0.05691605,-1.4882691)"/>
+  <linearGradient y1="3" x2="0" y2="45.12" id="linearGradient826" xlink:href="#linearGradient3837" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.47679516,0,0,0.49951122,0.05691605,-1.4882691)"/>
   <linearGradient y1="2" x2="0" y2="12" id="linearGradient3787" xlink:href="#linearGradient3781" gradientUnits="userSpaceOnUse" gradientTransform="translate(0,-1)"/>
  </defs>
  <path d="M 3,15 3,22 20,11 3,1 3,11 8,8 l 5,3 -5,4 0,-4 z" inkscape:connector-curvature="0" id="path3003" opacity="0.1"/>
  <path d="M 3,14 3,21 20,10 3,0 3,10 8,7 l 5,3 -5,4 0,-4 z" inkscape:connector-curvature="0" id="path7268" fill="url(#linearGradient826)"/>
- <text x="-6.447815" y="15.826195" id="text5527" font-family="Bitstream Vera Sans" font-size="40"><tspan x="-6.447815" y="15.826195" id="tspan5529"/>
+ <text x="-6.448" y="15.826" id="text5527" font-family="Bitstream Vera Sans" font-size="40"><tspan x="-6.448" y="15.826" id="tspan5529"/>
  </text>
  <path d="m 3.5312,0.9375 0,8.0938 4.1875,-2.5 a 0.546888,0.546888 0 0 1 0.5625,0 l 5,3 a 0.546888,0.546888 0 0 1 0.0625,0.90625 l -5,4 a 0.546888,0.546888 0 0 1 -0.875,-0.4375 l 0,-2.875 -3.9375,3.1562 L 3.5312,20 18.9374,10 3.5312,0.9375 z" inkscape:connector-curvature="0" id="path3009" opacity="0.4" fill="none" stroke="#000000"/>
  <path d="m 4.5312,2.6875 0,4.625 2.6875,-1.625 a 1.53193,1.53193 0 0 1 1.5625,0 l 5,3 a 1.53193,1.53193 0 0 1 0.1875,2.5 l -5,4 A 1.53193,1.53193 0 0 1 6.4687,14 l 0,-0.8125 -1.9375,1.5625 0,3.4375 12.5625,-8.125 -12.5625,-7.375 z" inkscape:connector-curvature="0" id="path3011" opacity="0.4" fill="none" stroke="url(#linearGradient3787)"/>

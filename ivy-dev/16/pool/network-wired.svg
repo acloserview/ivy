@@ -7,11 +7,11 @@
   </linearGradient>
   <linearGradient y1="41" x2="0" y2="7" id="linearGradient3636" xlink:href="#linearGradient3869" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.29411766,0,0,0.29411765,0.94117643,0.94117753)"/>
  </defs>
- <rect width="14" height="14" rx="0.666667" x="1" y="2" id="rect3054" opacity="0.1"/>
- <rect width="14" height="14" rx="0.666667" x="1" y="1" id="rect2818" fill="#f1f1f1"/>
- <rect width="10" height="10" rx="1.176471" x="3" y="3" id="rect3614" fill="url(#linearGradient3636)"/>
+ <rect width="14" height="14" rx="0.667" x="1" y="2" id="rect3054" opacity="0.1"/>
+ <rect width="14" height="14" rx="0.667" x="1" y="1" id="rect2818" fill="#f1f1f1"/>
+ <rect width="10" height="10" rx="1.176" x="3" y="3" id="rect3614" fill="url(#linearGradient3636)"/>
  <path d="M 7,5 7,6 6,6 6,7 5,7 5,11 11,11 11,7 10,7 10,6 9,6 9,5 z" inkscape:connector-curvature="0" id="rect4610" fill="#171717" fill-rule="evenodd" color="#000000"/>
- <rect width="10" height="1" rx="0.178571" ry="0.5" x="3" y="13" id="rect3867" opacity="0.6" fill="#ffffff"/>
+ <rect width="10" height="1" rx="0.179" ry="0.5" x="3" y="13" id="rect3867" opacity="0.6" fill="#ffffff"/>
  <path d="m 1.65625,1.5625 c -0.082068,0 -0.09375,0.011682 -0.09375,0.09375 l 0,12.6875 c 0,0.08207 0.011682,0.09375 0.09375,0.09375 l 12.6875,0 c 0.08207,0 0.09375,-0.01168 0.09375,-0.09375 l 0,-12.6875 c 0,-0.082068 -0.01168,-0.09375 -0.09375,-0.09375 l -12.6875,0 z" id="path3048" opacity="0.4" fill="none" stroke="#000000"/>
  <path d="m 4.1875,3.53125 c -0.3642414,0 -0.65625,0.2920087 -0.65625,0.65625 l 0,7.625 c 0,0.364242 0.2920085,0.65625 0.65625,0.65625 l 7.625,0 c 0.364242,0 0.65625,-0.292008 0.65625,-0.65625 l 0,-7.625 c 0,-0.3642414 -0.292008,-0.65625 -0.65625,-0.65625 l -7.625,0 z" id="path3052" opacity="0.3" fill="none" stroke="#000000"/>
 </svg>

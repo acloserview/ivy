@@ -5,8 +5,8 @@
    <stop id="stop3798" stop-color="#ffffff"/>
    <stop id="stop3800" offset="1" stop-color="#ffffff" stop-opacity="0"/>
   </linearGradient>
-  <linearGradient x1="3.864407" y1="37.08475" x2="24" y2="37" id="linearGradient3852" xlink:href="#linearGradient3796" gradientUnits="userSpaceOnUse"/>
-  <linearGradient x1="25.288136" y1="3.79661" x2="43.796612" y2="4.355932" id="linearGradient3854" xlink:href="#linearGradient3796" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="3.864" y1="37.08" x2="24" y2="37" id="linearGradient3852" xlink:href="#linearGradient3796" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="25.288" y1="3.797" x2="43.797" y2="4.356" id="linearGradient3854" xlink:href="#linearGradient3796" gradientUnits="userSpaceOnUse"/>
  </defs>
  <g transform="matrix(0,1,-1,0,48.009488,0.09888533)" id="g3841">
   <path d="m 45.9011,3.0005 -20,4 -22,0 0,31 22,0 20,7 0,-42 z" inkscape:connector-curvature="0" id="rect3817" opacity="0.1"/>
@@ -16,7 +16,7 @@
   <rect width="1" height="29" x="24" y="8" id="rect3001" opacity="0.4" fill="#171717"/>
   <path d="m 4.4375,8.4375 0,28.125 19.125,0 0,-28.125 -19.125,0 z" inkscape:connector-curvature="0" id="path3005" opacity="0.55" fill="none" stroke="url(#linearGradient3852)"/>
   <path d="M 43.4688,4.875 C 37.82297,6 31.1769,7.125 25.531,8.25 c 0,9.5625 0,19.125 0,28.6875 5.64583,1.96875 12.2919,3.9375 17.9378,5.90625 0,-12.6562 0,-25.3125 0,-37.9688 z" inkscape:connector-curvature="0" id="path3793" fill="none" stroke="url(#linearGradient3854)"/>
-  <path d="m 20,13 -8,10 8,10 0,-7 9,0 0,7 8,-10 -8,-10 0,7 -9,0 0,-7 z" inkscape:connector-curvature="0" id="rect3804" opacity="0.7112" fill="#171717"/>
+  <path d="m 20,13 -8,10 8,10 0,-7 9,0 0,7 8,-10 -8,-10 0,7 -9,0 0,-7 z" inkscape:connector-curvature="0" id="rect3804" opacity="0.711" fill="#171717"/>
   <path d="m 19.8438,12.5625 a 0.447032,0.447032 0 0 0 -0.1875,0.15625 l -8,10 a 0.447032,0.447032 0 0 0 0,0.5625 l 8,10 A 0.447032,0.447032 0 0 0 20.43755,33 v -6.5625 h 8.125 V 33 a 0.447032,0.447032 0 0 0 0.78125,0.28125 l 8,-10 a 0.447032,0.447032 0 0 0 0,-0.5625 l -8,-10 A 0.447032,0.447032 0 0 0 28.56255,13 v 6.5625 h -8.125 V 13 A 0.447032,0.447032 0 0 0 19.8438,12.5625 z" inkscape:connector-curvature="0" id="path3815" opacity="0.3" fill="none" stroke="#ffffff"/>
  </g>
 </svg>

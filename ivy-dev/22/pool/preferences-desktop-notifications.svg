@@ -10,7 +10,7 @@
    <stop id="stop3768" offset="1" stop-color="#98b8e3"/>
   </linearGradient>
   <linearGradient y1="6" x2="0" y2="40" id="linearGradient3770" xlink:href="#linearGradient3764" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.45000001,0,0,0.44680851,0.18775994,0.30927503)"/>
-  <linearGradient y1="4" x2="0" y2="16.5625" id="linearGradient3780" xlink:href="#linearGradient3774" gradientUnits="userSpaceOnUse"/>
+  <linearGradient y1="4" x2="0" y2="16.563" id="linearGradient3780" xlink:href="#linearGradient3774" gradientUnits="userSpaceOnUse"/>
  </defs>
  <path d="m 2,4 0,11 4,0 5,4 5,-4 4,0 0,-11 z" inkscape:connector-curvature="0" id="path3791" opacity="0.15"/>
  <path d="m 2,3 0,11 4,0 5,4 5,-4 4,0 0,-11 z" inkscape:connector-curvature="0" id="rect2852" fill="url(#linearGradient3770)"/>

@@ -9,13 +9,13 @@
    <stop id="stop835" stop-color="#66b03e"/>
    <stop id="stop837" offset="1" stop-color="#95ce76"/>
   </linearGradient>
-  <radialGradient cx="60.05332" cy="51.39256" r="15.03245" id="radialGradient3625" xlink:href="#linearGradient3588" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.404511,1.1888571,-1,-1.1813958,199.73811,11.750541)"/>
+  <radialGradient cx="60.05" cy="51.39" r="15.03" id="radialGradient3625" xlink:href="#linearGradient3588" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.404511,1.1888571,-1,-1.1813958,199.73811,11.750541)"/>
   <linearGradient id="linearGradient3588">
    <stop id="stop3590" stop-color="#eeeeee"/>
    <stop id="stop3592" offset="1" stop-color="#dcdcdc"/>
   </linearGradient>
   <linearGradient y1="7" x2="0" y2="41" id="linearGradient839" xlink:href="#linearGradient833" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.39058104,0,0,0.37989443,-1.1716242,0.40152337)"/>
-  <linearGradient x1="7.442289" y1="5" x2="8" y2="12.535929" id="linearGradient864" xlink:href="#linearGradient858" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="7.442" y1="5" x2="8" y2="12.536" id="linearGradient864" xlink:href="#linearGradient858" gradientUnits="userSpaceOnUse"/>
  </defs>
  <path d="M 13,3 7,10 3,6 0,9 c 7,7 0,0 7,7 9,-10 0,0 9,-10.0053 z" inkscape:connector-curvature="0" id="rect2850" fill="url(#linearGradient839)"/>
  <path d="m 12.9375,3.2188 c -0.111554,0.027681 -0.212793,0.095174 -0.28125,0.1875 l -5.6562,6.5938 -3.6562,-3.6562 c -0.183504,-0.173696 -0.503996,-0.173696 -0.6875,0 l -2.3125,2.3125 c -0.173696,0.183504 -0.173696,0.503996 0,0.6875 l 6.2812,6.2812 c 0.185884,0.192122 0.532866,0.192122 0.71875,0 8.46795,-9.42102 5.56605,-6.13067 8.375,-9.25 0.165585,-0.191287 0.151006,-0.512024 -0.03125,-0.6875 L 13.37505,3.3751 C 13.265903,3.256682 13.097019,3.196367 12.93755,3.21885 z m 0.125,1.2188 1.5938,1.5938 c -1.40265,1.61471 -3.23288,3.54715 -4.46875,4.9375 -0.459065,0.509731 -1.67215,1.84435 -3.25,3.59375 l -5.5625,-5.5625 1.625,-1.625 3.3125,3.3125 c 0.419392,0.420409 1.05618,0.392723 1.4375,-0.0625 z" inkscape:connector-curvature="0" id="path40" opacity="0.39" color="#000000"/>

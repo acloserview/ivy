@@ -5,8 +5,8 @@
    <stop id="stop3798" stop-color="#ffffff"/>
    <stop id="stop3800" offset="1" stop-color="#ffffff" stop-opacity="0"/>
   </linearGradient>
-  <linearGradient x1="3.864407" y1="37.08475" x2="24" y2="37" id="linearGradient3852" xlink:href="#linearGradient3796" gradientUnits="userSpaceOnUse"/>
-  <linearGradient x1="25.288136" y1="3.79661" x2="43.796612" y2="4.355932" id="linearGradient3854" xlink:href="#linearGradient3796" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="3.864" y1="37.08" x2="24" y2="37" id="linearGradient3852" xlink:href="#linearGradient3796" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="25.288" y1="3.797" x2="43.797" y2="4.356" id="linearGradient3854" xlink:href="#linearGradient3796" gradientUnits="userSpaceOnUse"/>
  </defs>
  <g transform="matrix(0,1,-1,0,48.009488,0.09888533)" id="g3841">
   <path d="m 45.9011,3.0005 -20,4 -22,0 0,31 22,0 20,7 0,-42 z" inkscape:connector-curvature="0" id="rect3817" opacity="0.1"/>

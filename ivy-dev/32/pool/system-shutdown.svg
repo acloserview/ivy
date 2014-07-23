@@ -12,13 +12,13 @@
   <linearGradient y1="3" x2="0" y2="45" id="linearGradient838" xlink:href="#linearGradient832" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.66666668,0,0,0.66666668,-5e-8,1.217186e-5)"/>
   <linearGradient y1="3" x2="0" y2="29" id="linearGradient843" xlink:href="#linearGradient837" gradientUnits="userSpaceOnUse"/>
  </defs>
- <rect width="28" height="28" rx="2.666667" x="2" y="3" id="rect876" opacity="0.1"/>
- <rect width="28" height="28" rx="2.666667" x="2" y="2" id="rect2816" fill="url(#linearGradient838)"/>
- <g transform="matrix(0.67064051,0,0,0.65893281,-0.0641901,-0.80028978)" id="g851" opacity="0.5" fill="none" stroke="#000000" stroke-width="6.061">
+ <rect width="28" height="28" rx="2.667" x="2" y="3" id="rect876" opacity="0.1"/>
+ <rect width="28" height="28" rx="2.667" x="2" y="2" id="rect2816" fill="url(#linearGradient838)"/>
+ <g transform="matrix(0.67064051,0,0,0.65893281,-0.0641901,-0.80028978)" id="g851" opacity="0.5" fill="none" stroke="#000000" stroke-width="6.06">
   <path d="m 33.4257,14.8425 c 3.71557,3.7021 4.91961,9.54929 2.92022,14.3982 -1.99939,4.84891 -7.08198,8.25574 -12.327,8.26316 -5.24507,0.0074 -10.3373,-3.385 -12.3504,-8.22823 -2.01311,-4.84323 -0.82605,-10.6948 2.87902,-14.4074" inkscape:connector-curvature="0" id="path853" stroke-linecap="round"/>
   <path d="m 24,10.497 0,10.4515" inkscape:connector-curvature="0" id="path855" stroke-linecap="round"/>
  </g>
- <g transform="matrix(0.67064051,0,0,0.65893281,-0.0641901,0.19954873)" id="g2859" fill="none" stroke="#ffffff" stroke-width="6.061">
+ <g transform="matrix(0.67064051,0,0,0.65893281,-0.0641901,0.19954873)" id="g2859" fill="none" stroke="#ffffff" stroke-width="6.06">
   <path d="m 33.4257,14.8425 c 3.71557,3.7021 4.91961,9.54929 2.92022,14.3982 -1.99939,4.84891 -7.08198,8.25574 -12.327,8.26316 -5.24507,0.0074 -10.3373,-3.385 -12.3504,-8.22823 -2.01311,-4.84323 -0.82605,-10.6948 2.87902,-14.4074" inkscape:connector-curvature="0" id="path3604" stroke-linecap="round"/>
   <path d="m 24,10.497 0,10.4515" inkscape:connector-curvature="0" id="path3606" stroke-linecap="round"/>
  </g>

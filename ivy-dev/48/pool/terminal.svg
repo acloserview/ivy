@@ -9,19 +9,19 @@
    <stop id="stop3602" stop-color="#ffffff"/>
    <stop id="stop3604" offset="1" stop-color="#ffffff" stop-opacity="0"/>
   </linearGradient>
-  <linearGradient y1="5.9375" x2="0" y2="42.0625" id="linearGradient3020" xlink:href="#linearGradient3600" gradientUnits="userSpaceOnUse" gradientTransform="translate(4e-7,-0.7801992)"/>
+  <linearGradient y1="5.938" x2="0" y2="42.06" id="linearGradient3020" xlink:href="#linearGradient3600" gradientUnits="userSpaceOnUse" gradientTransform="translate(4e-7,-0.7801992)"/>
   <linearGradient y1="43" x2="0" y2="5" id="linearGradient3026" xlink:href="#linearGradient3648" gradientUnits="userSpaceOnUse" gradientTransform="translate(4e-7,-0.7801992)"/>
   <mask id="mask3037">
-   <rect width="39.959732" height="28.21477" x="4.053691" y="14" id="rect3039" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
+   <rect width="39.96" height="28.21" x="4.054" y="14" id="rect3039" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
   </mask>
  </defs>
- <rect width="39.959732" height="28.21477" x="4.053691" y="15.00023" id="rect3033" opacity="0.1" fill="#171717" fill-rule="evenodd" color="#000000"/>
- <rect width="40" height="38" x="4" y="4.219801" id="rect2852" fill="url(#linearGradient3026)"/>
- <rect width="40" height="9.7802" x="4" y="4.219801" id="rect2854" fill="#5288d1"/>
+ <rect width="39.96" height="28.21" x="4.054" y="15" id="rect3033" opacity="0.1" fill="#171717" fill-rule="evenodd" color="#000000"/>
+ <rect width="40" height="38" x="4" y="4.22" id="rect2852" fill="url(#linearGradient3026)"/>
+ <rect width="40" height="9.78" x="4" y="4.22" id="rect2854" fill="#5288d1"/>
  <path d="m 4.4688,4.6886 0,37.0625 39.0625,0 0,-37.0625 -39.0625,0 z" inkscape:connector-curvature="0" id="path2856" opacity="0.4" fill="none" stroke="#000000"/>
  <path d="m 4.9369,13.5286 38.1261,4e-4" inkscape:connector-curvature="0" id="path2858" opacity="0.562" fill="none" stroke="#000000"/>
  <path d="m 5.4375,5.6573 0,35.125 37.125,0 0,-35.125 -37.125,0 z" inkscape:connector-curvature="0" id="path2860" opacity="0.5" fill="none" stroke="url(#linearGradient3020)"/>
- <rect width="39.959732" height="28.21477" x="4.053691" y="14" id="rect3031" fill="#171717" fill-rule="evenodd" color="#000000"/>
+ <rect width="39.96" height="28.21" x="4.054" y="14" id="rect3031" fill="#171717" fill-rule="evenodd" color="#000000"/>
  <path d="m 4.4688,4.6886 0,37.0625 39.0625,0 0,-37.0625 -39.0625,0 z" inkscape:connector-curvature="0" mask="url(#mask3037)" id="path3033" opacity="0.8" fill="none" stroke="#000000"/>
  <rect width="1" height="1" x="13" y="19" id="rect3041" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
  <rect width="1" height="1" x="9" y="19" id="rect3043" fill="#ffffff" fill-rule="evenodd" color="#000000"/>

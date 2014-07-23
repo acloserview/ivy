@@ -13,21 +13,21 @@
    <stop id="stop3987" stop-color="#ebebeb"/>
    <stop id="stop3989" offset="1" stop-color="#6a6a6a"/>
   </linearGradient>
-  <linearGradient y1="-6.974768" x2="0" y2="47.556023" id="linearGradient3074" xlink:href="#linearGradient3864" gradientUnits="userSpaceOnUse"/>
-  <linearGradient x1="3.152961" y1="3.992717" x2="2.280967" y2="22.971022" id="linearGradient3083" xlink:href="#linearGradient3985" gradientUnits="userSpaceOnUse"/>
-  <linearGradient y1="-0.770696" x2="0" y2="23.16927" id="linearGradient3870" xlink:href="#linearGradient3864" gradientUnits="userSpaceOnUse"/>
-  <linearGradient x1="46.559322" y1="44.07961" x2="46.593979" y2="17.02876" id="linearGradient835" xlink:href="#linearGradient837" gradientUnits="userSpaceOnUse"/>
+  <linearGradient y1="-6.975" x2="0" y2="47.556" id="linearGradient3074" xlink:href="#linearGradient3864" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="3.153" y1="3.993" x2="2.281" y2="22.971" id="linearGradient3083" xlink:href="#linearGradient3985" gradientUnits="userSpaceOnUse"/>
+  <linearGradient y1="-0.771" x2="0" y2="23.17" id="linearGradient3870" xlink:href="#linearGradient3864" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="46.559" y1="44.08" x2="46.594" y2="17.03" id="linearGradient835" xlink:href="#linearGradient837" gradientUnits="userSpaceOnUse"/>
   <linearGradient id="linearGradient1061">
    <stop id="stop1063" stop-color="#ff8b36"/>
    <stop id="stop1065" offset="1" stop-color="#d25900"/>
   </linearGradient>
-  <radialGradient cx="60.05332" cy="51.39256" r="15.03245" id="radialGradient3625" xlink:href="#linearGradient3588" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.404511,1.1888571,-1,-1.1813958,199.73811,11.750541)"/>
+  <radialGradient cx="60.05" cy="51.39" r="15.03" id="radialGradient3625" xlink:href="#linearGradient3588" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.404511,1.1888571,-1,-1.1813958,199.73811,11.750541)"/>
   <linearGradient id="linearGradient3588">
    <stop id="stop3590" stop-color="#eeeeee"/>
    <stop id="stop3592" offset="1" stop-color="#dcdcdc"/>
   </linearGradient>
-  <linearGradient x1="35.611713" y1="2.252899" x2="35.22682" y2="33.902157" id="linearGradient1054" xlink:href="#linearGradient3864" gradientUnits="userSpaceOnUse"/>
-  <linearGradient x1="38.13059" y1="8" x2="38.01776" y2="27.845163" id="linearGradient1067" xlink:href="#linearGradient1061" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="35.612" y1="2.253" x2="35.23" y2="33.902" id="linearGradient1054" xlink:href="#linearGradient3864" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="38.13" y1="8" x2="38.02" y2="27.845" id="linearGradient1067" xlink:href="#linearGradient1061" gradientUnits="userSpaceOnUse"/>
  </defs>
  <path d="m 6.3125,4.99975 c -0.554,0 -0.79425,0.4856239 -1,1 l -1.1875,3 -1.125,0 c -0.554,0 -1,0.446 -1,1 L 2,43.906 c 0,0.554 0.446,1 1,1 l 42,0 c 0.554,0 1,-0.446 1,-1 L 46,9.99975 c 0,-0.554 -0.446,-1 -1,-1 l -22.5,0 -1.1875,-3 c -0.20575,-0.5143761 -0.446,-1 -1,-1 l -14,0 z" inkscape:connector-curvature="0" id="path862" opacity="0.2" fill-rule="evenodd" color="#000000"/>
  <path d="m 6.3125,4 c -0.554,0 -0.79425,0.4856239 -1,1 L 4.125,8 3,8 C 2.446,8 2,8.446 2,9 l 0,33.90625 c 0,0.554 0.446,1 1,1 l 42,0 c 0.554,0 1,-0.446 1,-1 L 46,9 C 46,8.446 45.554,8 45,8 L 22.5,8 21.3125,5 c -0.20575,-0.5143761 -0.446,-1 -1,-1 l -14,0 z" inkscape:connector-curvature="0" id="rect3065" fill="url(#linearGradient3083)" fill-rule="evenodd" color="#000000"/>

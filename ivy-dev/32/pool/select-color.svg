@@ -41,28 +41,28 @@
    <stop id="stop914" stop-color="#d02604"/>
    <stop id="stop916" offset="1" stop-color="#fc775d"/>
   </linearGradient>
-  <linearGradient y1="4.90625" x2="0" y2="39" id="linearGradient902" xlink:href="#linearGradient1010" gradientUnits="userSpaceOnUse"/>
+  <linearGradient y1="4.906" x2="0" y2="39" id="linearGradient902" xlink:href="#linearGradient1010" gradientUnits="userSpaceOnUse"/>
   <linearGradient y1="8" x2="0" y2="20" id="linearGradient918" xlink:href="#linearGradient912" gradientUnits="userSpaceOnUse"/>
-  <linearGradient x1="30.00001" y1="7.919488" x2="30" y2="20" id="linearGradient926" xlink:href="#linearGradient920" gradientUnits="userSpaceOnUse"/>
+  <linearGradient y1="7.919" x2="0" y2="20" id="linearGradient926" xlink:href="#linearGradient920" gradientUnits="userSpaceOnUse"/>
   <linearGradient y1="8" x2="0" y2="20" id="linearGradient934" xlink:href="#linearGradient928" gradientUnits="userSpaceOnUse"/>
   <linearGradient y1="20" x2="0" y2="32" id="linearGradient942" xlink:href="#linearGradient936" gradientUnits="userSpaceOnUse"/>
-  <linearGradient x1="30" y1="20" x2="30.00001" y2="32.08" id="linearGradient950" xlink:href="#linearGradient944" gradientUnits="userSpaceOnUse"/>
-  <linearGradient x1="42" y1="20" x2="42.00001" y2="32.08" id="linearGradient958" xlink:href="#linearGradient952" gradientUnits="userSpaceOnUse"/>
-  <linearGradient y1="31.919502" x2="0" y2="44" id="linearGradient966" xlink:href="#linearGradient960" gradientUnits="userSpaceOnUse"/>
-  <linearGradient x1="30" y1="32" x2="30.00001" y2="44.08" id="linearGradient974" xlink:href="#linearGradient968" gradientUnits="userSpaceOnUse"/>
+  <linearGradient y1="20" x2="0" y2="32.08" id="linearGradient950" xlink:href="#linearGradient944" gradientUnits="userSpaceOnUse"/>
+  <linearGradient y1="20" x2="0" y2="32.08" id="linearGradient958" xlink:href="#linearGradient952" gradientUnits="userSpaceOnUse"/>
+  <linearGradient y1="31.92" x2="0" y2="44" id="linearGradient966" xlink:href="#linearGradient960" gradientUnits="userSpaceOnUse"/>
+  <linearGradient y1="32" x2="0" y2="44.08" id="linearGradient974" xlink:href="#linearGradient968" gradientUnits="userSpaceOnUse"/>
   <linearGradient y1="32" x2="0" y2="44" id="linearGradient982" xlink:href="#linearGradient976" gradientUnits="userSpaceOnUse"/>
   <linearGradient x1="9" x2="43" id="linearGradient1016" xlink:href="#linearGradient1010" gradientUnits="userSpaceOnUse"/>
  </defs>
- <rect width="36" height="12.08025" x="6" y="32.91975" id="rect906" opacity="0.144"/>
- <rect width="12" height="12.08025" x="6" y="7.919488" id="rect837" fill="url(#linearGradient918)"/>
- <rect width="12" height="12.08025" x="6" y="19.919504" id="rect880" fill="url(#linearGradient942)"/>
- <rect width="12" height="12.08025" x="6" y="31.919502" id="rect882" fill="url(#linearGradient966)"/>
- <rect width="12" height="12.08025" x="18.00001" y="31.999752" id="rect884" fill="url(#linearGradient974)"/>
- <rect width="12" height="12.08025" x="30.00001" y="31.999752" id="rect886" fill="url(#linearGradient982)"/>
- <rect width="12" height="12.08025" x="30.00001" y="19.999752" id="rect888" fill="url(#linearGradient958)"/>
- <rect width="12" height="12.08025" x="18.00001" y="19.999752" id="rect890" fill="url(#linearGradient950)"/>
- <rect width="12" height="12.08025" x="18.00001" y="7.999737" id="rect892" fill="url(#linearGradient926)"/>
- <rect width="12" height="12.08025" x="30.00001" y="7.919488" id="rect894" fill="url(#linearGradient934)"/>
+ <rect width="36" height="12.08" x="6" y="32.92" id="rect906" opacity="0.144"/>
+ <rect width="12" height="12.08" x="6" y="7.919" id="rect837" fill="url(#linearGradient918)"/>
+ <rect width="12" height="12.08" x="6" y="19.92" id="rect880" fill="url(#linearGradient942)"/>
+ <rect width="12" height="12.08" x="6" y="31.92" id="rect882" fill="url(#linearGradient966)"/>
+ <rect width="12" height="12.08" x="18" y="32" id="rect884" fill="url(#linearGradient974)"/>
+ <rect width="12" height="12.08" x="30" y="32" id="rect886" fill="url(#linearGradient982)"/>
+ <rect width="12" height="12.08" x="30" y="20" id="rect888" fill="url(#linearGradient958)"/>
+ <rect width="12" height="12.08" x="18" y="20" id="rect890" fill="url(#linearGradient950)"/>
+ <rect width="12" height="12.08" x="18" y="8" id="rect892" fill="url(#linearGradient926)"/>
+ <rect width="12" height="12.08" x="30" y="7.919" id="rect894" fill="url(#linearGradient934)"/>
  <path d="m 4.5312,4.4375 0,35.0312 34.9375,0 0,-35.0312 H 4.5312 z" inkscape:connector-curvature="0" transform="translate(2.0000014,3.9997391)" id="path876" opacity="0.5" fill="none" stroke="#000000"/>
  <path d="m 5.5,5.4062 0,33.0938 33,0 0,-33.0938 h -33 z" inkscape:connector-curvature="0" transform="translate(2.0000014,3.9997391)" id="path878" opacity="0.7" fill="none" stroke="url(#linearGradient902)"/>
  <rect width="34" height="1" x="7" y="19" id="rect984" opacity="0.4"/>

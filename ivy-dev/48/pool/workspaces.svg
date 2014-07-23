@@ -17,15 +17,15 @@
    <stop id="stop3685" stop-opacity="0.2"/>
    <stop id="stop3687" offset="1" stop-opacity="0"/>
   </linearGradient>
-  <linearGradient y1="4.989417" x2="0" y2="41.25" id="linearGradient3714" xlink:href="#linearGradient3708" gradientUnits="userSpaceOnUse" gradientTransform="translate(0,-0.20039558)"/>
-  <linearGradient x1="45" y1="-1.019405" x2="43.0625" y2="42.0625" id="linearGradient3014" xlink:href="#linearGradient3708" gradientUnits="userSpaceOnUse" gradientTransform="translate(4e-7,-0.98059478)"/>
-  <radialGradient cx="23.984993" cy="44.880875" r="23.2321" id="radialGradient3020" xlink:href="#linearGradient3683" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.94140978,0,0,0.06456583,1.4202941,39.213634)"/>
-  <linearGradient x1="43.891232" y1="3.721841" x2="44.14401" y2="41.884933" id="linearGradient3784" xlink:href="#linearGradient3804" gradientUnits="userSpaceOnUse"/>
-  <linearGradient x1="23.729599" y1="4.404734" x2="23.711977" y2="23.558287" id="linearGradient3786" xlink:href="#linearGradient3777" gradientUnits="userSpaceOnUse"/>
+  <linearGradient y1="4.989" x2="0" y2="41.25" id="linearGradient3714" xlink:href="#linearGradient3708" gradientUnits="userSpaceOnUse" gradientTransform="translate(0,-0.20039558)"/>
+  <linearGradient x1="45" y1="-1.019" x2="43.06" y2="42.06" id="linearGradient3014" xlink:href="#linearGradient3708" gradientUnits="userSpaceOnUse" gradientTransform="translate(4e-7,-0.98059478)"/>
+  <radialGradient cx="23.985" cy="44.881" r="23.23" id="radialGradient3020" xlink:href="#linearGradient3683" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.94140978,0,0,0.06456583,1.4202941,39.213634)"/>
+  <linearGradient x1="43.891" y1="3.722" x2="44.14" y2="41.885" id="linearGradient3784" xlink:href="#linearGradient3804" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="23.73" y1="4.405" x2="23.712" y2="23.558" id="linearGradient3786" xlink:href="#linearGradient3777" gradientUnits="userSpaceOnUse"/>
  </defs>
  <path d="m 45.8709,42.1114 a 21.87095,1.5000034 0 0 1 -43.7419,0 21.87095,1.5000034 0 1 1 43.7419,0 z" inkscape:connector-curvature="0" id="path2850" fill="url(#radialGradient3020)"/>
- <rect width="40" height="38" x="4" y="4.0194" id="rect2852" fill="url(#linearGradient3784)"/>
- <rect width="20" height="19.780199" x="4" y="4.0194" id="rect2892" fill="url(#linearGradient3786)"/>
+ <rect width="40" height="38" x="4" y="4.02" id="rect2852" fill="url(#linearGradient3784)"/>
+ <rect width="20" height="19.78" x="4" y="4.02" id="rect2892" fill="url(#linearGradient3786)"/>
  <path d="m 4.4688,4.4882 0,37.0625 39.0625,0 0,-37.0625 -39.0625,0 z" inkscape:connector-curvature="0" id="path2856" opacity="0.4" fill="none" stroke="#000000"/>
  <path d="m 5.4375,5.4569 0,35.125 37.125,0 0,-35.125 -37.125,0 z" inkscape:connector-curvature="0" id="path2860" opacity="0.8" fill="none" stroke="url(#linearGradient3014)"/>
  <path d="m 23,4.9246 0,17.875 -18,0 0,1 18,0 0,17.25 1,0 0,-17.25 19,0 0,-1 -19,0 0,-17.875 z" inkscape:connector-curvature="0" id="path3670" opacity="0.4" color="#000000"/>

@@ -5,7 +5,7 @@
    <stop id="stop1100" stop-color="#ffffff"/>
    <stop id="stop1102" offset="1" stop-color="#ffffff" stop-opacity="0"/>
   </linearGradient>
-  <linearGradient y1="1" x2="0" y2="14.582107" id="linearGradient1104" xlink:href="#linearGradient1098" gradientUnits="userSpaceOnUse"/>
+  <linearGradient y1="1" x2="0" y2="14.582" id="linearGradient1104" xlink:href="#linearGradient1098" gradientUnits="userSpaceOnUse"/>
  </defs>
  <path d="m 0,0 0,12 4,0 4,4 4,-4 4,0 0,-12 z" inkscape:connector-curvature="0" id="rect2852" fill="#5288d1"/>
  <path d="M 8.9882,1 C 8.427412,1 7.97644,1.450253 7.97644,2.01015 c 0,0.559899 0.450969,1.02232 1.01176,1.02232 0.560788,0 1.01176,-0.462424 1.01176,-1.02232 C 9.99996,1.450251 9.548991,1 8.9882,1 z" inkscape:connector-curvature="0" id="path1059" opacity="0.5"/>

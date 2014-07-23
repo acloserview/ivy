@@ -13,14 +13,14 @@
    <stop id="stop3677" stop-color="#ffffff"/>
    <stop id="stop3679" offset="1" stop-color="#ffffff" stop-opacity="0"/>
   </linearGradient>
-  <linearGradient y1="10.764725" x2="0" y2="40.485275" id="linearGradient3698" xlink:href="#linearGradient3675" gradientUnits="userSpaceOnUse"/>
-  <radialGradient cx="0" cy="59.09866" r="37.612141" id="radialGradient3726" xlink:href="#linearGradient3720" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.23868828,0,0,0.02746586,24.058369,42.335301)"/>
-  <linearGradient y1="9.966102" x2="0" y2="41.28814" id="linearGradient840" xlink:href="#linearGradient834" gradientUnits="userSpaceOnUse"/>
+  <linearGradient y1="10.765" x2="0" y2="40.485" id="linearGradient3698" xlink:href="#linearGradient3675" gradientUnits="userSpaceOnUse"/>
+  <radialGradient cx="0" cy="59.1" r="37.612" id="radialGradient3726" xlink:href="#linearGradient3720" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.23868828,0,0,0.02746586,24.058369,42.335301)"/>
+  <linearGradient y1="9.966" x2="0" y2="41.29" id="linearGradient840" xlink:href="#linearGradient834" gradientUnits="userSpaceOnUse"/>
   <linearGradient id="linearGradient3622">
    <stop id="stop3624" stop-color="#6a6a6a"/>
    <stop id="stop3626" offset="1" stop-color="#171717"/>
   </linearGradient>
-  <linearGradient y1="15.749993" x2="0" y2="34.776451" id="linearGradient3628" xlink:href="#linearGradient3622" gradientUnits="userSpaceOnUse"/>
+  <linearGradient y1="15.75" x2="0" y2="34.776" id="linearGradient3628" xlink:href="#linearGradient3622" gradientUnits="userSpaceOnUse"/>
  </defs>
  <path d="m 33.0359,43.9585 a 8.9776,1.0330523 0 0 1 -17.9552,0 8.9776,1.0330523 0 1 1 17.9552,0 z" inkscape:connector-curvature="0" id="path3718" fill="url(#radialGradient3726)"/>
  <path d="m 44.7458,25.6271 a 16.8814,15.661 0 1 1 -33.7627,0 16.8814,15.661 0 1 1 33.7627,0 z" inkscape:connector-curvature="0" transform="matrix(1.184739,0,0,1.2770562,-9.0060881,-8.7272713)" id="path2875" fill="url(#linearGradient840)"/>

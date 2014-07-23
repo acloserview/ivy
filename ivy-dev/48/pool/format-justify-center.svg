@@ -13,24 +13,24 @@
    <stop id="stop3602" stop-color="#ffffff"/>
    <stop id="stop3604" offset="1" stop-color="#ffffff" stop-opacity="0"/>
   </linearGradient>
-  <radialGradient cx="23.984993" cy="44.880875" r="23.2321" id="radialGradient2887" xlink:href="#linearGradient3683" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.94140978,0,0,0.06456583,3.3889657,42.102487)"/>
+  <radialGradient cx="23.985" cy="44.881" r="23.23" id="radialGradient2887" xlink:href="#linearGradient3683" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.94140978,0,0,0.06456583,3.3889657,42.102487)"/>
   <linearGradient y1="43" x2="0" y2="5" id="linearGradient2889" xlink:href="#linearGradient3648" gradientUnits="userSpaceOnUse" gradientTransform="translate(1.968672,1.9082592)"/>
-  <linearGradient x1="43.0625" y1="5.9375" x2="45.503178" y2="58.13029" id="linearGradient2891" xlink:href="#linearGradient3600" gradientUnits="userSpaceOnUse" gradientTransform="translate(1.968672,1.9082592)"/>
+  <linearGradient x1="43.06" y1="5.938" x2="45.503" y2="58.13" id="linearGradient2891" xlink:href="#linearGradient3600" gradientUnits="userSpaceOnUse" gradientTransform="translate(1.968672,1.9082592)"/>
  </defs>
  <g transform="translate(-1.9686716,-2.6884584)" id="g2879">
   <path d="m 47.8396,45.0003 a 21.87095,1.5000034 0 0 1 -43.7419,0 21.87095,1.5000034 0 1 1 43.7419,0 z" inkscape:connector-curvature="0" id="path2850" fill="url(#radialGradient2887)"/>
-  <rect width="40" height="38" x="5.968672" y="6.908259" id="rect2852" fill="url(#linearGradient2889)"/>
+  <rect width="40" height="38" x="5.969" y="6.908" id="rect2852" fill="url(#linearGradient2889)"/>
   <path d="m 6.4374,7.377 0,37.0625 39.0625,0 0,-37.0625 -39.0625,0 z" inkscape:connector-curvature="0" id="path2856" opacity="0.4" fill="none" stroke="#000000"/>
   <path d="m 7.4062,8.3458 0,35.125 37.125,0 0,-35.125 -37.125,0 z" inkscape:connector-curvature="0" id="path2860" fill="none" stroke="url(#linearGradient2891)"/>
  </g>
  <g id="g848" fill="#ffffff">
   <rect width="25" height="4" x="11" y="10" id="rect840" opacity="0.7"/>
-  <rect width="12" height="4" x="18" y="18.0122" id="rect842" opacity="0.7"/>
+  <rect width="12" height="4" x="18" y="18.01" id="rect842" opacity="0.7"/>
   <rect width="20" height="4" x="14" y="26" id="rect844" opacity="0.7"/>
   <rect width="30" height="4" x="9" y="34" id="rect846" opacity="0.7"/>
  </g>
  <rect width="25" height="4" x="11" y="9" id="rect832" opacity="0.7" fill="#171717"/>
- <rect width="12" height="4" x="18" y="17.0122" id="rect834" opacity="0.7" fill="#171717"/>
+ <rect width="12" height="4" x="18" y="17.01" id="rect834" opacity="0.7" fill="#171717"/>
  <rect width="20" height="4" x="14" y="25" id="rect836" opacity="0.7" fill="#171717"/>
  <rect width="30" height="4" x="9" y="33" id="rect838" opacity="0.7" fill="#171717"/>
 </svg>

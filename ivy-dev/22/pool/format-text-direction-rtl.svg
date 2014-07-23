@@ -10,31 +10,31 @@
    <stop id="stop3652" offset="1" stop-color="#ffffff"/>
   </linearGradient>
   <linearGradient y1="43" x2="0" y2="5" id="linearGradient2889" xlink:href="#linearGradient3648" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.50000003,0,0,0.47368422,-0.99999985,-0.36842093)"/>
-  <linearGradient y1="3.044922" x2="0" y2="18.955078" id="linearGradient4142" xlink:href="#linearGradient4136" gradientUnits="userSpaceOnUse"/>
+  <linearGradient y1="3.045" x2="0" y2="18.955" id="linearGradient4142" xlink:href="#linearGradient4136" gradientUnits="userSpaceOnUse"/>
  </defs>
  <rect width="20" height="18" x="1" y="3" id="rect4190" opacity="0.1"/>
  <rect width="20" height="18" x="1" y="2" id="rect2852" fill="url(#linearGradient2889)"/>
  <path d="m 1.53125,2.53125 0,16.9375 18.9375,0 0,-16.9375 -18.9375,0 z" id="path4094" opacity="0.4" fill="none" stroke="#000000"/>
  <path d="m 2.53125,3.53125 0,14.9375 16.9375,0 0,-14.9375 -16.9375,0 z" id="path4096" opacity="0.4" fill="none" stroke="url(#linearGradient4142)"/>
- <rect width="1" height="5.96875" x="-18" y="8.999752" transform="scale(-1,1)" id="rect3734" fill="#ffffff" color="#000000"/>
- <rect width="2" height="1" x="-17" y="7.99975" transform="scale(-1,1)" id="rect3736" fill="#ffffff" color="#000000"/>
- <rect width="1" height="5.96875" x="-15" y="8.999752" transform="scale(-1,1)" id="rect3738" fill="#ffffff" color="#000000"/>
- <rect width="1" height="5.96875" x="-18" y="8" transform="scale(-1,1)" id="rect3712" fill="#6a6a6a" color="#000000"/>
- <rect width="2" height="1" x="-17" y="10.999752" transform="scale(-1,1)" id="rect3740" fill="#ffffff" color="#000000"/>
+ <rect width="1" height="5.969" x="-18" y="9" transform="scale(-1,1)" id="rect3734" fill="#ffffff" color="#000000"/>
+ <rect width="2" height="1" x="-17" y="8" transform="scale(-1,1)" id="rect3736" fill="#ffffff" color="#000000"/>
+ <rect width="1" height="5.969" x="-15" y="9" transform="scale(-1,1)" id="rect3738" fill="#ffffff" color="#000000"/>
+ <rect width="1" height="5.969" x="-18" y="8" transform="scale(-1,1)" id="rect3712" fill="#6a6a6a" color="#000000"/>
+ <rect width="2" height="1" x="-17" y="11" transform="scale(-1,1)" id="rect3740" fill="#ffffff" color="#000000"/>
  <rect width="2" height="1" x="-17" y="7" transform="scale(-1,1)" id="rect3714" fill="#6a6a6a" color="#000000"/>
- <rect width="1" height="6.984375" x="8" y="7.99975" id="rect3742" fill="#ffffff" color="#000000"/>
- <rect width="1" height="5.96875" x="-15" y="8" transform="scale(-1,1)" id="rect3716" fill="#6a6a6a" color="#000000"/>
- <rect width="1" height="3" x="11" y="10.999752" id="rect3744" fill="#ffffff" color="#000000"/>
+ <rect width="1" height="6.984" x="8" y="8" id="rect3742" fill="#ffffff" color="#000000"/>
+ <rect width="1" height="5.969" x="-15" y="8" transform="scale(-1,1)" id="rect3716" fill="#6a6a6a" color="#000000"/>
+ <rect width="1" height="3" x="11" y="11" id="rect3744" fill="#ffffff" color="#000000"/>
  <rect width="2" height="1" x="-17" y="10" transform="scale(-1,1)" id="rect3718" fill="#6a6a6a" color="#000000"/>
- <rect width="1" height="2" x="13.999751" y="-11" transform="matrix(0,1,-1,0,0,0)" id="rect3746" fill="#ffffff" color="#000000"/>
- <rect width="1" height="6.984375" x="8" y="7" id="rect3720" fill="#6a6a6a" color="#000000"/>
- <rect width="1" height="2" x="9.999752" y="-11" transform="matrix(0,1,-1,0,0,0)" id="rect3748" fill="#ffffff" color="#000000"/>
+ <rect width="1" height="2" x="14" y="-11" transform="matrix(0,1,-1,0,0,0)" id="rect3746" fill="#ffffff" color="#000000"/>
+ <rect width="1" height="6.984" x="8" y="7" id="rect3720" fill="#6a6a6a" color="#000000"/>
+ <rect width="1" height="2" x="10" y="-11" transform="matrix(0,1,-1,0,0,0)" id="rect3748" fill="#ffffff" color="#000000"/>
  <rect width="1" height="3" x="11" y="10" id="rect3722" fill="#6a6a6a" color="#000000"/>
- <rect width="1" height="2" x="9.999752" y="-6" transform="matrix(0,1,-1,0,0,0)" id="rect3750" fill="#ffffff" color="#000000"/>
+ <rect width="1" height="2" x="10" y="-6" transform="matrix(0,1,-1,0,0,0)" id="rect3750" fill="#ffffff" color="#000000"/>
  <rect width="1" height="2" x="13" y="-11" transform="matrix(0,1,-1,0,0,0)" id="rect3724" fill="#6a6a6a" color="#000000"/>
- <rect width="1" height="2" x="13.999751" y="-6" transform="matrix(0,1,-1,0,0,0)" id="rect3752" fill="#ffffff" color="#000000"/>
+ <rect width="1" height="2" x="14" y="-6" transform="matrix(0,1,-1,0,0,0)" id="rect3752" fill="#ffffff" color="#000000"/>
  <rect width="1" height="2" x="9" y="-11" transform="matrix(0,1,-1,0,0,0)" id="rect3726" fill="#6a6a6a" color="#000000"/>
- <rect width="1" height="3" x="3" y="10.999752" id="rect3754" fill="#ffffff" color="#000000"/>
+ <rect width="1" height="3" x="3" y="11" id="rect3754" fill="#ffffff" color="#000000"/>
  <rect width="1" height="2" x="9" y="-6" transform="matrix(0,1,-1,0,0,0)" id="rect3728" fill="#6a6a6a" color="#000000"/>
  <rect width="1" height="2" x="13" y="-6" transform="matrix(0,1,-1,0,0,0)" id="rect3730" fill="#6a6a6a" color="#000000"/>
  <rect width="1" height="3" x="3" y="10" id="rect3732" fill="#6a6a6a" color="#000000"/>

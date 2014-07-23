@@ -9,7 +9,7 @@
    <stop id="stop3775" stop-color="#ebebeb"/>
    <stop id="stop3778" offset="1" stop-color="#ffffff"/>
   </linearGradient>
-  <linearGradient y1="10.764725" x2="0" y2="40.485275" id="linearGradient3698" xlink:href="#linearGradient3675" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.184739,0,0,1.2770562,-9.0120489,995.63488)"/>
+  <linearGradient y1="10.765" x2="0" y2="40.485" id="linearGradient3698" xlink:href="#linearGradient3675" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.184739,0,0,1.2770562,-9.0120489,995.63488)"/>
   <linearGradient id="linearGradient3675">
    <stop id="stop3677" stop-color="#ffffff"/>
    <stop id="stop3679" offset="1" stop-color="#ffffff" stop-opacity="0"/>
@@ -20,8 +20,8 @@
   <mask id="mask19704">
    <path d="m 44.006,24 a 20,20 0 1 1 -40,0 20,20 0 1 1 40,0 z" inkscape:connector-curvature="0" id="path19706" fill="#ffffff"/>
   </mask>
-  <linearGradient x1="45.623196" y1="5.060197" x2="45.28252" y2="41.27927" id="linearGradient3780" xlink:href="#linearGradient3773" gradientUnits="userSpaceOnUse"/>
-  <linearGradient x1="44.20031" y1="1048.2385" x2="43.917622" y2="1008.7509" id="linearGradient3782" xlink:href="#linearGradient3784" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="45.623" y1="5.06" x2="45.28" y2="41.28" id="linearGradient3780" xlink:href="#linearGradient3773" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="44.2" y1="1048.24" x2="43.918" y2="1008.75" id="linearGradient3782" xlink:href="#linearGradient3784" gradientUnits="userSpaceOnUse"/>
  </defs>
  <g transform="translate(0,-1004.3622)" id="layer1">
   <path d="m 44.006,1029.3622 a 20,20 0 1 1 -40,0 20,20 0 1 1 40,0 z" inkscape:connector-curvature="0" id="path3958" opacity="0.09"/>

@@ -12,8 +12,8 @@
   <linearGradient y1="3" x2="0" y2="45" id="linearGradient838" xlink:href="#linearGradient832" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.66666668,0,0,0.66666668,-5e-8,1.217186e-5)"/>
   <linearGradient y1="3" x2="0" y2="29" id="linearGradient843" xlink:href="#linearGradient837" gradientUnits="userSpaceOnUse"/>
  </defs>
- <rect width="28" height="28" rx="2.666667" x="2" y="3" id="rect876" opacity="0.1"/>
- <rect width="28" height="28" rx="2.666667" x="2" y="2" id="rect2816" fill="url(#linearGradient838)"/>
+ <rect width="28" height="28" rx="2.667" x="2" y="3" id="rect876" opacity="0.1"/>
+ <rect width="28" height="28" rx="2.667" x="2" y="2" id="rect2816" fill="url(#linearGradient838)"/>
  <path d="M 4.65625,3.5 C 3.9768672,3.5 3.5,3.9768672 3.5,4.65625 l 0,22.6875 C 3.5,28.023132 3.9768675,28.5 4.65625,28.5 l 22.6875,0 C 28.023132,28.5 28.5,28.023132 28.5,27.34375 l 0,-22.6875 C 28.5,3.9768675 28.023132,3.5 27.34375,3.5 l -22.6875,0 z" inkscape:connector-curvature="0" id="path35" opacity="0.5" fill="none" stroke="url(#linearGradient843)"/>
  <path d="M 4.65625,2.5 C 3.5115098,2.5 2.5,3.5115098 2.5,4.65625 l 0,22.6875 C 2.5,28.48849 3.5115091,29.5 4.65625,29.5 l 22.6875,0 C 28.488491,29.5 29.5,28.488491 29.5,27.34375 l 0,-22.6875 C 29.5,3.5115091 28.48849,2.5 27.34375,2.5 l -22.6875,0 z" inkscape:connector-curvature="0" id="path849" opacity="0.45" fill="none" stroke="#000000"/>
 </svg>

@@ -5,7 +5,7 @@
    <stop id="stop837" stop-color="#ffffff"/>
    <stop id="stop839" offset="1" stop-color="#ffffff" stop-opacity="0"/>
   </linearGradient>
-  <linearGradient y1="9.966102" x2="0" y2="41.28814" id="linearGradient838" xlink:href="#linearGradient827" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.5923695,0,0,0.6385281,27.506024,-5.3654218)"/>
+  <linearGradient y1="9.966" x2="0" y2="41.29" id="linearGradient838" xlink:href="#linearGradient827" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.5923695,0,0,0.6385281,27.506024,-5.3654218)"/>
   <linearGradient y1="3" x2="0" y2="21" id="linearGradient841" xlink:href="#linearGradient835" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1,0,0,1,23,-1.0017858)"/>
   <linearGradient id="linearGradient827">
    <stop id="stop829" stop-color="#66b03e"/>

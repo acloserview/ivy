@@ -9,9 +9,9 @@
    <stop id="stop834" stop-color="#5288d1"/>
    <stop id="stop836" offset="1" stop-color="#729eda"/>
   </linearGradient>
-  <linearGradient y1="9.966102" x2="0" y2="41.28814" id="linearGradient838" xlink:href="#linearGradient832" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.5923695,0,0,0.6385281,-4.5060245,-4.363636)"/>
+  <linearGradient y1="9.966" x2="0" y2="41.29" id="linearGradient838" xlink:href="#linearGradient832" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.5923695,0,0,0.6385281,-4.5060245,-4.363636)"/>
   <linearGradient y1="3" x2="0" y2="21" id="linearGradient841" xlink:href="#linearGradient835" gradientUnits="userSpaceOnUse"/>
-  <radialGradient cx="60.05332" cy="51.39256" r="15.03245" id="radialGradient3167" xlink:href="#linearGradient3588" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.404511,1.1888571,-1,-1.1813958,199.73811,11.750541)"/>
+  <radialGradient cx="60.05" cy="51.39" r="15.03" id="radialGradient3167" xlink:href="#linearGradient3588" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.404511,1.1888571,-1,-1.1813958,199.73811,11.750541)"/>
   <linearGradient id="linearGradient3588">
    <stop id="stop3590" stop-color="#eeeeee"/>
    <stop id="stop3592" offset="1" stop-color="#dcdcdc"/>
@@ -20,7 +20,7 @@
    <stop id="stop3674" stop-color="#dadada"/>
    <stop id="stop3676" offset="1" stop-color="#ffffff"/>
   </linearGradient>
-  <radialGradient cx="41.09363" cy="-2.099589" r="14" id="radialGradient3193" xlink:href="#linearGradient3672" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.73484851,0.44830272,-0.47181144,-0.77338115,41.465045,-13.310145)"/>
+  <radialGradient cx="41.09" cy="-2.1" r="14" id="radialGradient3193" xlink:href="#linearGradient3672" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.73484851,0.44830272,-0.47181144,-0.77338115,41.465045,-13.310145)"/>
  </defs>
  <path d="m 22,13.0032 a 10,10 0 0 1 -20,0 10,10 0 1 1 20,0 z" inkscape:connector-curvature="0" id="path847" opacity="0.1"/>
  <path d="M 22,12 A 10,10 0 0 1 2,12 10,10 0 1 1 22,12 z" inkscape:connector-curvature="0" id="path2875" fill="url(#linearGradient838)"/>

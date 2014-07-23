@@ -25,8 +25,8 @@
    <stop id="stop3840" stop-color="#171717"/>
    <stop id="stop3842" offset="1" stop-color="#6a6a6a"/>
   </linearGradient>
-  <linearGradient x1="45.03125" y1="4.96875" x2="45" y2="29" id="linearGradient3844" xlink:href="#linearGradient3838" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.33333334,0,0,0.37500001,-3.8362837e-7,-0.87500054)"/>
-  <linearGradient x1="45" y1="5" x2="45.03125" y2="29.03125" id="linearGradient3854" xlink:href="#linearGradient3846" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.33333334,0,0,0.375,-3.8689398e-7,-0.8750005)"/>
+  <linearGradient x1="45.03" y1="4.969" x2="45" y2="29" id="linearGradient3844" xlink:href="#linearGradient3838" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.33333334,0,0,0.37500001,-3.8362837e-7,-0.87500054)"/>
+  <linearGradient x1="45" y1="5" x2="45.03" y2="29.03" id="linearGradient3854" xlink:href="#linearGradient3846" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.33333334,0,0,0.375,-3.8689398e-7,-0.8750005)"/>
   <linearGradient y1="21" x2="0" y2="29" id="linearGradient3862" xlink:href="#linearGradient3856" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.33333334,0,0,0.37499998,-3.8249827e-7,-0.87499643)"/>
   <linearGradient y1="19" x2="0" y2="43" id="linearGradient3870" xlink:href="#linearGradient3864" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.33333331,0,0,0.37500002,0.33333407,-1.1250001)"/>
   <linearGradient y1="19" x2="0" y2="43" id="linearGradient3878" xlink:href="#linearGradient3872" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.33333332,0,0,0.37500006,0.33333326,-1.1250006)"/>
@@ -44,5 +44,5 @@
  <path d="m 1.5,6.5 0,8 11,0 0,-8 -11,0 z" id="path3037" opacity="0.4" fill="none" stroke="#000000"/>
  <rect width="10" height="1" x="4" y="2" id="rect3041" opacity="0.2" fill="#ffffff"/>
  <rect width="10" height="1" x="2" y="7" id="rect3043" opacity="0.3" fill="#ffffff"/>
- <rect width="4" height="1" x="5" y="7" id="rect3045" opacity="0.5672" fill="#ffffff"/>
+ <rect width="4" height="1" x="5" y="7" id="rect3045" opacity="0.567" fill="#ffffff"/>
 </svg>

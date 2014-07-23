@@ -10,7 +10,7 @@
    <stop id="stop3652" offset="1" stop-color="#ffffff"/>
   </linearGradient>
   <linearGradient y1="43" x2="0" y2="5" id="linearGradient2889" xlink:href="#linearGradient3648" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.50000003,0,0,0.47368422,-23,-0.36842093)"/>
-  <linearGradient y1="3.044922" x2="0" y2="18.955078" id="linearGradient4142" xlink:href="#linearGradient4136" gradientUnits="userSpaceOnUse"/>
+  <linearGradient y1="3.045" x2="0" y2="18.955" id="linearGradient4142" xlink:href="#linearGradient4136" gradientUnits="userSpaceOnUse"/>
  </defs>
  <rect width="20" height="18" x="-21" y="3" transform="scale(-1,1)" id="rect4190" opacity="0.1"/>
  <rect width="20" height="18" x="-21" y="2" transform="scale(-1,1)" id="rect2852" fill="url(#linearGradient2889)"/>

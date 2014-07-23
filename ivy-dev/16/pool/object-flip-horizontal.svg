@@ -15,6 +15,6 @@
  <rect width="1" height="29" x="24" y="8" id="rect3001" opacity="0.4" fill="#171717"/>
  <path d="m 4.4375,8.4375 0,28.125 19.125,0 0,-28.125 -19.125,0 z" inkscape:connector-curvature="0" id="path3005" opacity="0.7" fill="none" stroke="url(#linearGradient3789)"/>
  <path d="M 43.4688,4.875 C 37.82297,6 31.1769,7.125 25.531,8.25 c 0,9.5625 0,19.125 0,28.6875 5.64583,1.96875 12.2919,3.9375 17.9378,5.90625 0,-12.6562 0,-25.3125 0,-37.9688 z" inkscape:connector-curvature="0" id="path3793" fill="none" stroke="url(#linearGradient3802)"/>
- <path d="m 20,13 -8,10 8,10 0,-7 9,0 0,7 8,-10 -8,-10 0,7 -9,0 0,-7 z" inkscape:connector-curvature="0" id="rect3804" opacity="0.7112" fill="#171717"/>
+ <path d="m 20,13 -8,10 8,10 0,-7 9,0 0,7 8,-10 -8,-10 0,7 -9,0 0,-7 z" inkscape:connector-curvature="0" id="rect3804" opacity="0.711" fill="#171717"/>
  <path d="m 19.8438,12.5625 a 0.447032,0.447032 0 0 0 -0.1875,0.15625 l -8,10 a 0.447032,0.447032 0 0 0 0,0.5625 l 8,10 A 0.447032,0.447032 0 0 0 20.43755,33 v -6.5625 h 8.125 V 33 a 0.447032,0.447032 0 0 0 0.78125,0.28125 l 8,-10 a 0.447032,0.447032 0 0 0 0,-0.5625 l -8,-10 A 0.447032,0.447032 0 0 0 28.56255,13 v 6.5625 h -8.125 V 13 A 0.447032,0.447032 0 0 0 19.8438,12.5625 z" inkscape:connector-curvature="0" id="path3815" opacity="0.3" fill="none" stroke="#ffffff"/>
 </svg>

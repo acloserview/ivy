@@ -5,7 +5,7 @@
    <stop id="stop3788" stop-color="#ffffff"/>
    <stop id="stop3790" offset="1" stop-color="#ffffff" stop-opacity="0"/>
   </linearGradient>
-  <linearGradient x1="43.917267" y1="7.0567" x2="43.928207" y2="41.30227" id="linearGradient3792" xlink:href="#linearGradient3786" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="43.917" y1="7.06" x2="43.928" y2="41.3" id="linearGradient3792" xlink:href="#linearGradient3786" gradientUnits="userSpaceOnUse"/>
  </defs>
  <rect width="42" height="36" rx="2" x="3" y="7" id="rect3800" opacity="0.1"/>
  <rect width="42" height="36" rx="2" x="3" y="6" id="rect2999" fill="#dddddd"/>

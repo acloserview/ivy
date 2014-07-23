@@ -9,7 +9,7 @@
    <stop id="stop845" stop-color="#c7c7c7"/>
    <stop id="stop847" offset="1" stop-color="#ebebeb"/>
   </linearGradient>
-  <radialGradient cx="16.97736" cy="50.869873" r="19" id="radialGradient849" xlink:href="#linearGradient843" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.8005541,-1.5438595,1.1457197,1.3720864,-79.956533,-16.587202)"/>
+  <radialGradient cx="16.977" cy="50.87" r="19" id="radialGradient849" xlink:href="#linearGradient843" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.8005541,-1.5438595,1.1457197,1.3720864,-79.956533,-16.587202)"/>
   <linearGradient y1="4" x2="0" y2="18" id="linearGradient3839" xlink:href="#linearGradient3833" gradientUnits="userSpaceOnUse"/>
  </defs>
  <rect width="20" height="16" x="1" y="4" id="rect3841" opacity="0.15"/>

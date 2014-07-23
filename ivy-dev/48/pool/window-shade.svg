@@ -7,18 +7,18 @@
   </linearGradient>
   <linearGradient y1="6" x2="0" y2="13" id="linearGradient3782" xlink:href="#linearGradient3776" gradientUnits="userSpaceOnUse"/>
  </defs>
- <rect width="40" height="10.119114" x="4" y="6.01889" id="rect3019" opacity="0.15"/>
- <rect width="40" height="10.119114" x="4" y="5.01932" id="rect2854" fill="#5288d1"/>
- <rect width="1" height="1" x="7.03133" y="9.111062" id="rect3023" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
- <rect width="1" height="1" x="8.03133" y="10.111062" id="rect3025" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
- <rect width="1" height="1" x="9.03133" y="11.11106" id="rect3027" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
- <rect width="1" height="1" x="7.03133" y="11.11106" id="rect3029" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
- <rect width="1" height="1" x="9.03133" y="9.111062" id="rect3032" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
- <rect width="1" height="3" x="12.03133" y="9.111062" id="rect3034" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
- <rect width="1" height="3" x="11.11106" y="-15.03133" transform="matrix(0,1,-1,0,0,0)" id="rect3042" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
- <rect width="1" height="3" x="-15.03133" y="-12.11106" transform="scale(-1,-1)" id="rect3044" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
- <rect width="1" height="3" x="-10.111062" y="12.03133" transform="matrix(0,-1,1,0,0,0)" id="rect3046" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
- <rect width="1" height="3" x="-12.11106" y="17.03133" transform="matrix(0,-1,1,0,0,0)" id="rect3048" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
+ <rect width="40" height="10.119" x="4" y="6.02" id="rect3019" opacity="0.15"/>
+ <rect width="40" height="10.119" x="4" y="5.02" id="rect2854" fill="#5288d1"/>
+ <rect width="1" height="1" x="7.03" y="9.111" id="rect3023" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
+ <rect width="1" height="1" x="8.03" y="10.111" id="rect3025" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
+ <rect width="1" height="1" x="9.03" y="11.11" id="rect3027" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
+ <rect width="1" height="1" x="7.03" y="11.11" id="rect3029" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
+ <rect width="1" height="1" x="9.03" y="9.111" id="rect3032" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
+ <rect width="1" height="3" x="12.03" y="9.111" id="rect3034" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
+ <rect width="1" height="3" x="11.11" y="-15.03" transform="matrix(0,1,-1,0,0,0)" id="rect3042" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
+ <rect width="1" height="3" x="-15.03" y="-12.11" transform="scale(-1,-1)" id="rect3044" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
+ <rect width="1" height="3" x="-10.111" y="12.03" transform="matrix(0,-1,1,0,0,0)" id="rect3046" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
+ <rect width="1" height="3" x="-12.11" y="17.03" transform="matrix(0,-1,1,0,0,0)" id="rect3048" fill="#ffffff" fill-rule="evenodd" color="#000000"/>
  <path d="m 4.4375,5.46875 0,9.21875 39.125,0 0,-9.21875 -39.125,0 z" id="path3015" opacity="0.4" fill="none" stroke="#000000"/>
  <path d="m 5.40625,6.4375 0,7.28125 37.1875,0 0,-7.28125 -37.1875,0 z" id="path3017" opacity="0.4" fill="none" stroke="url(#linearGradient3782)"/>
 </svg>

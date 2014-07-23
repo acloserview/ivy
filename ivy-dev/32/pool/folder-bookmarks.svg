@@ -17,15 +17,15 @@
    <stop id="stop3987" stop-color="#eeeeec"/>
    <stop id="stop3989" offset="1" stop-color="#555753"/>
   </linearGradient>
-  <linearGradient x1="3.152961" y1="3.992717" x2="2.280967" y2="22.971022" id="linearGradient3083" xlink:href="#linearGradient3985" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.66,0,0,0.67035266,0.68,-0.62604634)"/>
-  <linearGradient x1="30.13559" y1="-2.711865" x2="30" y2="28" id="linearGradient862" xlink:href="#linearGradient856" gradientUnits="userSpaceOnUse"/>
-  <linearGradient x1="30.881456" y1="7.121237" x2="31.44688" y2="32.477169" id="linearGradient3986" xlink:href="#linearGradient3988" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="3.153" y1="3.993" x2="2.281" y2="22.971" id="linearGradient3083" xlink:href="#linearGradient3985" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.66,0,0,0.67035266,0.68,-0.62604634)"/>
+  <linearGradient x1="30.14" y1="-2.712" x2="30" y2="28" id="linearGradient862" xlink:href="#linearGradient856" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="30.881" y1="7.121" x2="31.447" y2="32.477" id="linearGradient3986" xlink:href="#linearGradient3988" gradientUnits="userSpaceOnUse"/>
   <linearGradient id="linearGradient3765">
    <stop id="stop3767" stop-color="#ed4c70"/>
    <stop id="stop3769" offset="1" stop-color="#f2829c"/>
   </linearGradient>
-  <linearGradient x1="45.933922" y1="3.97297" x2="46.20167" y2="44.24416" id="linearGradient3459" xlink:href="#linearGradient3765" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.5002612,0,0,0.4881699,8.9937609,9.0323542)"/>
-  <linearGradient x1="22" y1="3" x2="22.00003" y2="20.25" id="linearGradient3462" xlink:href="#linearGradient856" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="45.934" y1="3.973" x2="46.2" y2="44.24" id="linearGradient3459" xlink:href="#linearGradient3765" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.5002612,0,0,0.4881699,8.9937609,9.0323542)"/>
+  <linearGradient y1="3" x2="0" y2="20.25" id="linearGradient3462" xlink:href="#linearGradient856" gradientUnits="userSpaceOnUse"/>
   <linearGradient x1="8.995" y1="20" x2="19" y2="18" id="linearGradient4242" xlink:href="#linearGradient4236" gradientUnits="userSpaceOnUse"/>
  </defs>
  <path d="m 17.5719,8.0072 c -0.27423,0 -0.437851,0.175496 -0.556875,0.404122 -0.03967,0.07621 -0.06918,0.159325 -0.103125,0.242475 l -0.5156,1.2932 -0.5362,1.3931 c -0.03395,0.08315 -0.06345,0.166264 -0.103125,0.242473 -0.119024,0.228626 -0.28892,0.461265 -0.556875,0.404123 H 9.13635 5.9601 2.0001 v 17.2977 c 0,0.358215 0.29436,0.646598 0.66,0.646598 h 27.72 c 0.36564,0 0.66,-0.288383 0.66,-0.646598 v -20.6306 c 0,-0.358215 -0.317071,-0.522318 -0.66,-0.646597 H 26.81198 21.1401 z" inkscape:connector-curvature="0" id="path864" opacity="0.2" fill-rule="evenodd" color="#000000"/>

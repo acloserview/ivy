@@ -13,8 +13,8 @@
    <stop id="stop3788" stop-color="#ffffff"/>
    <stop id="stop3790" offset="1" stop-color="#ffffff" stop-opacity="0"/>
   </linearGradient>
-  <linearGradient x1="7.297669" y1="21.403852" x2="5.670551" y2="56.2108" id="linearGradient3647" xlink:href="#linearGradient3019" gradientUnits="userSpaceOnUse"/>
-  <linearGradient x1="43.917267" y1="7.0567" x2="43.928207" y2="41.30227" id="linearGradient3792" xlink:href="#linearGradient3786" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="7.298" y1="21.404" x2="5.671" y2="56.21" id="linearGradient3647" xlink:href="#linearGradient3019" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="43.917" y1="7.06" x2="43.928" y2="41.3" id="linearGradient3792" xlink:href="#linearGradient3786" gradientUnits="userSpaceOnUse"/>
   <mask id="mask3813">
    <path d="M 7,10 7,38 41,38 41,10 7,10 z" inkscape:connector-curvature="0" id="path3815" fill="#ffffff"/>
   </mask>

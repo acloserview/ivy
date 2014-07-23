@@ -13,16 +13,16 @@
    <stop id="stop3855" stop-color="#df9e2a"/>
    <stop id="stop3857" offset="1" stop-color="#e8ba69"/>
   </linearGradient>
-  <linearGradient y1="1007.3622" x2="0" y2="1049.3622" id="linearGradient3859" xlink:href="#linearGradient3853" gradientUnits="userSpaceOnUse"/>
-  <linearGradient y1="1012.3622" x2="0" y2="1018.3622" id="linearGradient3888" xlink:href="#linearGradient3937" gradientUnits="userSpaceOnUse"/>
-  <linearGradient y1="1011.3622" x2="0" y2="1019.3622" id="linearGradient3896" xlink:href="#linearGradient3890" gradientUnits="userSpaceOnUse"/>
-  <linearGradient y1="1011.3622" x2="0" y2="1019.3622" id="linearGradient3904" xlink:href="#linearGradient3890" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1,0,0,1,51,11.9872)"/>
-  <linearGradient y1="1008.3622" x2="0" y2="1051.3622" id="linearGradient3943" xlink:href="#linearGradient3937" gradientUnits="userSpaceOnUse"/>
+  <linearGradient y1="1007.36" x2="0" y2="1049.36" id="linearGradient3859" xlink:href="#linearGradient3853" gradientUnits="userSpaceOnUse"/>
+  <linearGradient y1="1012.36" x2="0" y2="1018.36" id="linearGradient3888" xlink:href="#linearGradient3937" gradientUnits="userSpaceOnUse"/>
+  <linearGradient y1="1011.36" x2="0" y2="1019.36" id="linearGradient3896" xlink:href="#linearGradient3890" gradientUnits="userSpaceOnUse"/>
+  <linearGradient y1="1011.36" x2="0" y2="1019.36" id="linearGradient3904" xlink:href="#linearGradient3890" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1,0,0,1,51,11.9872)"/>
+  <linearGradient y1="1008.36" x2="0" y2="1051.36" id="linearGradient3943" xlink:href="#linearGradient3937" gradientUnits="userSpaceOnUse"/>
  </defs>
  <g transform="translate(0,-1004.3622)" id="layer1">
   <path d="m 21,1008.3622 0,4 -12,0 -5,4 5,4 12,0 0,4 -12,0 0,8 12,0 0,18 6,0 0,-18 15,0 5,-4 -5,-4 -15,0 0,-4 15,0 0,-8 -15,0 0,-4 -6,0 z" inkscape:connector-curvature="0" id="path3945" opacity="0.15" color="#000000"/>
-  <rect width="6" height="41.999943" x="21" y="1007.3622" id="rect2987" fill="url(#linearGradient3859)" color="#000000"/>
-  <text x="2.791549" y="7.128869" transform="translate(0,1004.3622)" id="text2998" font-family="sans-serif" word-spacing="0" line-height="125%" letter-spacing="0" font-size="40"><tspan x="2.791549" y="7.128869" id="tspan3000" font-family="URW Palladio L" text-align="start" line-height="125%" font-weight="500" font-size="12"/>
+  <rect width="6" height="42" x="21" y="1007.36" id="rect2987" fill="url(#linearGradient3859)" color="#000000"/>
+  <text x="2.792" y="7.129" transform="translate(0,1004.3622)" id="text2998" font-family="sans-serif" word-spacing="0" line-height="125%" letter-spacing="0" font-size="40"><tspan x="2.792" y="7.129" id="tspan3000" font-family="URW Palladio L" text-align="start" line-height="125%" font-weight="500" font-size="12"/>
   </text>
   <path d="m 21.5,1007.875 0,41 5,0 0,-41 -5,0 z" id="path3851" opacity="0.4" fill="none" stroke="#000000" color="#000000"/>
   <path d="m 22.5,1008.875 0,39 3,0 0,-39 -3,0 z" id="path3927" opacity="0.4" fill="none" stroke="url(#linearGradient3943)" color="#000000"/>

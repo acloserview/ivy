@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="48" height="48">
  <defs id="defs3022">
-  <linearGradient x1="33.26131" x2="37.49873" id="linearGradient3962" xlink:href="#linearGradient3956" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="33.26" x2="37.499" id="linearGradient3962" xlink:href="#linearGradient3956" gradientUnits="userSpaceOnUse"/>
   <linearGradient id="linearGradient3956">
    <stop id="stop3958" stop-color="#6a6a6a"/>
    <stop id="stop3960" offset="1" stop-color="#5d5d5d"/>
@@ -14,9 +14,9 @@
    <stop id="stop3927" stop-color="#ffffff"/>
    <stop id="stop3929" offset="1" stop-color="#ffffff" stop-opacity="0"/>
   </linearGradient>
-  <linearGradient x1="26.916744" y1="-12.963154" x2="37.463287" y2="-6.490223" id="linearGradient3988" xlink:href="#linearGradient3925" gradientUnits="userSpaceOnUse"/>
-  <linearGradient x1="35.31802" y1="14.539119" x2="33.65625" y2="43.23352" id="linearGradient3025" xlink:href="#linearGradient3925" gradientUnits="userSpaceOnUse" gradientTransform="translate(-1.96875,2.1854494)"/>
-  <linearGradient x1="35.03044" y1="43.945244" x2="35.09758" y2="15.537785" id="linearGradient3028" xlink:href="#linearGradient3915" gradientUnits="userSpaceOnUse" gradientTransform="translate(-1.96875,2.1854494)"/>
+  <linearGradient x1="26.917" y1="-12.963" x2="37.463" y2="-6.49" id="linearGradient3988" xlink:href="#linearGradient3925" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="35.32" y1="14.539" x2="33.656" y2="43.23" id="linearGradient3025" xlink:href="#linearGradient3925" gradientUnits="userSpaceOnUse" gradientTransform="translate(-1.96875,2.1854494)"/>
+  <linearGradient x1="35.03" y1="43.945" x2="35.1" y2="15.538" id="linearGradient3028" xlink:href="#linearGradient3915" gradientUnits="userSpaceOnUse" gradientTransform="translate(-1.96875,2.1854494)"/>
  </defs>
  <g id="layer1">
   <g id="layer1-9">

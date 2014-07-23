@@ -15,13 +15,13 @@
   </linearGradient>
   <linearGradient id="linearGradient3646">
    <stop id="stop3648" stop-color="#d8d8d8"/>
-   <stop id="stop3652" offset="0.788722" stop-color="#ebebeb"/>
+   <stop id="stop3652" offset="0.789" stop-color="#ebebeb"/>
    <stop id="stop3650" offset="1" stop-color="#ffffff"/>
   </linearGradient>
-  <radialGradient cx="24" cy="19.235294" r="20" id="radialGradient842" xlink:href="#linearGradient836" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.47499086,0,0,0.80628107,-0.89959802,-6.8404106)"/>
+  <radialGradient cx="24" cy="19.235" r="20" id="radialGradient842" xlink:href="#linearGradient836" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.47499086,0,0,0.80628107,-0.89959802,-6.8404106)"/>
   <radialGradient cx="24" cy="24" r="20" id="radialGradient3018" xlink:href="#linearGradient3646" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.47570895,0,0,0.475,-0.90283572,0.0999997)"/>
   <linearGradient y1="4" x2="0" y2="21" id="linearGradient3802" xlink:href="#linearGradient3796" gradientUnits="userSpaceOnUse" gradientTransform="translate(-2,-1)"/>
-  <radialGradient cx="13" cy="15.00411" r="9.515625" id="radialGradient3812" xlink:href="#linearGradient3806" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1,0,0,0.99835796,-2,-0.9794745)"/>
+  <radialGradient cx="13" cy="15" r="9.516" id="radialGradient3812" xlink:href="#linearGradient3806" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1,0,0,0.99835796,-2,-0.9794745)"/>
  </defs>
  <path d="M 10.5,3 C 5.24546,3 0.99999998,7.25329 0.99999998,12.5 0.99999998,17.7467 5.24546,22 10.5,22 15.75454,22 20.03125,17.7467 20.03125,12.5 20.03125,7.25329 15.75454,3 10.5,3 z m 0,5 C 12.98528,8 15,10.01472 15,12.5 15,14.98528 12.98528,17 10.5,17 8.01472,17 6,14.98528 6,12.5 6,10.01472 8.01472,8 10.5,8 z" inkscape:connector-curvature="0" id="path3814" opacity="0.1"/>
  <path d="M 2.4998,8.8655 C -2.37612,5.6767 2.550226,0.01144 7.81468,3.71016" inkscape:connector-curvature="0" id="path3667" fill="none" stroke="#6a6a6a"/>

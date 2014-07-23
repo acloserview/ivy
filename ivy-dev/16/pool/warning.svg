@@ -21,11 +21,11 @@
    <stop id="stop3704" stop-opacity="0.2"/>
    <stop id="stop3706" offset="1" stop-opacity="0"/>
   </linearGradient>
-  <radialGradient cx="23.863546" cy="44.622055" r="23.645615" id="radialGradient3708" xlink:href="#linearGradient3702" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.33832912,0,0,0.04228814,-0.02292081,13.113016)"/>
+  <radialGradient cx="23.864" cy="44.622" r="23.646" id="radialGradient3708" xlink:href="#linearGradient3702" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.33832912,0,0,0.04228814,-0.02292081,13.113016)"/>
   <linearGradient y1="32.875" x2="0" y2="40.875" id="linearGradient3716" xlink:href="#linearGradient3710" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.25,0,0,0.25,2.0000004,2.7812503)"/>
-  <linearGradient y1="30.562506" x2="0" y2="15.187467" id="linearGradient3724" xlink:href="#linearGradient3718" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.19952755,0,0,0.32520249,3.211041,0.06099768)"/>
-  <linearGradient x1="47.38081" y1="4.271186" x2="46.992069" y2="43.525425" id="linearGradient838" xlink:href="#linearGradient3780" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.35105148,0,0,0.35000001,-0.42523535,-0.39999988)"/>
-  <linearGradient y1="2.317075" x2="0" y2="13.971055" id="linearGradient855" xlink:href="#linearGradient849" gradientUnits="userSpaceOnUse"/>
+  <linearGradient y1="30.563" x2="0" y2="15.187" id="linearGradient3724" xlink:href="#linearGradient3718" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.19952755,0,0,0.32520249,3.211041,0.06099768)"/>
+  <linearGradient x1="47.38" y1="4.271" x2="46.992" y2="43.525" id="linearGradient838" xlink:href="#linearGradient3780" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.35105148,0,0,0.35000001,-0.42523535,-0.39999988)"/>
+  <linearGradient y1="2.317" x2="0" y2="13.971" id="linearGradient855" xlink:href="#linearGradient849" gradientUnits="userSpaceOnUse"/>
  </defs>
  <path d="m 16.0508,15 a 8,0.999929 0 1 1 -16,0 8,0.999929 0 1 1 16,0 z" inkscape:connector-curvature="0" id="path3700" opacity="0.36" fill="url(#radialGradient3708)"/>
  <path d="M 7.9633,1 C 7.730774,1.0026249 7.523804,1.127746 7.407385,1.328444 l -7.3299,12.6862 c -0.114782,0.203213 -0.0972527,0.455428 0.0205871,0.656889 0.117842,0.201463 0.321997,0.327981 0.555916,0.328445 l 14.6802999,-0.0205 c 0.190556,0.0011 0.388758,-0.08325 0.514735,-0.225809 0.125975,-0.142547 0.169222,-0.324862 0.144127,-0.513196 -0.01131,-0.07997 -0.02237,-0.175751 -0.06177,-0.246331 L 8.5397801,1.307942 C 8.4187761,1.10996 8.1958031,0.997366 7.9632781,1.000025 z" inkscape:connector-curvature="0" id="path2383" fill="url(#linearGradient838)"/>

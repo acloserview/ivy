@@ -13,12 +13,12 @@
    <stop id="stop839" stop-color="#9ab9e4"/>
    <stop id="stop841" offset="1" stop-color="#5288d1"/>
   </linearGradient>
-  <linearGradient x1="37.774422" y1="7.397121" x2="37.847031" y2="37.11258" id="linearGradient851" xlink:href="#linearGradient845" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.45615652,0,0,0.47243351,-0.2238315,-0.52246395)"/>
-  <linearGradient y1="37.0898" x2="0" y2="7.455999" id="linearGradient3027" xlink:href="#linearGradient837" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.45615652,0,0,0.47243351,23.223831,2.4775361)"/>
-  <linearGradient y1="7" x2="0" y2="12.359375" id="linearGradient3813" xlink:href="#linearGradient3817" gradientUnits="userSpaceOnUse"/>
-  <linearGradient x1="16" y1="4" x2="15.96875" y2="9.359375" id="linearGradient3823" xlink:href="#linearGradient3817" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="37.774" y1="7.397" x2="37.847" y2="37.11" id="linearGradient851" xlink:href="#linearGradient845" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.45615652,0,0,0.47243351,-0.2238315,-0.52246395)"/>
+  <linearGradient y1="37.09" x2="0" y2="7.456" id="linearGradient3027" xlink:href="#linearGradient837" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.45615652,0,0,0.47243351,23.223831,2.4775361)"/>
+  <linearGradient y1="7" x2="0" y2="12.359" id="linearGradient3813" xlink:href="#linearGradient3817" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="16" y1="4" x2="15.969" y2="9.359" id="linearGradient3823" xlink:href="#linearGradient3817" gradientUnits="userSpaceOnUse"/>
   <filter color-interpolation-filters="sRGB" id="filter3865">
-   <feGaussianBlur stdDeviation="0.25882026" id="feGaussianBlur3867"/>
+   <feGaussianBlur stdDeviation="0.25882" id="feGaussianBlur3867"/>
   </filter>
  </defs>
  <path d="M 9.5,4 C 5.3582539,4 2,6.8575435 2,10.375 2,11.859669 2.5908991,13.198197 3.59375,14.28125 3.2956166,15.508916 3.218695,16.772239 3,18 c 0.8888665,-0.994662 2.0454459,-1.464554 3.46875,-1.8125 0.122118,0.04601 0.2493658,0.08441 0.375,0.125 1.2494348,2.036612 3.763599,3.40625 6.65625,3.40625 1.081492,0 2.102511,-0.181319 3.03125,-0.53125 C 17.954554,19.535446 19.111134,20.005338 20,21 19.781305,19.772239 19.704384,18.508916 19.40625,17.28125 20.409101,16.198197 21,14.859669 21,13.375 21,10.646579 18.966089,8.3127247 16.125,7.40625 14.868702,5.3878943 12.376746,4 9.5,4 z" inkscape:connector-curvature="0" id="path3885" opacity="0.1"/>

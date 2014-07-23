@@ -13,15 +13,15 @@
   <linearGradient y1="-17" x2="0" y2="-11" id="linearGradient886" xlink:href="#linearGradient880" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.45833333,0,0,0.50238728,-460.22916,0.54058368)"/>
   <linearGradient y1="-17" x2="0" y2="-11" id="linearGradient912" xlink:href="#linearGradient880" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.45833333,0,0,0.5,-460.24933,-7.4999993)"/>
  </defs>
- <rect width="11" height="3.276772" x="5" y="17.723228" id="rect847" opacity="0.1"/>
- <rect width="7.333318" height="3" x="1" y="-16" transform="matrix(0,1,-1,0,0,0)" id="rect906" fill="url(#linearGradient912)"/>
- <rect width="7.333318" height="3.01432" x="1.02017" y="-8" transform="matrix(0,1,-1,0,0,0)" id="rect20" fill="url(#linearGradient886)"/>
+ <rect width="11" height="3.277" x="5" y="17.723" id="rect847" opacity="0.1"/>
+ <rect width="7.333" height="3" x="1" y="-16" transform="matrix(0,1,-1,0,0,0)" id="rect906" fill="url(#linearGradient912)"/>
+ <rect width="7.333" height="3.01" x="1.02" y="-8" transform="matrix(0,1,-1,0,0,0)" id="rect20" fill="url(#linearGradient886)"/>
  <path d="m 1.53125,-7.5 0,2 6.3125,0 0,-2 -6.3125,0 z" inkscape:connector-curvature="0" transform="matrix(0,1,-1,0,0,0)" id="path894" opacity="0.6" fill="none" stroke="#000000"/>
  <path d="m 1.53125,-7.5 0,2 6.3125,0 0,-2 -6.3125,0 z" inkscape:connector-curvature="0" transform="matrix(0,1,-1,0,8,-0.03125)" id="path834" opacity="0.6" fill="none" stroke="#000000"/>
  <path d="M 1.9989954,5.959283 1.9990447,10 5,17 l 11,0 2.998955,-7 -4.9e-5,-4.040717 z" inkscape:connector-curvature="0" id="path22" fill="url(#linearGradient850)"/>
  <path d="M 1.9989954,7.959283 1.9990447,12 5,19 l 11,0 2.998955,-7 -4.9e-5,-4.040717 z" inkscape:connector-curvature="0" id="path3002" opacity="0.1"/>
- <rect width="13.996986" height="1" x="3.51097" y="10" id="rect852" opacity="0.2" fill="#ffffff"/>
- <rect width="11" height="3.276772" x="5" y="16.725819" id="rect32" fill="#6a6a6a"/>
+ <rect width="13.997" height="1" x="3.511" y="10" id="rect852" opacity="0.2" fill="#ffffff"/>
+ <rect width="11" height="3.277" x="5" y="16.726" id="rect32" fill="#6a6a6a"/>
  <rect width="15" height="1" x="3" y="9" id="rect42" opacity="0.5"/>
  <rect width="9" height="1" x="6" y="17" id="rect854" opacity="0.5"/>
  <path d="m 2.5,6.46875 0,3.4375 2.96875,6.90625 A 0.51102068,0.51102068 0 0 1 5.5,17 l 0,2.5 10,0 0,-2.5 a 0.51102068,0.51102068 0 0 1 0.03125,-0.1875 L 18.5,9.90625 l 0,-3.4375 -16,0 z" inkscape:connector-curvature="0" id="path843" opacity="0.8" fill="none" stroke="#000000"/>

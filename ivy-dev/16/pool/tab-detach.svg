@@ -9,14 +9,14 @@
    <stop id="stop3650" stop-color="#dddddd"/>
    <stop id="stop3652" offset="1" stop-color="#ffffff"/>
   </linearGradient>
-  <linearGradient x1="44" y1="43" x2="43.91153" y2="-1.016" id="linearGradient3027" xlink:href="#linearGradient3648" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.40000002,0,0,0.39473687,-1.6,-1.9736835)"/>
-  <radialGradient cx="23.984993" cy="44.880875" r="23.2321" id="radialGradient3030" xlink:href="#linearGradient3683" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.38739501,0,0,0.04304474,-1.291666,13.068283)"/>
+  <linearGradient x1="44" y1="43" x2="43.912" y2="-1.016" id="linearGradient3027" xlink:href="#linearGradient3648" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.40000002,0,0,0.39473687,-1.6,-1.9736835)"/>
+  <radialGradient cx="23.985" cy="44.881" r="23.23" id="radialGradient3030" xlink:href="#linearGradient3683" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.38739501,0,0,0.04304474,-1.291666,13.068283)"/>
  </defs>
  <path d="m 17,15.0002 a 9,1.00002 0 0 1 -18,0 9,1.00002 0 1 1 18,0 z" inkscape:connector-curvature="0" id="path2850" fill="url(#radialGradient3030)"/>
  <rect width="16" height="15" id="rect2852" fill="url(#linearGradient3027)"/>
  <rect width="16" height="5" id="rect2854" fill="#5288d1"/>
- <path d="M 0.9835,4.4995 15.0037,4.5006" inkscape:connector-curvature="0" id="path2858" opacity="0.4" fill="none" stroke="#000000" stroke-width="0.998905"/>
- <path d="M 0.9877,5.4995 15.0256,5.5006" inkscape:connector-curvature="0" id="path3032" fill="none" stroke="#ffffff" stroke-width="0.998914"/>
+ <path d="M 0.9835,4.4995 15.0037,4.5006" inkscape:connector-curvature="0" id="path2858" opacity="0.4" fill="none" stroke="#000000" stroke-width="0.999"/>
+ <path d="M 0.9877,5.4995 15.0256,5.5006" inkscape:connector-curvature="0" id="path3032" fill="none" stroke="#ffffff" stroke-width="0.999"/>
  <path d="m 0.5,0.5 0,14 15,0 0,-14 h -15 z" inkscape:connector-curvature="0" id="path842" opacity="0.3" fill="none" stroke="#000000"/>
  <rect width="14" height="1" x="1" y="1" id="rect831" opacity="0.47" fill="#ffffff"/>
  <rect width="1" height="1" x="2" y="2" id="rect833" fill="#ffffff"/>

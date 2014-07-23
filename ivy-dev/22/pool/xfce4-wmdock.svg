@@ -21,11 +21,11 @@
    <stop id="stop3269" stop-color="#171717"/>
    <stop id="stop3271" offset="1" stop-color="#a1a1a1"/>
   </linearGradient>
-  <radialGradient cx="25.17177" cy="47.29835" r="24.11929" id="radialGradient3361" xlink:href="#linearGradient3343" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1,0,0,0.1018182,0,42.482515)"/>
-  <linearGradient y1="13.04491" x2="0" y2="56.805481" id="linearGradient3363" xlink:href="#linearGradient3267" gradientUnits="userSpaceOnUse"/>
-  <linearGradient y1="8.997506" x2="0" y2="43.997505" id="linearGradient3365" xlink:href="#linearGradient3275" gradientUnits="userSpaceOnUse"/>
-  <linearGradient x1="44.4" y1="9.476447" x2="44.5" y2="43.5" id="linearGradient3369" xlink:href="#linearGradient3313" gradientUnits="userSpaceOnUse"/>
-  <linearGradient y1="9.476447" x2="0" y2="44.47645" id="linearGradient844" xlink:href="#linearGradient846" gradientUnits="userSpaceOnUse"/>
+  <radialGradient cx="25.17" cy="47.3" r="24.12" id="radialGradient3361" xlink:href="#linearGradient3343" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1,0,0,0.1018182,0,42.482515)"/>
+  <linearGradient y1="13.04" x2="0" y2="56.805" id="linearGradient3363" xlink:href="#linearGradient3267" gradientUnits="userSpaceOnUse"/>
+  <linearGradient y1="8.998" x2="0" y2="43.998" id="linearGradient3365" xlink:href="#linearGradient3275" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="44.4" y1="9.476" x2="44.5" y2="43.5" id="linearGradient3369" xlink:href="#linearGradient3313" gradientUnits="userSpaceOnUse"/>
+  <linearGradient y1="9.476" x2="0" y2="44.48" id="linearGradient844" xlink:href="#linearGradient846" gradientUnits="userSpaceOnUse"/>
  </defs>
  <g transform="translate(-0.39999888,0.49930661)" id="layer1">
   <g transform="translate(2.3368646e-8,0.02424644)" id="g3351">

@@ -9,12 +9,12 @@
    <stop id="stop3839" stop-color="#66b03e"/>
    <stop id="stop3841" offset="1" stop-color="#a3d588"/>
   </linearGradient>
-  <linearGradient x1="39.25201" y1="4.561285" x2="39.17499" y2="42.869934" id="linearGradient3851" xlink:href="#linearGradient3845" gradientUnits="userSpaceOnUse"/>
-  <linearGradient y1="3" x2="0" y2="45.12203" id="linearGradient826" xlink:href="#linearGradient3837" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="39.25" y1="4.561" x2="39.17" y2="42.87" id="linearGradient3851" xlink:href="#linearGradient3845" gradientUnits="userSpaceOnUse"/>
+  <linearGradient y1="3" x2="0" y2="45.12" id="linearGradient826" xlink:href="#linearGradient3837" gradientUnits="userSpaceOnUse"/>
  </defs>
  <path d="m 6.1726,31.6102 0,14.4108 L 41.8273,24.349 6.1726,3.9799 v 20.861 l 9.6935,-7.9725 12.8286,7.6038 -12.8286,8.0189 v -9.03495 z" inkscape:connector-curvature="0" id="path828" opacity="0.1"/>
  <path d="m 6.1726,30.6097 0,14.4108 L 41.8273,23.3485 6.1726,2.9794 v 20.861 l 9.6935,-7.9725 12.8286,7.6038 -12.8286,8.0189 v -9.03495 z" inkscape:connector-curvature="0" id="path7268" fill="url(#linearGradient826)"/>
- <text x="-6.447815" y="41.826195" id="text5527" font-family="Bitstream Vera Sans" font-size="40"><tspan x="-6.447815" y="41.826195" id="tspan5529"/>
+ <text x="-6.448" y="41.826" id="text5527" font-family="Bitstream Vera Sans" font-size="40"><tspan x="-6.448" y="41.826" id="tspan5529"/>
  </text>
  <path d="m 6.6875,3.8438 0,18.9688 8.875,-7.3125 a 0.499874,0.499874 0 0 1 0.5625,-0.0625 l 12.8125,7.5938 a 0.499874,0.499874 0 0 1 0,0.875 L 16.125,31.9376 a 0.499874,0.499874 0 0 1 -0.75,-0.4375 v -7.96875 l -8.6875,7.3125 v 13.2812 l 34.125,-20.7812 -34.125,-19.5 z" inkscape:connector-curvature="0" id="path3833" opacity="0.4" fill="none" stroke="#000000"/>
  <path d="m 7.6875,5.5625 0,15.125 7.25,-5.9688 a 1.4998,1.4998 0 0 1 1.6875,-0.125 l 12.8125,7.5938 a 1.4998,1.4998 0 0 1 0.03125,2.5625 l -12.8125,8.0312 A 1.4998,1.4998 0 0 1 14.375,31.49995 v -5.8125 l -6.6875,5.625 v 11.0625 L 38.8437,23.40615 7.6875,5.56235 z" inkscape:connector-curvature="0" id="path3835" opacity="0.61" fill="none" stroke="url(#linearGradient3851)"/>

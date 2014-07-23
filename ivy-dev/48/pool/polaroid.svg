@@ -15,7 +15,7 @@
   </linearGradient>
   <linearGradient y1="4" x2="0" y2="44" id="linearGradient3781" xlink:href="#linearGradient3775" gradientUnits="userSpaceOnUse"/>
   <linearGradient y1="46" x2="0" y2="8" id="linearGradient3791" xlink:href="#linearGradient3783" gradientUnits="userSpaceOnUse"/>
-  <radialGradient cx="23.1413" cy="35.896381" r="17" id="radialGradient3822" xlink:href="#linearGradient3816" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.82622734,-0.56333682,0.88235294,1.2941176,-24.79325,4.5822042)"/>
+  <radialGradient cx="23.14" cy="35.896" r="17" id="radialGradient3822" xlink:href="#linearGradient3816" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.82622734,-0.56333682,0.88235294,1.2941176,-24.79325,4.5822042)"/>
  </defs>
  <rect width="42" height="42" x="3" y="4" id="rect3824" opacity="0.1"/>
  <rect width="42" height="42" x="3" y="3" id="rect4036" fill="url(#linearGradient3791)"/>

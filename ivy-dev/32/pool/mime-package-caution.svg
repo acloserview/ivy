@@ -10,15 +10,15 @@
    <stop id="stop923" offset="1" stop-color="#fc6445"/>
   </linearGradient>
   <linearGradient y1="3" x2="0" y2="44" id="linearGradient4015" xlink:href="#linearGradient919" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.6579807,0,0,0.66676036,1.0627064,0.66134162)"/>
-  <linearGradient y1="1.613878" x2="0" y2="27.29075" id="linearGradient838" xlink:href="#linearGradient832" gradientUnits="userSpaceOnUse"/>
+  <linearGradient y1="1.614" x2="0" y2="27.29" id="linearGradient838" xlink:href="#linearGradient832" gradientUnits="userSpaceOnUse"/>
   <linearGradient id="linearGradient3927">
    <stop id="stop3929" stop-color="#a2a2a2"/>
    <stop id="stop3931" offset="1" stop-color="#bbbbbb"/>
   </linearGradient>
   <linearGradient y1="15" x2="0" y2="21" id="linearGradient1856" xlink:href="#linearGradient3927" gradientUnits="userSpaceOnUse"/>
  </defs>
- <rect width="22.997252" height="28.00393" rx="0.805954" x="5.00153" y="2.995065" id="rect826" opacity="0.06"/>
- <rect width="22.997252" height="28.00393" rx="0.805954" x="5.00153" y="1.994863" id="rect4007" fill="url(#linearGradient4015)"/>
+ <rect width="22.997" height="28" rx="0.806" x="5" y="2.995" id="rect826" opacity="0.06"/>
+ <rect width="22.997" height="28" rx="0.806" x="5" y="1.995" id="rect4007" fill="url(#linearGradient4015)"/>
  <path d="m 12,16 0,2 1,0 0,4 6,0 0,-4 1,0 0,-2 -4,0 -2,0 h -2 z" inkscape:connector-curvature="0" id="path1864" opacity="0.1"/>
  <rect width="6" height="14" x="13" y="2" id="rect967" opacity="0.66" fill="#6a6a6a"/>
  <rect width="2" height="1" x="16" y="2" id="rect971" opacity="0.66" fill="#171717"/>
@@ -57,5 +57,5 @@
  <path d="m 12.5312,15.5312 0,0.9375 0.4688,0 a 0.54206,0.54206 0 0 1 0.53125,0.53125 v 3.46875 h 4.9375 V 16.99995 A 0.54206,0.54206 0 0 1 19,16.4687 h 0.46875 V 15.5312 H 16 14 12.53125 z" inkscape:connector-curvature="0" id="path1860" opacity="0.4" fill="none" stroke="#000000"/>
  <rect width="2" height="1" x="15" y="18" id="rect1862" opacity="0.884" fill="#d02604"/>
  <rect width="4" height="1" rx="0.5" x="14" y="16" id="rect865" opacity="0.47" fill="#ffffff"/>
- <rect width="5.827736" height="1" rx="0.5" x="13.05665" y="13.995386" id="rect867" opacity="0.47" fill="#ffffff"/>
+ <rect width="5.828" height="1" rx="0.5" x="13.06" y="13.995" id="rect867" opacity="0.47" fill="#ffffff"/>
 </svg>

@@ -22,11 +22,11 @@
  </defs>
  <rect width="26" height="25" x="3" y="5" id="rect869" opacity="0.15"/>
  <rect width="26" height="25" x="3" y="4" id="rect2852" fill="url(#linearGradient3007)"/>
- <rect width="1.978406" height="17" x="6" y="8" id="rect3018" opacity="0.5" fill="#6a6a6a"/>
+ <rect width="1.978" height="17" x="6" y="8" id="rect3018" opacity="0.5" fill="#6a6a6a"/>
  <rect width="4" height="4" x="5" y="12" id="rect903" opacity="0.15"/>
- <rect width="1.978406" height="17" x="12" y="8" id="rect3020" opacity="0.5" fill="#6a6a6a"/>
- <rect width="1.978406" height="17" x="18" y="8" id="rect3022" opacity="0.5" fill="#6a6a6a"/>
- <rect width="1.978406" height="17" x="24.02159" y="8" id="rect3024" opacity="0.5" fill="#6a6a6a"/>
+ <rect width="1.978" height="17" x="12" y="8" id="rect3020" opacity="0.5" fill="#6a6a6a"/>
+ <rect width="1.978" height="17" x="18" y="8" id="rect3022" opacity="0.5" fill="#6a6a6a"/>
+ <rect width="1.978" height="17" x="24.02" y="8" id="rect3024" opacity="0.5" fill="#6a6a6a"/>
  <path d="m 3.5,4.5 0,24 25,0 0,-24 h -25 z" inkscape:connector-curvature="0" id="path861" opacity="0.4" fill="none" stroke="#000000"/>
  <path d="m 4.5,5.5 0,22 23,0 0,-22 h -23 z" inkscape:connector-curvature="0" id="path863" opacity="0.5" fill="none" stroke="url(#linearGradient871)"/>
  <rect width="4" height="4" x="5" y="11" id="rect873" fill="url(#linearGradient881)"/>
@@ -36,12 +36,12 @@
  <rect width="4" height="4" x="11" y="14" id="rect907" fill="url(#linearGradient913)"/>
  <path d="m 5.5625,11.5625 0,2.875 2.875,0 0,-2.875 h -2.875 z" inkscape:connector-curvature="0" transform="translate(6,3)" id="path909" opacity="0.2" fill="none" stroke="#000000"/>
  <rect width="2" height="1" x="12" y="15" id="rect911" opacity="0.3" fill="#ffffff"/>
- <rect width="4" height="4" x="17.0625" y="9.0625" id="rect915" opacity="0.15"/>
- <rect width="4" height="4" x="17.0625" y="8.0625" id="rect917" fill="url(#linearGradient923)"/>
+ <rect width="4" height="4" x="17.06" y="9.06" id="rect915" opacity="0.15"/>
+ <rect width="4" height="4" x="17.06" y="8.06" id="rect917" fill="url(#linearGradient923)"/>
  <path d="m 5.5625,11.5625 0,2.875 2.875,0 0,-2.875 h -2.875 z" inkscape:connector-curvature="0" transform="translate(12.0625,-2.9375)" id="path919" opacity="0.2" fill="none" stroke="#000000"/>
- <rect width="2" height="1" x="18.0625" y="9.0625" id="rect921" opacity="0.3" fill="#ffffff"/>
- <rect width="4" height="4" x="23.0625" y="17.0625" id="rect925" opacity="0.15"/>
- <rect width="4" height="4" x="23.0625" y="16.0625" id="rect927" fill="url(#linearGradient933)"/>
+ <rect width="2" height="1" x="18.06" y="9.06" id="rect921" opacity="0.3" fill="#ffffff"/>
+ <rect width="4" height="4" x="23.06" y="17.06" id="rect925" opacity="0.15"/>
+ <rect width="4" height="4" x="23.06" y="16.06" id="rect927" fill="url(#linearGradient933)"/>
  <path d="m 5.5625,11.5625 0,2.875 2.875,0 0,-2.875 h -2.875 z" inkscape:connector-curvature="0" transform="translate(18.0625,5.0625)" id="path929" opacity="0.2" fill="none" stroke="#000000"/>
- <rect width="2" height="1" x="24.0625" y="17.0625" id="rect931" opacity="0.3" fill="#ffffff"/>
+ <rect width="2" height="1" x="24.06" y="17.06" id="rect931" opacity="0.3" fill="#ffffff"/>
 </svg>

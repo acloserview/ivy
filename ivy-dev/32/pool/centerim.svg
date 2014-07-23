@@ -9,8 +9,8 @@
    <stop id="stop3783" stop-color="#ffffff"/>
    <stop id="stop3785" offset="1" stop-color="#ffffff" stop-opacity="0"/>
   </linearGradient>
-  <linearGradient x1="38.702175" y1="7.975359" x2="38.8125" y2="39.24339" id="linearGradient3787" xlink:href="#linearGradient3781" gradientUnits="userSpaceOnUse"/>
-  <linearGradient x1="39.691929" y1="7.129963" x2="39.804695" y2="40.2555" id="linearGradient3803" xlink:href="#linearGradient3797" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="38.702" y1="7.975" x2="38.813" y2="39.24" id="linearGradient3787" xlink:href="#linearGradient3781" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="39.692" y1="7.13" x2="39.805" y2="40.26" id="linearGradient3803" xlink:href="#linearGradient3797" gradientUnits="userSpaceOnUse"/>
  </defs>
  <g transform="scale(1.004908,0.99511598)" id="text2998" fill="#d02604">
   <path d="m 39.8046,32.1571 -23.8828,0 0,-15.0736 23.8828,0 -1e-4,-9.0442 -28.8584,0 -3.9805,4.0196 0,25.1227 3.9805,4.0196 28.8584,0 0,-9.0442" inkscape:connector-curvature="0" id="path3805" opacity="0.1" fill="#000000"/>

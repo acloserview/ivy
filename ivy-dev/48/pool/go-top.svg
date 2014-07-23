@@ -13,19 +13,19 @@
    <stop id="stop3806"/>
    <stop id="stop3808" offset="1" stop-opacity="0"/>
   </linearGradient>
-  <radialGradient cx="60.05332" cy="51.39256" r="15.03245" id="radialGradient3625" xlink:href="#linearGradient3588" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.404511,1.1888571,-1,-1.1813958,199.73811,11.750541)"/>
+  <radialGradient cx="60.05" cy="51.39" r="15.03" id="radialGradient3625" xlink:href="#linearGradient3588" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.404511,1.1888571,-1,-1.1813958,199.73811,11.750541)"/>
   <linearGradient id="linearGradient3588">
    <stop id="stop3590" stop-color="#eeeeee"/>
    <stop id="stop3592" offset="1" stop-color="#dcdcdc"/>
   </linearGradient>
   <radialGradient cx="32" cy="46.5" r="7" id="radialGradient3810" xlink:href="#linearGradient3804" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.50368973,0,0,0.14285714,31.696487,36.394364)"/>
-  <linearGradient x1="5.962001" x2="41.13625" id="linearGradient836" xlink:href="#linearGradient830" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,0.9950461,1.0196374,0,-0.9836761,0.06753446)"/>
+  <linearGradient x1="5.962" x2="41.14" id="linearGradient836" xlink:href="#linearGradient830" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,0.9950461,1.0196374,0,-0.9836761,0.06753446)"/>
   <radialGradient cx="32" cy="46.5" r="7" id="radialGradient829" xlink:href="#linearGradient3804" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.50368973,0,0,0.14285714,48.949347,36.394364)"/>
   <linearGradient y1="5" x2="0" y2="43" id="linearGradient835" xlink:href="#linearGradient828" gradientUnits="userSpaceOnUse"/>
  </defs>
  <path d="m 12.0526,43.0372 a 3.52583,1 0 0 0 7.05166,0 3.52583,1 0 1 0 -7.05166,0 z" inkscape:connector-curvature="0" id="path3802" opacity="0.079" fill="url(#radialGradient3810)"/>
  <path d="m 2.986,24.9752 1.7029,0.0186 10.5723,0.1154 0,17.873 8.7391,-7.0005 8.9177,7.0005 0,-17.873 12.2082,0 L 23.9231,5.0656 z" inkscape:connector-curvature="0" id="rect2849" fill="url(#linearGradient835)"/>
- <path d="M 4.2738,24.5394 23.9655,5.6957 43.721,24.5394 H 32.8236 c -0.25079,-0.0019 -0.479926,0.221687 -0.477955,0.466428 l 0.0717,16.8396 -8.3921,-6.5262 -8.3045,6.5979 -0.0717,-16.9113 c 0.002,-0.244741 -0.227164,-0.468351 -0.477954,-0.466428 z" inkscape:connector-curvature="0" id="path3022" opacity="0.4" fill="none" stroke="#000000" stroke-width="1.007"/>
- <path d="M 6.4724,23.6688 23.9656,6.9085 41.5225,23.6688 h -8.69878 c -0.339042,0.0091 -0.663349,0.224241 -0.796591,0.528618 -0.01062,-1.85e-4 -0.02124,-1.85e-4 -0.03186,0 -1.9e-4,0.01037 -1.9e-4,0.02073 0,0.0311 -0.3119,0.130028 -0.532429,0.446514 -0.541682,0.777379 v 14.7497 l -7.4282,-5.6656 -7.3406,5.9525 -0.1434,-15.0366 c -0.0093,-0.330865 -0.229783,-0.647351 -0.541683,-0.777379 -0.01035,-0.01062 -0.02098,-0.02099 -0.03186,-0.0311 -0.13325,-0.304377 -0.457557,-0.519588 -0.796599,-0.528618 z" inkscape:connector-curvature="0" id="path28" opacity="0.4" fill="none" stroke="url(#linearGradient836)" stroke-width="1.007"/>
+ <path d="M 4.2738,24.5394 23.9655,5.6957 43.721,24.5394 H 32.8236 c -0.25079,-0.0019 -0.479926,0.221687 -0.477955,0.466428 l 0.0717,16.8396 -8.3921,-6.5262 -8.3045,6.5979 -0.0717,-16.9113 c 0.002,-0.244741 -0.227164,-0.468351 -0.477954,-0.466428 z" inkscape:connector-curvature="0" id="path3022" opacity="0.4" fill="none" stroke="#000000" stroke-width="1.01"/>
+ <path d="M 6.4724,23.6688 23.9656,6.9085 41.5225,23.6688 h -8.69878 c -0.339042,0.0091 -0.663349,0.224241 -0.796591,0.528618 -0.01062,-1.85e-4 -0.02124,-1.85e-4 -0.03186,0 -1.9e-4,0.01037 -1.9e-4,0.02073 0,0.0311 -0.3119,0.130028 -0.532429,0.446514 -0.541682,0.777379 v 14.7497 l -7.4282,-5.6656 -7.3406,5.9525 -0.1434,-15.0366 c -0.0093,-0.330865 -0.229783,-0.647351 -0.541683,-0.777379 -0.01035,-0.01062 -0.02098,-0.02099 -0.03186,-0.0311 -0.13325,-0.304377 -0.457557,-0.519588 -0.796599,-0.528618 z" inkscape:connector-curvature="0" id="path28" opacity="0.4" fill="none" stroke="url(#linearGradient836)" stroke-width="1.01"/>
  <path d="m 29.3054,43.0372 a 3.52583,1 0 0 0 7.05166,0 3.52583,1 0 1 0 -7.05166,0 z" inkscape:connector-curvature="0" id="path827" opacity="0.079" fill="url(#radialGradient829)"/>
 </svg>

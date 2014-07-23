@@ -13,10 +13,10 @@
    <stop id="stop2925" stop-color="#6a6a6a"/>
    <stop id="stop2927" offset="1" stop-color="#dfdfdf"/>
   </linearGradient>
-  <radialGradient cx="18.870396" cy="52.97506" r="22.03943" id="radialGradient2917" xlink:href="#linearGradient2923" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.3347932,-0.38292805,0.36583369,0.28244266,-14.208,13.75651)"/>
-  <radialGradient cx="17.35355" cy="29.13458" r="11.121076" id="radialGradient3731" xlink:href="#linearGradient3733" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.6284891e-7,-0.56098187,0.70887321,1.1904294e-7,-9.6548899,24.331033)"/>
-  <linearGradient y1="7.0625" x2="0" y2="15.414144" id="linearGradient927" xlink:href="#linearGradient931" gradientUnits="userSpaceOnUse"/>
-  <linearGradient y1="5.96875" x2="0" y2="16.4375" id="linearGradient937" xlink:href="#linearGradient931" gradientUnits="userSpaceOnUse"/>
+  <radialGradient cx="18.87" cy="52.975" r="22.04" id="radialGradient2917" xlink:href="#linearGradient2923" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.3347932,-0.38292805,0.36583369,0.28244266,-14.208,13.75651)"/>
+  <radialGradient cx="17.354" cy="29.13" r="11.121" id="radialGradient3731" xlink:href="#linearGradient3733" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.6284891e-7,-0.56098187,0.70887321,1.1904294e-7,-9.6548899,24.331033)"/>
+  <linearGradient y1="7.06" x2="0" y2="15.414" id="linearGradient927" xlink:href="#linearGradient931" gradientUnits="userSpaceOnUse"/>
+  <linearGradient y1="5.969" x2="0" y2="16.438" id="linearGradient937" xlink:href="#linearGradient931" gradientUnits="userSpaceOnUse"/>
  </defs>
  <path d="m 22.003042,11.204396 c -1.10052,3.102533 -4.930366,6.205049 -11.00521,6.205049 -6.0748437,0 -9.9047083,-3.102516 -11.00520964,-6.205049 C 1.0931237,8.1019046 4.9229883,4.9993484 10.997832,4.9993484 c 6.074893,0 9.904709,3.1025562 11.00521,6.2050476 z" inkscape:connector-curvature="0" id="path10521" fill="url(#radialGradient2917)" fill-rule="evenodd"/>
  <path d="m 11,5.46875 c -5.7963311,0 -9.3748019,2.9214706 -10.46875,5.75 C 1.6250135,14.046257 5.2028817,16.9375 11,16.9375 c 5.797168,0 9.374986,-2.891259 10.46875,-5.71875 C 20.374784,8.3901912 16.796358,5.46875 11,5.46875 z" inkscape:connector-curvature="0" id="path905" opacity="0.3" fill="none" stroke="#000000"/>

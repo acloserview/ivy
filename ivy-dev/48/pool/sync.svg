@@ -9,9 +9,9 @@
    <stop id="stop848" stop-color="#66b03e"/>
    <stop id="stop850" offset="1" stop-color="#87c762"/>
   </linearGradient>
-  <linearGradient x1="43.937099" y1="4.052514" x2="44.04553" y2="44.11634" id="linearGradient852" xlink:href="#linearGradient846" gradientUnits="userSpaceOnUse"/>
-  <linearGradient x1="42.886559" y1="27.931082" x2="42.993908" y2="44.998264" id="linearGradient862" xlink:href="#linearGradient866" gradientUnits="userSpaceOnUse"/>
-  <linearGradient x1="42.968918" y1="3.02253" x2="42.998493" y2="23.999249" id="linearGradient872" xlink:href="#linearGradient866" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="43.937" y1="4.053" x2="44.05" y2="44.12" id="linearGradient852" xlink:href="#linearGradient846" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="42.887" y1="27.931" x2="42.994" y2="44.998" id="linearGradient862" xlink:href="#linearGradient866" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="42.969" y1="3.02" x2="42.998" y2="23.999" id="linearGradient872" xlink:href="#linearGradient866" gradientUnits="userSpaceOnUse"/>
  </defs>
  <g id="g842" fill="url(#linearGradient852)">
   <path d="M 44,25.152689 C 43.901818,44 28.299127,50.237949 11.864872,37.156685 L 7,42 7,25.08251 22.146397,25 17.245404,30.731005 C 29.001634,44 40.921781,32 44,25.152689 z" inkscape:connector-curvature="0" id="path2781" display="block" color="#000000"/>

@@ -5,23 +5,23 @@
    <stop id="stop4025" stop-color="#ffffff"/>
    <stop id="stop4027" offset="1" stop-color="#ffffff" stop-opacity="0"/>
   </linearGradient>
-  <linearGradient x1="6.04065" y1="1.882114" x2="41" y2="1.926829" id="linearGradient4015" xlink:href="#linearGradient3095" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.45833333,0,0,0.45833333,-6.871404,2.467658)"/>
-  <linearGradient x1="6.971545" y1="3.203252" x2="40.1095" y2="3.02973" id="linearGradient4029" xlink:href="#linearGradient4023" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,0.45833333,-0.45833333,0,-2.464498,-6.874564)"/>
+  <linearGradient x1="6.04" y1="1.882" x2="41" y2="1.927" id="linearGradient4015" xlink:href="#linearGradient3095" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.45833333,0,0,0.45833333,-6.871404,2.467658)"/>
+  <linearGradient x1="6.972" y1="3.203" x2="40.11" y2="3.03" id="linearGradient4029" xlink:href="#linearGradient4023" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,0.45833333,-0.45833333,0,-2.464498,-6.874564)"/>
   <linearGradient id="linearGradient3095">
    <stop id="stop3097" stop-color="#171717"/>
    <stop id="stop3099" offset="1" stop-color="#646464"/>
   </linearGradient>
   <linearGradient x1="4" x2="20" id="linearGradient837" xlink:href="#linearGradient4023" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,1,-1,0,-0.9997,-1)"/>
-  <linearGradient x1="6.04065" y1="1.882114" x2="41" y2="1.926829" id="linearGradient4015-7" xlink:href="#linearGradient919" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.51500301,0,0,0.5,-1.0829264,-23.0003)"/>
+  <linearGradient x1="6.04" y1="1.882" x2="41" y2="1.927" id="linearGradient4015-7" xlink:href="#linearGradient919" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.51500301,0,0,0.5,-1.0829264,-23.0003)"/>
   <linearGradient id="linearGradient919">
    <stop id="stop921" stop-color="#5288d1"/>
    <stop id="stop923" offset="1" stop-color="#b0c9ea"/>
   </linearGradient>
   <linearGradient x1="4" x2="20" id="linearGradient3313" xlink:href="#linearGradient4023" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,1,-1,0,-1.0312,-0.9688)"/>
-  <linearGradient x1="6.04065" y1="1.882114" x2="41" y2="1.926829" id="linearGradient3321" xlink:href="#linearGradient3095" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.51500301,0,0,0.5,-1.0517264,-22.9688)"/>
+  <linearGradient x1="6.04" y1="1.882" x2="41" y2="1.927" id="linearGradient3321" xlink:href="#linearGradient3095" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.51500301,0,0,0.5,-1.0517264,-22.9688)"/>
  </defs>
- <rect width="18" height="21" rx="0.604381" x="3.0312" y="-21.9688" transform="matrix(0,1,-1,0,0,0)" id="rect839" opacity="0.1"/>
- <rect width="18" height="21" rx="0.604381" x="2.0312" y="-21.9688" transform="matrix(0,1,-1,0,0,0)" id="rect4007-5" fill="url(#linearGradient3321)"/>
+ <rect width="18" height="21" rx="0.604" x="3.03" y="-21.969" transform="matrix(0,1,-1,0,0,0)" id="rect839" opacity="0.1"/>
+ <rect width="18" height="21" rx="0.604" x="2.031" y="-21.969" transform="matrix(0,1,-1,0,0,0)" id="rect4007-5" fill="url(#linearGradient3321)"/>
  <path d="M 21.5,2.625 C 21.5,2.534502 21.4655,2.5 21.375,2.5 l -19.8125,0 c -0.090498,0 -0.125,0.034502 -0.125,0.125 l 0,16.8125 c 0,0.0905 0.034502,0.125 0.125,0.125 l 19.8125,0 c 0.0905,0 0.125,-0.0345 0.125,-0.125 l 0,-16.8125 z" id="path39" fill="none" stroke="#000000"/>
  <path d="m 20.4688,3.5312 -18,0 0,15 18,0 0,-15 z" id="path29" opacity="0.3" fill="none" stroke="url(#linearGradient3313)"/>
  <rect width="17" height="4" x="3" y="13" id="rect4097" opacity="0.3" color="#000000"/>

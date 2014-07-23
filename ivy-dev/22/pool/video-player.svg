@@ -10,20 +10,20 @@
    <stop id="stop1042" offset="1" stop-color="#bfbfbf"/>
   </linearGradient>
   <linearGradient y1="42" x2="0" y2="30" id="linearGradient1044" xlink:href="#linearGradient1038" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.44999998,0,0,0.49100641,0.20000006,-0.7301919)"/>
-  <linearGradient x1="19.0625" y1="2.9375" x2="19" y2="19" id="linearGradient844" xlink:href="#linearGradient838" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="19.06" y1="2.938" x2="19" y2="19" id="linearGradient844" xlink:href="#linearGradient838" gradientUnits="userSpaceOnUse"/>
  </defs>
  <rect width="18" height="18" x="2" y="3" id="rect36" opacity="0.15"/>
- <rect width="18" height="18.00039" x="2" y="1.999615" id="rect2852" fill="#171717"/>
+ <rect width="18" height="18" x="2" y="2" id="rect2852" fill="#171717"/>
  <path d="m 3.4375,3.4375 0,15.125 15.125,0 0,-15.125 -15.125,0 z" id="path36" opacity="0.2" fill="none" stroke="url(#linearGradient844)"/>
  <rect width="18" height="6" x="2" y="14" id="rect856" fill="url(#linearGradient1044)"/>
  <rect width="16" height="1" x="3" y="13" id="rect858"/>
  <g transform="matrix(0.28511265,0,0,0.21023357,3.8406979,2.6888326)" id="g2851" fill="#ffffff">
   <path d="M 28.678,23.3898 12.0273,32.5963 12.3796,13.5731 28.678,23.3898 z" inkscape:connector-curvature="0" transform="matrix(0.99984261,-0.01774122,0.01774122,0.99984261,5.4919568,2.3986116)" id="path2847"/>
  </g>
- <rect width="14" height="2.129463" x="4" y="15.870537" id="rect1022" fill="#6a6a6a"/>
+ <rect width="14" height="2.129" x="4" y="15.871" id="rect1022" fill="#6a6a6a"/>
  <rect width="16" height="1" x="3" y="14" id="rect1046" opacity="0.57" fill="#ffffff"/>
- <rect width="13.999999" height="1" x="4" y="18" id="rect1048" opacity="0.768" fill="#ffffff"/>
- <rect width="6" height="2.129463" x="4" y="15.870537" id="rect1050" fill="#d02604"/>
- <rect width="14" height="1.129463" x="4" y="15.870537" id="rect1052" opacity="0.5"/>
+ <rect width="14" height="1" x="4" y="18" id="rect1048" opacity="0.768" fill="#ffffff"/>
+ <rect width="6" height="2.129" x="4" y="15.871" id="rect1050" fill="#d02604"/>
+ <rect width="14" height="1.129" x="4" y="15.871" id="rect1052" opacity="0.5"/>
  <path d="m 2.5,2.5 0,17 17,0 0,-17 -17,0 z" id="path34" opacity="0.5" fill="none" stroke="#000000"/>
 </svg>

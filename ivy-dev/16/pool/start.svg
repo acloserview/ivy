@@ -9,13 +9,13 @@
    <stop id="stop848" stop-color="#ffffff"/>
    <stop id="stop850" offset="1" stop-color="#ffffff" stop-opacity="0"/>
   </linearGradient>
-  <radialGradient cx="60.05332" cy="51.39256" r="15.03245" id="radialGradient3625" xlink:href="#linearGradient3588" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.404511,1.1888571,-1,-1.1813958,199.73811,11.750541)"/>
+  <radialGradient cx="60.05" cy="51.39" r="15.03" id="radialGradient3625" xlink:href="#linearGradient3588" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.404511,1.1888571,-1,-1.1813958,199.73811,11.750541)"/>
   <linearGradient id="linearGradient3588">
    <stop id="stop3590" stop-color="#eeeeee"/>
    <stop id="stop3592" offset="1" stop-color="#dcdcdc"/>
   </linearGradient>
-  <linearGradient y1="0.520941" x2="0" y2="14" id="linearGradient852" xlink:href="#linearGradient846" gradientUnits="userSpaceOnUse"/>
-  <linearGradient x1="15.932203" y1="0.154828" x2="16.05676" y2="16.15483" id="linearGradient830" xlink:href="#linearGradient824" gradientUnits="userSpaceOnUse"/>
+  <linearGradient y1="0.521" x2="0" y2="14" id="linearGradient852" xlink:href="#linearGradient846" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="15.932" y1="0.155" x2="16.06" y2="16.15" id="linearGradient830" xlink:href="#linearGradient824" gradientUnits="userSpaceOnUse"/>
  </defs>
  <path d="M 4.0333,0 0.0385,4.0333 4.0052,8 0,11.9667 3.9948,16 7.9615,12.1102 11.9667,16.0384 16.1924,11.9666 11.9564,8.0768 16.0385,4.0716 11.9283,0.0383 8.0385,4.0435 z" inkscape:connector-curvature="0" id="rect2849" fill="url(#linearGradient830)"/>
  <path d="M 4.0312,0.8125 0.8437,4.0313 4.4062,7.5938 a 0.568233,0.568233 0 0 1 0,0.8125 l -3.5938,3.5625 3.1875,3.2188 3.5625,-3.4688 a 0.568233,0.568233 0 0 1 0.8125,0 l 3.5938,3.5312 3.4062,-3.2812 -3.7812,-3.5 A 0.568233,0.568233 0 0 1 11.56245,7.6563 l 3.6562,-3.5938 -3.2812,-3.2188 -3.5,3.5938 a 0.568233,0.568233 0 0 1 -0.8125,0 l -3.5938,-3.625 z" inkscape:connector-curvature="0" id="path842" opacity="0.61" fill="none" stroke="#000000"/>

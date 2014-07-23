@@ -13,18 +13,15 @@
    <stop id="stop3987" stop-color="#eeeeec"/>
    <stop id="stop3989" offset="1" stop-color="#555753"/>
   </linearGradient>
-  <linearGradient y1="-6.974768" x2="0" y2="47.556023" id="linearGradient3074" xlink:href="#linearGradient4007" gradientUnits="userSpaceOnUse"/>
-  <linearGradient x1="3.152961" y1="3.992717" x2="2.280967" y2="22.971022" id="linearGradient3083" xlink:href="#linearGradient3985" gradientUnits="userSpaceOnUse"/>
-  <linearGradient x1="45.932304" y1="9.868355" x2="46.0001" y2="43.631065" id="linearGradient852" xlink:href="#linearGradient854" gradientUnits="userSpaceOnUse"/>
+  <linearGradient y1="-6.975" x2="0" y2="47.556" id="linearGradient3074" xlink:href="#linearGradient4007" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="3.153" y1="3.993" x2="2.281" y2="22.971" id="linearGradient3083" xlink:href="#linearGradient3985" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="45.932" y1="9.868" x2="46" y2="43.631" id="linearGradient852" xlink:href="#linearGradient854" gradientUnits="userSpaceOnUse"/>
   <linearGradient y1="28" x2="0" y2="34" id="linearGradient3860" xlink:href="#linearGradient4663" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.0000002,0,0,0.66666667,-6.0000037,0.33333311)"/>
-  <linearGradient y1="28" x2="0" y2="34" id="linearGradient3857" xlink:href="#linearGradient4663" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.9999998,0,0,0.66666667,-5.9999967,0.33333311)"/>
-  <linearGradient y1="28" x2="0" y2="34" id="linearGradient3854" xlink:href="#linearGradient4663" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.9999998,0,0,0.66666667,-5.999996,0.33333313)"/>
   <linearGradient y1="28" x2="0" y2="34" id="linearGradient3851" xlink:href="#linearGradient4663" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.9999998,0,0,0.66666667,-3.9999952,0.3333331)"/>
   <linearGradient y1="28" x2="0" y2="34" id="linearGradient3848" xlink:href="#linearGradient4663" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.0000002,0,0,0.66666667,-12.000007,0.33333311)"/>
-  <linearGradient y1="28" x2="0" y2="34" id="linearGradient3845" xlink:href="#linearGradient4663" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.99999974,0,0,0.66666667,-11.999993,0.33333311)"/>
   <linearGradient y1="6" x2="0" y2="26" id="linearGradient3840" xlink:href="#linearGradient4007" gradientUnits="userSpaceOnUse"/>
-  <linearGradient x1="28" y1="3" x2="28.0625" y2="29.03125" id="linearGradient3826" xlink:href="#linearGradient4007" gradientUnits="userSpaceOnUse"/>
-  <radialGradient cx="26.649935" cy="48.40277" r="29.603579" id="radialGradient3689" xlink:href="#linearGradient3683" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.5855148,0,0,0.02335777,-0.57059695,28.869419)"/>
+  <linearGradient x1="28" y1="3" x2="28.06" y2="29.03" id="linearGradient3826" xlink:href="#linearGradient4007" gradientUnits="userSpaceOnUse"/>
+  <radialGradient cx="26.65" cy="48.4" r="29.604" id="radialGradient3689" xlink:href="#linearGradient3683" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.5855148,0,0,0.02335777,-0.57059695,28.869419)"/>
   <linearGradient y1="41" x2="0" y2="7" id="linearGradient3636" xlink:href="#linearGradient3869" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.64607841,0,0,0.64705885,-0.489214,0.47058872)"/>
   <linearGradient id="linearGradient3683">
    <stop id="stop3685" stop-opacity="0.2"/>
@@ -49,15 +46,15 @@
  <path d="m 26,11.4999 c -0.0077,0.01923 -0.02203,0.0082 -0.03125,0.03125 v 0.03125 l -0.7812,1.9688 c 1.09e-4,0.01042 1.09e-4,0.02083 0,0.03125 l -0.8125,2 c -0.03479,0.08698 -0.0639,0.257655 -0.1875,0.5 -0.145707,0.285681 -0.352303,0.605342 -0.71875,0.90625 -0.366447,0.300908 -0.948224,0.644555 -1.46875,0.53125 h -9.1875 -4.8125 -4.5 v 24.9064 h 41 V 11.49995 H 39.5938 31.00005 z" id="path4005" opacity="0.5" fill="none" stroke="url(#linearGradient3074)" stroke-linejoin="round" color="#000000"/>
  <g transform="translate(18.033,17.008755)" id="g3531">
   <path d="M 32.366667,30 A 17.333334,0.69147355 0 0 1 -2.2999991,30 17.333334,0.69147355 0 1 1 32.366667,30 z" id="path3681" fill="url(#radialGradient3689)"/>
-  <rect width="28" height="28" rx="1.333333" x="1.033334" y="2" id="rect2818" fill="#f1f1f1"/>
-  <rect width="21.966665" height="22" rx="2.584314" ry="2.588235" x="4.03333" y="5" id="rect3614" fill="url(#linearGradient3636)"/>
+  <rect width="28" height="28" rx="1.333" x="1.033" y="2" id="rect2818" fill="#f1f1f1"/>
+  <rect width="21.967" height="22" rx="2.584" ry="2.588" x="4.03" y="5" id="rect3614" fill="url(#linearGradient3636)"/>
   <path d="m 13.6,9 0,1 -2.8,0 0,3 -2.8,0 0,10 13.999998,0 0,-10 -2.8,0 0,-3 -2.799998,0 0,-1 z" id="rect4610" fill="#171717" fill-rule="evenodd" color="#000000"/>
   <rect width="1" height="4" x="10" y="19" id="rect4629" fill="url(#linearGradient3860)" fill-rule="evenodd" color="#000000"/>
-  <rect width="1" height="4" x="12" y="19" id="rect4631" fill="url(#linearGradient3857)" fill-rule="evenodd" color="#000000"/>
-  <rect width="1" height="4" x="14" y="19" id="rect4633" fill="url(#linearGradient3854)" fill-rule="evenodd" color="#000000"/>
+  <rect width="1" height="4" x="12" y="19" id="rect4631" fill="url(#linearGradient3860)" fill-rule="evenodd" color="#000000"/>
+  <rect width="1" height="4" x="14" y="19" id="rect4633" fill="url(#linearGradient3860)" fill-rule="evenodd" color="#000000"/>
   <rect width="1" height="4" x="20" y="19" id="rect4637" fill="url(#linearGradient3851)" fill-rule="evenodd" color="#000000"/>
   <rect width="1" height="4" x="16" y="19" id="rect4641" fill="url(#linearGradient3848)" fill-rule="evenodd" color="#000000"/>
-  <rect width="1" height="4" x="18" y="19" id="rect4643" fill="url(#linearGradient3845)" fill-rule="evenodd" color="#000000"/>
+  <rect width="1" height="4" x="18" y="19" id="rect4643" fill="url(#linearGradient3848)" fill-rule="evenodd" color="#000000"/>
   <path d="M 2.375,2.5 C 1.9136581,2.5 1.53125,2.8824081 1.53125,3.34375 l 0,25.3125 C 1.53125,29.117592 1.913658,29.5 2.375,29.5 l 25.3125,0 c 0.461342,0 0.84375,-0.382408 0.84375,-0.84375 l 0,-25.3125 C 28.53125,2.882408 28.148842,2.5 27.6875,2.5 L 2.375,2.5 z" id="path3048" opacity="0.4" fill="none" stroke="#000000"/>
   <path d="m 2.5,3.46875 0,25.0625 25.0625,0 0,-25.0625 -25.0625,0 z" id="path3050" opacity="0.7" fill="none" stroke="url(#linearGradient3826)"/>
   <path d="m 6.625,5.46875 c -1.1848684,0 -2.125,0.9380467 -2.125,2.125 l 0,16.8125 c 0,1.186953 0.9401317,2.125 2.125,2.125 l 16.78125,0 c 1.184869,0 2.125,-0.938047 2.125,-2.125 l 0,-16.8125 c 0,-1.1869533 -0.940131,-2.125 -2.125,-2.125 l -16.78125,0 z" id="path3830" opacity="0.4" fill="none" stroke="#000000"/>

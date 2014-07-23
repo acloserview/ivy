@@ -9,20 +9,18 @@
    <stop id="stop20932" stop-color="#ffffff"/>
    <stop id="stop20934" offset="1" stop-color="#ffffff" stop-opacity="0"/>
   </linearGradient>
-  <radialGradient cx="60.05332" cy="51.39256" r="15.03245" id="radialGradient3625" xlink:href="#linearGradient3588" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.404511,1.1888571,-1,-1.1813958,199.73811,11.750541)"/>
+  <radialGradient cx="60.05" cy="51.39" r="15.03" id="radialGradient3625" xlink:href="#linearGradient3588" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.404511,1.1888571,-1,-1.1813958,199.73811,11.750541)"/>
   <linearGradient id="linearGradient3588">
    <stop id="stop3590" stop-color="#eeeeee"/>
    <stop id="stop3592" offset="1" stop-color="#dcdcdc"/>
   </linearGradient>
-  <radialGradient cx="60.05332" cy="51.39256" r="15.03245" id="radialGradient3625-5" xlink:href="#linearGradient3588" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.404511,1.1888571,-1,-1.1813958,199.73811,11.750541)"/>
-  <radialGradient cx="60.05332" cy="51.39256" r="15.03245" id="radialGradient3625-56" xlink:href="#linearGradient3588" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.404511,1.1888571,-1,-1.1813958,199.73811,11.750541)"/>
-  <linearGradient x1="54.08211" y1="23.375" x2="27.46875" y2="49.988358" id="linearGradient2879" xlink:href="#linearGradient20930" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.71267067,-0.71113646,0.71267067,0.71113646,-12.231251,26.931094)"/>
-  <linearGradient x1="44" y1="4" x2="43.992046" y2="43.944386" id="linearGradient844" xlink:href="#linearGradient838" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="54.08" y1="23.375" x2="27.469" y2="49.988" id="linearGradient2879" xlink:href="#linearGradient20930" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.71267067,-0.71113646,0.71267067,0.71113646,-12.231251,26.931094)"/>
+  <linearGradient x1="44" y1="4" x2="43.992" y2="43.944" id="linearGradient844" xlink:href="#linearGradient838" gradientUnits="userSpaceOnUse"/>
  </defs>
  <path d="m 16.2442,5.1492 -12.1889,12.037 0,15.9026 L 16.0867,45 32.2756,45 43.9921,33.843 V 17.3118 L 32.0552,5.1491 l -15.8109,0 z" inkscape:connector-curvature="0" id="path842" opacity="0.2" fill-rule="evenodd"/>
  <path d="m 16.2442,4.0936 -12.1889,12.037 0,15.9026 12.0314,11.9112 16.1889,0 11.7165,-11.157 V 16.2562 L 32.0552,4.0935 l -15.8109,0 z" inkscape:connector-curvature="0" id="path2420" fill="url(#linearGradient844)" fill-rule="evenodd"/>
- <path d="m 4.5611,16.3529 -0.0223,15.445 11.7813,11.6671 15.7233,0 11.4473,-10.8893 0,-16.0895 -11.67,-11.9115 -15.367,0 L 4.561,16.3529 z" inkscape:connector-curvature="0" id="path14670" opacity="0.66" fill="none" stroke="#000000" stroke-width="1.007"/>
+ <path d="m 4.5611,16.3529 -0.0223,15.445 11.7813,11.6671 15.7233,0 11.4473,-10.8893 0,-16.0895 -11.67,-11.9115 -15.367,0 L 4.561,16.3529 z" inkscape:connector-curvature="0" id="path14670" opacity="0.66" fill="none" stroke="#000000" stroke-width="1.01"/>
  <path d="M 17.9688,12.0625 13,17.0313 l 6.0938,6.0625 -5.9688,5.9688 4.9375,4.9375 5.9688,-5.9688 5.9375,5.9688 4.9688,-4.9688 -5.9688,-5.9375 6.0625,-6.0625 -4.9375,-4.9375 -6.0625,6.0625 -6.0625,-6.0938 z" inkscape:connector-curvature="0" id="path3201" opacity="0.5"/>
  <path d="M 17.9688,13.0625 13,18.0313 l 6.0938,6.0625 -5.9688,5.9688 4.9375,4.9375 5.9688,-5.9688 5.9375,5.9688 4.9688,-4.9688 -5.9688,-5.9375 6.0625,-6.0625 -4.9375,-4.9375 -6.0625,6.0625 -6.0625,-6.0938 z" inkscape:connector-curvature="0" id="rect3194" fill="#ffffff"/>
- <path d="m 5.5855,16.753 -0.0223,14.645 11.1577,11.0448 14.9215,0 10.8237,-10.267 0,-15.2894 -11.0464,-11.2893 -14.5652,0 -11.2691,11.156 z" inkscape:connector-curvature="0" id="path20156" opacity="0.49" fill="none" stroke="url(#linearGradient2879)" stroke-width="1.007"/>
+ <path d="m 5.5855,16.753 -0.0223,14.645 11.1577,11.0448 14.9215,0 10.8237,-10.267 0,-15.2894 -11.0464,-11.2893 -14.5652,0 -11.2691,11.156 z" inkscape:connector-curvature="0" id="path20156" opacity="0.49" fill="none" stroke="url(#linearGradient2879)" stroke-width="1.01"/>
 </svg>

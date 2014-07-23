@@ -9,13 +9,13 @@
    <stop id="stop848" stop-color="#ffffff"/>
    <stop id="stop850" offset="1" stop-color="#ffffff" stop-opacity="0"/>
   </linearGradient>
-  <radialGradient cx="60.05332" cy="51.39256" r="15.03245" id="radialGradient3625" xlink:href="#linearGradient3588" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.404511,1.1888571,-1,-1.1813958,199.73811,11.750541)"/>
+  <radialGradient cx="60.05" cy="51.39" r="15.03" id="radialGradient3625" xlink:href="#linearGradient3588" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.404511,1.1888571,-1,-1.1813958,199.73811,11.750541)"/>
   <linearGradient id="linearGradient3588">
    <stop id="stop3590" stop-color="#eeeeee"/>
    <stop id="stop3592" offset="1" stop-color="#dcdcdc"/>
   </linearGradient>
-  <linearGradient x1="11.786591" y1="2.205964" x2="11.863628" y2="12.799543" id="linearGradient852" xlink:href="#linearGradient846" gradientUnits="userSpaceOnUse" gradientTransform="translate(0.10607922,0.10084862)"/>
-  <linearGradient x1="4.111624" y1="1.160621" x2="4.227181" y2="15.1253" id="linearGradient899" xlink:href="#linearGradient893" gradientUnits="userSpaceOnUse" gradientTransform="translate(0.10607922,0.10084862)"/>
+  <linearGradient x1="11.787" y1="2.206" x2="11.864" y2="12.8" id="linearGradient852" xlink:href="#linearGradient846" gradientUnits="userSpaceOnUse" gradientTransform="translate(0.10607922,0.10084862)"/>
+  <linearGradient x1="4.112" y1="1.161" x2="4.227" y2="15.13" id="linearGradient899" xlink:href="#linearGradient893" gradientUnits="userSpaceOnUse" gradientTransform="translate(0.10607922,0.10084862)"/>
  </defs>
  <path d="m 0.1061,8.1008 3.961,0.0104 0,6.9856 L 8,12.1282 12.071,15.0968 V 8.11124 h 4.03508 l -7.9997,-7.0613 z" inkscape:connector-curvature="0" id="rect2849" fill="url(#linearGradient899)"/>
  <path d="m 8.1061,1.6633 -6.7812,5.9688 2.75,0 c 0.244046,0.00496 0.463789,0.224704 0.46875,0.46875 l -0.0385,5.992 3.4564,-2.7335 3.5996,2.6949 0.0385,-5.9535 C 11.60465,7.856704 11.824354,7.636961 12.0684,7.632 l 2.819,0 z" inkscape:connector-curvature="0" id="path842" opacity="0.4" fill="none" stroke="#000000"/>

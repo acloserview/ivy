@@ -9,8 +9,8 @@
    <stop id="stop845" stop-color="#c7c7c7"/>
    <stop id="stop847" offset="1" stop-color="#ebebeb"/>
   </linearGradient>
-  <radialGradient cx="16.97736" cy="50.869873" r="19" id="radialGradient849" xlink:href="#linearGradient843" gradientUnits="userSpaceOnUse" gradientTransform="matrix(2.3407203,-1.9298245,1.4894355,1.715108,-102.24349,-19.484003)"/>
-  <linearGradient x1="28" y1="6" x2="27.96875" y2="23.96875" id="linearGradient4031" xlink:href="#linearGradient4025" gradientUnits="userSpaceOnUse"/>
+  <radialGradient cx="16.977" cy="50.87" r="19" id="radialGradient849" xlink:href="#linearGradient843" gradientUnits="userSpaceOnUse" gradientTransform="matrix(2.3407203,-1.9298245,1.4894355,1.715108,-102.24349,-19.484003)"/>
+  <linearGradient x1="28" y1="6" x2="27.969" y2="23.969" id="linearGradient4031" xlink:href="#linearGradient4025" gradientUnits="userSpaceOnUse"/>
  </defs>
  <path d="m 1,4 0,7 2,-2 0,13.9375 -1.96875,-1.96875 0,7 7,0 L 6.0625,26 26,26 l -2,2 7,0 0,-7 -2,2 0,-13.9375 1.96875,1.96875 0,-7 -7,0 L 25.9375,6 6,6 8,4 1,4 z" inkscape:connector-curvature="0" id="path3028" opacity="0.15"/>
  <rect width="26" height="20" x="3" y="5" id="rect3022" fill="url(#radialGradient849)"/>

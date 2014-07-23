@@ -10,7 +10,7 @@
    <stop id="stop853" offset="1" stop-color="#ffffff" stop-opacity="0"/>
   </linearGradient>
   <linearGradient y1="4" x2="0" y2="47" id="linearGradient855" xlink:href="#linearGradient849" gradientUnits="userSpaceOnUse"/>
-  <linearGradient y1="2.865708" x2="0" y2="48.0713" id="linearGradient885" xlink:href="#linearGradient879" gradientUnits="userSpaceOnUse"/>
+  <linearGradient y1="2.866" x2="0" y2="48.07" id="linearGradient885" xlink:href="#linearGradient879" gradientUnits="userSpaceOnUse"/>
  </defs>
  <g id="g865">
   <g id="g872" fill="url(#linearGradient885)">

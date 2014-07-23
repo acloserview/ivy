@@ -10,10 +10,10 @@
    <stop id="stop923" offset="1" stop-color="#f4f4f4"/>
   </linearGradient>
   <linearGradient y1="3" x2="0" y2="44" id="linearGradient4015" xlink:href="#linearGradient919" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,0,-3.665625e-7)"/>
-  <linearGradient x1="40" y1="3" x2="39.90625" y2="42.96875" id="linearGradient4029" xlink:href="#linearGradient4023" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="40" y1="3" x2="39.906" y2="42.969" id="linearGradient4029" xlink:href="#linearGradient4023" gradientUnits="userSpaceOnUse"/>
  </defs>
- <rect width="34.951252" height="42" rx="1.208762" x="10.05575" y="-45.08777" transform="matrix(0,1,-1,0,0,0)" id="rect4036" opacity="0.1"/>
- <rect width="34.951252" height="42" rx="1.208762" x="9.05575" y="-45.074" transform="matrix(0,1,-1,0,0,0)" id="rect4007" fill="url(#linearGradient4015)"/>
+ <rect width="34.951" height="42" rx="1.209" x="10.06" y="-45.09" transform="matrix(0,1,-1,0,0,0)" id="rect4036" opacity="0.1"/>
+ <rect width="34.951" height="42" rx="1.209" x="9.06" y="-45.07" transform="matrix(0,1,-1,0,0,0)" id="rect4007" fill="url(#linearGradient4015)"/>
  <path d="m 44.5809,10.2501 c 0,-0.403779 -0.299839,-0.687499 -0.71875,-0.687499 H 4.29965 c -0.418911,0 -0.71875,0.283721 -0.71875,0.687499 v 32.5312 c 0,0.40378 0.31497,0.71875 0.71875,0.71875 h 39.5625 c 0.403779,0 0.71875,-0.31497 0.71875,-0.71875 V 10.2501 z" inkscape:connector-curvature="0" id="path4019" opacity="0.4" fill="none" stroke="#000000"/>
  <path d="m 43.5496,10.5939 -38.9375,0 0,31.875 38.9375,0 0,-31.875 z" inkscape:connector-curvature="0" id="path4021" opacity="0.78" fill="none" stroke="url(#linearGradient4029)"/>
  <path d="m 3.0625,33 0,9.8125 c 0,0.06654 0.021006,0.123942 0.03125,0.1875 h 41.9375 c 0.01024,-0.06356 0.03125,-0.120964 0.03125,-0.1875 V 33 h -42 z" inkscape:connector-curvature="0" id="rect3015" opacity="0.2" fill="#171717"/>
@@ -21,6 +21,6 @@
  <rect width="42" height="1" x="3" y="34" id="rect3022" opacity="0.36" fill="#ffffff"/>
  <rect width="2" height="18" x="40" y="12" id="rect3024" opacity="0.2" fill="#171717"/>
  <rect width="31" height="2" x="7" y="29" id="rect3026" opacity="0.2" fill="#171717"/>
- <rect width="1" height="10" rx="0.024669" ry="1.208762" x="23" y="33" id="rect3011" opacity="0.2" fill="#171717"/>
- <rect width="1" height="8" rx="0.024669" ry="0.967009" x="24" y="35" id="rect3013" opacity="0.3" fill="#ffffff"/>
+ <rect width="1" height="10" rx="0.025" ry="1.209" x="23" y="33" id="rect3011" opacity="0.2" fill="#171717"/>
+ <rect width="1" height="8" rx="0.025" ry="0.967" x="24" y="35" id="rect3013" opacity="0.3" fill="#ffffff"/>
 </svg>

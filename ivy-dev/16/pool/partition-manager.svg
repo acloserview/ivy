@@ -14,9 +14,9 @@
    <stop id="stop831" offset="1" stop-color="#a3bfe6"/>
   </linearGradient>
   <linearGradient y1="3" x2="0" y2="43" id="linearGradient833" xlink:href="#linearGradient827" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.32525578,0,0,0.32525578,-0.30102314,-0.30109084)"/>
-  <linearGradient y1="25" x2="0" y2="44.96875" id="linearGradient3999" xlink:href="#linearGradient3993" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.34999998,0,0,0.34999998,-0.7499995,-0.7499992)"/>
-  <linearGradient y1="1.997969" x2="0" y2="12.6875" id="linearGradient3795" xlink:href="#linearGradient3799" gradientUnits="userSpaceOnUse"/>
-  <linearGradient x1="14" y1="8" x2="13.90625" y2="13.9375" id="linearGradient3805" xlink:href="#linearGradient3799" gradientUnits="userSpaceOnUse"/>
+  <linearGradient y1="25" x2="0" y2="44.969" id="linearGradient3999" xlink:href="#linearGradient3993" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.34999998,0,0,0.34999998,-0.7499995,-0.7499992)"/>
+  <linearGradient y1="1.998" x2="0" y2="12.688" id="linearGradient3795" xlink:href="#linearGradient3799" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="14" y1="8" x2="13.906" y2="13.938" id="linearGradient3805" xlink:href="#linearGradient3799" gradientUnits="userSpaceOnUse"/>
  </defs>
  <path d="M 7.0625,2 C 5.5491829,2.1117736 4.0582538,2.785658 2.96875,3.84375 1.7236029,5.0529971 0.99923497,6.7642952 1,8.5 1.00265,10.20134 1.7022788,11.89166 2.90625,13.09375 4.1102212,14.295841 5.2986575,15.000001 7,15 L 7,8 14,8 C 14.000737,6.3286782 13.351363,5.1682238 12.1875,3.96875 11.023636,2.7692773 9.3580852,2.0496167 7.6875,2 7.4706325,1.9935588 7.2786882,1.9840323 7.0625,2 z M 8,9 8,16 A 6.9999997,6.9999997 0 0 0 15,9 L 8,9 z" inkscape:connector-curvature="0" id="path3807" opacity="0.1"/>
  <path d="M 7.6982364,0.99993199 C 5.9632966,0.94840269 4.2182154,1.6263404 2.9730682,2.8355884 1.7279211,4.0448355 0.99923495,5.7693433 0.99999998,7.5050481 1.0026541,9.2063882 1.704923,10.8962 2.9088942,12.09829 4.1128654,13.300381 5.2986575,14.000001 7,14 L 7,7 14.010231,7 C 14.010968,5.3286782 13.337569,4.1716638 12.173706,2.97219 11.009842,1.7727173 9.3688216,1.0495487 7.6982364,0.99993199 z" inkscape:connector-curvature="0" id="path2875" fill="url(#linearGradient833)"/>

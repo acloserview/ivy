@@ -17,11 +17,11 @@
    <stop id="stop3776" stop-color="#ffd506"/>
    <stop id="stop3778" offset="1" stop-color="#ff8b36"/>
   </linearGradient>
-  <linearGradient x1="27.802561" y1="1.821431" x2="34.36003" y2="30.774134" id="linearGradient3782" xlink:href="#linearGradient3774" gradientUnits="userSpaceOnUse"/>
-  <linearGradient y1="1024.3622" x2="0" y2="1043.3622" id="linearGradient3790" xlink:href="#linearGradient3784" gradientUnits="userSpaceOnUse"/>
-  <radialGradient cx="23.403406" cy="1056.1428" r="19" id="radialGradient3802" xlink:href="#linearGradient3796" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.7405726,-0.60541638,0.42105263,1.2105266,-461.42705,-219.958)"/>
-  <linearGradient y1="1025.3622" x2="0" y2="1042.3622" id="linearGradient3815" xlink:href="#linearGradient3819" gradientUnits="userSpaceOnUse"/>
-  <linearGradient x1="26.17885" y1="2.095528" x2="29.605072" y2="22.391918" id="linearGradient3825" xlink:href="#linearGradient3819" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="27.803" y1="1.821" x2="34.36" y2="30.774" id="linearGradient3782" xlink:href="#linearGradient3774" gradientUnits="userSpaceOnUse"/>
+  <linearGradient y1="1024.36" x2="0" y2="1043.36" id="linearGradient3790" xlink:href="#linearGradient3784" gradientUnits="userSpaceOnUse"/>
+  <radialGradient cx="23.403" cy="1056.14" r="19" id="radialGradient3802" xlink:href="#linearGradient3796" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.7405726,-0.60541638,0.42105263,1.2105266,-461.42705,-219.958)"/>
+  <linearGradient y1="1025.36" x2="0" y2="1042.36" id="linearGradient3815" xlink:href="#linearGradient3819" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="26.18" y1="2.096" x2="29.605" y2="22.392" id="linearGradient3825" xlink:href="#linearGradient3819" gradientUnits="userSpaceOnUse"/>
  </defs>
  <g transform="translate(0,-1004.3622)" id="layer1">
   <path d="m 19.6562,1009.3622 -2.7188,1.0313 -2.7188,-1 -2.0625,2.0312 -2.875,0.1875 -1.0625,2.7188 -2.5625,1.3437 0.125,2.9063 -1.8125,2.2812 1.3125,2.5938 -0.7188,2.8125 2.25,1.8125 0.5,2.875 2.8125,0.75 0.9375,1.4375 c -0.0754,0.08 -0.182435,0.137 -0.25,0.2187 -3.21319,0 -5.8125,2.453 -5.8125,5.5 0,3.047 2.59931,5.5 5.8125,5.5 h 26.375 c 3.21319,0 5.8125,-2.453 5.8125,-5.5 0,-3.047 -2.59931,-5.5 -5.8125,-5.5 -1.1394,-1.3784 -3.4077,-2.5122 -6.34375,-3.2187 -0.34013,-1.2466 -1.20805,-2.3242 -2.40625,-3.1563 l 1,-0.8125 -0.7188,-2.8125 1.2812,-2.625 -1.8125,-2.25 0.125,-2.9062 -2.5938,-1.3125 -1.0625,-2.7188 -2.9062,-0.1562 -2.0938,-2.0313 z" inkscape:connector-curvature="0" id="path3827" opacity="0.1"/>

@@ -12,8 +12,8 @@
   <linearGradient y1="2" x2="0" y2="44" id="linearGradient4015" xlink:href="#linearGradient919" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.51500304,0,0,0.5,-0.0829268,-1.0000003)"/>
   <linearGradient y1="2" x2="0" y2="21" id="linearGradient3779" xlink:href="#linearGradient3773" gradientUnits="userSpaceOnUse" gradientTransform="translate(0,-1)"/>
  </defs>
- <rect width="18" height="21" rx="0.604381" x="3" y="1" id="rect3781" opacity="0.1"/>
- <rect width="18" height="21" rx="0.604381" x="3" id="rect4007" fill="url(#linearGradient4015)"/>
+ <rect width="18" height="21" rx="0.604" x="3" y="1" id="rect3781" opacity="0.1"/>
+ <rect width="18" height="21" rx="0.604" x="3" id="rect4007" fill="url(#linearGradient4015)"/>
  <path d="m 3.5938,0.5312 c -0.058216,0 -0.0625,0.00428 -0.0625,0.0625 l 0,19.8125 c 0,0.05822 0.00428,0.0625 0.0625,0.0625 l 16.8125,0 c 0.05822,0 0.0625,-0.0043 0.0625,-0.0625 l 0,-19.8125 c 0,-0.058217 -0.0043,-0.0625 -0.0625,-0.0625 l -16.8125,0 z" inkscape:connector-curvature="0" id="path3001" opacity="0.4" fill="none" stroke="#000000"/>
  <path d="m 4.5312,1.5312 0,17.9375 14.9375,0 0,-17.9375 -14.9375,0 z" inkscape:connector-curvature="0" id="path3003" opacity="0.8" fill="none" stroke="url(#linearGradient3779)"/>
  <path d="m 11.9233,7.0016 c -2.65795,0.074349 -3.15801,2.10795 -3.01609,3.63778 0.16941,0.130489 0.181756,0.147865 0.359515,0.20118 -0.12516,1.29473 0.350396,2.44531 1.21215,3.35745 -0.04933,0.301102 -0.160367,0.558129 -0.324514,0.870694 l -2.7743,0.6167 c -1.34486,0.322508 -1.44662,2.30761 -1.35533,3.31457 11.9807,-0.03525 -0.023149,0.02075 11.9753,-0.02638 -0.04106,-1.10084 -0.191099,-3.0576 -1.55895,-3.36074 l -2.6279,-0.5178 c -1.96e-4,-0.0087 5.41e-4,-0.01761 0,-0.02638 l -0.1623,-0.9268 c 0.807342,-0.49754 1.16959,-2.57317 1.19944,-2.77039 0.150628,-0.210541 0.115299,-0.570974 0.155898,-0.854199 0.211232,-1.47369 -0.589273,-3.47234 -2.81566,-3.51575 -0.09028,-0.00177 -0.181502,-0.00245 -0.267245,0 z" inkscape:connector-curvature="0" id="path3216" fill="#ffffff" fill-rule="evenodd"/>

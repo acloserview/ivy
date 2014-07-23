@@ -13,21 +13,21 @@
    <stop id="stop3987" stop-color="#eeeeec"/>
    <stop id="stop3989" offset="1" stop-color="#555753"/>
   </linearGradient>
-  <linearGradient x1="4.070066" y1="3.906249" x2="0.070066" y2="25.90625" id="linearGradient3083" xlink:href="#linearGradient3985" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.45455666,0,0,0.45455666,0.17824315,0.25845519)"/>
+  <linearGradient x1="4.07" y1="3.906" x2="0.07" y2="25.906" id="linearGradient3083" xlink:href="#linearGradient3985" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.45455666,0,0,0.45455666,0.17824315,0.25845519)"/>
   <linearGradient y1="5" x2="0" y2="21" id="linearGradient874" xlink:href="#linearGradient897" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.90911332,0,0,0.90911332,0.21009204,0.21584009)"/>
-  <linearGradient x1="21.0625" y1="6.02482" x2="21" y2="20" id="linearGradient904" xlink:href="#linearGradient906" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1,0,0,0.85931676,0,2.8440994)"/>
-  <linearGradient x1="21" y1="7" x2="20.952915" y2="19.15625" id="linearGradient903" xlink:href="#linearGradient897" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="21.06" y1="6.02" x2="21" y2="20" id="linearGradient904" xlink:href="#linearGradient906" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1,0,0,0.85931676,0,2.8440994)"/>
+  <linearGradient x1="21" y1="7" x2="20.953" y2="19.16" id="linearGradient903" xlink:href="#linearGradient897" gradientUnits="userSpaceOnUse"/>
   <linearGradient id="linearGradient3588">
    <stop id="stop3590" stop-color="#eeeeee"/>
    <stop id="stop3592" offset="1" stop-color="#dcdcdc"/>
   </linearGradient>
-  <radialGradient cx="60.05332" cy="51.39256" r="15.03245" id="radialGradient3625" xlink:href="#linearGradient3588" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.404511,1.1888571,-1,-1.1813958,199.73811,11.750541)"/>
+  <radialGradient cx="60.05" cy="51.39" r="15.03" id="radialGradient3625" xlink:href="#linearGradient3588" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.404511,1.1888571,-1,-1.1813958,199.73811,11.750541)"/>
   <linearGradient id="linearGradient1061">
    <stop id="stop1063" stop-color="#ff8b36"/>
    <stop id="stop1065" offset="1" stop-color="#d25900"/>
   </linearGradient>
-  <linearGradient x1="38.13059" y1="8" x2="38.01776" y2="27.845163" id="linearGradient3302" xlink:href="#linearGradient1061" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.5324131,0,0,0.5,-1.2561587,-0.36684852)"/>
-  <linearGradient x1="16.427782" y1="1.5" x2="16.458714" y2="14.0625" id="linearGradient4088" xlink:href="#linearGradient897" gradientUnits="userSpaceOnUse" gradientTransform="translate(-0.99592475,0.10273648)"/>
+  <linearGradient x1="38.13" y1="8" x2="38.02" y2="27.845" id="linearGradient3302" xlink:href="#linearGradient1061" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.5324131,0,0,0.5,-1.2561587,-0.36684852)"/>
+  <linearGradient x1="16.428" y1="1.5" x2="16.459" y2="14.06" id="linearGradient4088" xlink:href="#linearGradient897" gradientUnits="userSpaceOnUse" gradientTransform="translate(-0.99592475,0.10273648)"/>
  </defs>
  <path d="m 3.0476166,2.8603705 c -0.2518245,0 -0.3610315,0.2207436 -0.4545566,0.4545569 l -0.5398315,1.3636698 -0.5113763,0 c -0.2518244,0 -0.4545567,0.2027322 -0.4545567,0.4545566 l 0,15.4122842 C 1.0872955,20.79726 1.2900278,21 1.5418522,21 l 19.0913798,0 c 0.251824,0 0.454557,-0.20274 0.454557,-0.454562 l 0,-15.4122842 c 0,-0.2518244 -0.202733,-0.4545566 -0.454557,-0.4545566 l -10.227525,0 L 9.8658756,3.3149274 C 9.7723507,3.0811141 9.6631432,2.8603705 9.411319,2.8603705 l -6.3637934,0 z" inkscape:connector-curvature="0" id="path876" opacity="0.1" fill-rule="evenodd" color="#000000"/>
  <path d="m 3.0476166,2.0767043 c -0.2518245,0 -0.3610315,0.2207437 -0.4545566,0.4545563 l -0.5398315,1.3636703 -0.5113763,0 c -0.2518244,0 -0.4545567,0.2027324 -0.4545567,0.4545565 l 0,15.4122926 c 0,0.251822 0.2027323,0.454555 0.4545567,0.454555 l 19.0913798,0 c 0.251824,0 0.454557,-0.202733 0.454557,-0.454555 l 0,-15.4122926 c 0,-0.2518241 -0.202733,-0.4545565 -0.454557,-0.4545565 l -10.227525,0 L 9.8658756,2.5312606 C 9.7723507,2.297448 9.6631432,2.0767043 9.411319,2.0767043 l -6.3637934,0 z" inkscape:connector-curvature="0" id="rect3065" fill="url(#linearGradient3083)" fill-rule="evenodd" color="#000000"/>

@@ -9,7 +9,7 @@
    <stop id="stop935" stop-color="#6a6a6a"/>
    <stop id="stop937" offset="1" stop-color="#5d5d5d"/>
   </linearGradient>
-  <linearGradient x1="9.96875" y1="6.03125" x2="10" y2="44" id="linearGradient939" xlink:href="#linearGradient933" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.31914894,0,0,0.31578947,0.80851066,0.10526382)"/>
+  <linearGradient x1="9.969" y1="6.03" x2="10" y2="44" id="linearGradient939" xlink:href="#linearGradient933" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.31914894,0,0,0.31578947,0.80851066,0.10526382)"/>
   <linearGradient y1="12" x2="0" y2="41" id="linearGradient3070" xlink:href="#linearGradient3851" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.31914894,0,0,0.31914894,0.31914853,0.170213)"/>
  </defs>
  <path d="M 3,3.9416015 3,12 6,12 6,13 7.0212762,13 12,13 l 0,-1 1,0 0,1 2,0 0,-1 0,-8 z" inkscape:connector-curvature="0" id="rect842" fill="url(#linearGradient3070)"/>
@@ -21,8 +21,8 @@
  <rect width="1" height="2" x="8" y="9" id="rect3857" opacity="0.8" fill="#171717" fill-rule="evenodd"/>
  <rect width="1" height="2" x="12" y="9" id="rect3861" opacity="0.8" fill="#171717" fill-rule="evenodd"/>
  <rect width="1" height="2" x="10" y="9" id="rect3865" opacity="0.8" fill="#171717" fill-rule="evenodd"/>
- <rect width="1.595745" height="0.957447" x="2" y="7.04255" id="rect3077" fill="#6a6a6a"/>
- <rect width="1.595745" height="1" x="2" y="5" id="rect3014" fill="#6a6a6a"/>
+ <rect width="1.596" height="0.957" x="2" y="7.04" id="rect3077" fill="#6a6a6a"/>
+ <rect width="1.596" height="1" x="2" y="5" id="rect3014" fill="#6a6a6a"/>
  <path d="M 2,2 2,3 3,3 3,14 4,14 4,3.2631581 4,2 z" inkscape:connector-curvature="0" id="rect838" fill="url(#linearGradient939)"/>
  <rect width="1" height="1" x="10" y="12" id="rect3033" opacity="0.2"/>
  <rect width="1" height="1" x="8" y="12" id="rect3035" opacity="0.2"/>

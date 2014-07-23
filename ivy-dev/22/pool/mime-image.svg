@@ -9,11 +9,11 @@
    <stop id="stop921" stop-color="#5288d1"/>
    <stop id="stop923" offset="1" stop-color="#b0c9ea"/>
   </linearGradient>
-  <linearGradient x1="6.04065" y1="1.882114" x2="41" y2="1.926829" id="linearGradient4015" xlink:href="#linearGradient919" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.51500301,0,0,0.5,-1.0829264,-23.0003)"/>
+  <linearGradient x1="6.04" y1="1.882" x2="41" y2="1.927" id="linearGradient4015" xlink:href="#linearGradient919" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.51500301,0,0,0.5,-1.0829264,-23.0003)"/>
   <linearGradient x1="4" x2="20" id="linearGradient837" xlink:href="#linearGradient831" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,1,-1,0,-0.9997,-1)"/>
  </defs>
- <rect width="18" height="21" rx="0.604381" x="3" y="-22.0003" transform="matrix(0,1,-1,0,0,0)" id="rect839" opacity="0.1"/>
- <rect width="18" height="21" rx="0.604381" x="2" y="-22.0003" transform="matrix(0,1,-1,0,0,0)" id="rect4007" fill="url(#linearGradient4015)"/>
+ <rect width="18" height="21" rx="0.604" x="3" y="-22" transform="matrix(0,1,-1,0,0,0)" id="rect839" opacity="0.1"/>
+ <rect width="18" height="21" rx="0.604" x="2" y="-22" transform="matrix(0,1,-1,0,0,0)" id="rect4007" fill="url(#linearGradient4015)"/>
  <path d="m 7.9534,12.0031 c -2.02594,0.04686 -4.28838,0.629111 -6.95312,2.16132 l 0,5.18717 c 0,0.356267 0.274548,0.648396 0.609375,0.648396 l 19.7813,0 c 0.334827,0 0.609375,-0.292129 0.609375,-0.648396 l 0,-4.15639 c -5.0593,0.225871 -8.74588,-3.31471 -14.0469,-3.1921 z" inkscape:connector-curvature="0" id="path835" opacity="0.4" fill="#ffffff"/>
  <path d="m 19.0003,7.5229 a 2.5,2.47642 0 0 1 -5,0 2.5,2.47642 0 1 1 5,0 z" inkscape:connector-curvature="0" id="path837" opacity="0.5" fill="#ffffff"/>
  <path d="m 7.9378,11 c -2.025943,0.04686 -4.2727593,0.62404 -6.9375,2.15625 l 0,1 C 3.6650407,12.62404 5.911857,12.04686 7.9378,12 c 5.301,-0.122604 9.003198,3.413371 14.0625,3.1875 l 0,-1 C 16.940999,14.413371 13.2388,10.877396 7.9378,11 z" inkscape:connector-curvature="0" id="path28" opacity="0.2"/>

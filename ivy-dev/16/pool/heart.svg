@@ -9,8 +9,8 @@
    <stop id="stop3767" stop-color="#ed4c70"/>
    <stop id="stop3769" offset="1" stop-color="#f2829c"/>
   </linearGradient>
-  <linearGradient x1="45.933922" y1="3.97297" x2="46.20167" y2="44.24416" id="linearGradient3771" xlink:href="#linearGradient3765" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.31820712,0,0,0.34171894,0.36305799,-0.37735266)"/>
-  <linearGradient y1="2.031242" x2="0" y2="13.09375" id="linearGradient3778" xlink:href="#linearGradient3772" gradientUnits="userSpaceOnUse"/>
+  <linearGradient x1="45.934" y1="3.973" x2="46.2" y2="44.24" id="linearGradient3771" xlink:href="#linearGradient3765" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.31820712,0,0,0.34171894,0.36305799,-0.37735266)"/>
+  <linearGradient y1="2.031" x2="0" y2="13.09" id="linearGradient3778" xlink:href="#linearGradient3772" gradientUnits="userSpaceOnUse"/>
  </defs>
  <path d="M 4.189039,2.0190822 C 1.8705491,2.0249614 -0.00613092,3.8063949 1.5052682e-5,5.9956307 0.01253597,10.449357 4.7736673,11.605153 8.0281807,16 11.081092,11.616361 16.012125,10.267049 15.999978,5.9555132 15.99376,3.7662631 14.107163,1.9942047 11.788661,2.0000142 10.106921,2.0043199 8.6621219,2.9455092 7.9952689,4.2962046 7.3208226,2.9488717 5.8707508,2.0148483 4.1890026,2.0190647 z" inkscape:connector-curvature="0" id="path3780" opacity="0.1"/>
  <path d="M 4.6654092,1.0190822 C 2.6367305,1.0249614 0.99463547,2.8063949 1.0000132,4.9956307 1.010969,9.449357 5.1769589,10.605153 8.0246581,15 10.695956,10.616361 15.010609,9.2670492 14.99998,4.9555132 14.99454,2.7662631 13.343767,0.99420468 11.315079,1.0000142 9.8435555,1.0043199 8.5793567,1.9455092 7.9958603,3.2962046 7.4057198,1.9488717 6.136907,1.0148483 4.6653773,1.0190647 z" inkscape:connector-curvature="0" id="path7" fill="url(#linearGradient3771)"/>

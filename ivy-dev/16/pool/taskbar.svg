@@ -14,12 +14,12 @@
   <linearGradient y1="6" x2="0" y2="14" id="linearGradient3048" xlink:href="#linearGradient885" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.0071428,0,0,1.1750001,0.61190576,29.483332)"/>
  </defs>
  <g transform="matrix(0.31914894,0,0,0.31914894,0.34042553,0.340426)" id="g881" fill="url(#linearGradient891)">
-  <rect width="9.4" height="9.4" x="2.066667" y="5.199998" id="rect841" fill="url(#linearGradient3030)"/>
-  <rect width="28.2" height="9.4" x="17.733334" y="5.199998" id="rect843" fill="url(#linearGradient3032)"/>
-  <rect width="9.4" height="9.4" x="2.066667" y="20.866665" id="rect3034" fill="url(#linearGradient3038)"/>
-  <rect width="28.2" height="9.4" x="17.733334" y="20.866665" id="rect3036" fill="url(#linearGradient3040)"/>
-  <rect width="9.4" height="9.4" x="2.066667" y="36.533333" id="rect3042" fill="url(#linearGradient3046)"/>
-  <rect width="28.2" height="9.4" x="17.733334" y="36.533333" id="rect3044" fill="url(#linearGradient3048)"/>
+  <rect width="9.4" height="9.4" x="2.067" y="5.2" id="rect841" fill="url(#linearGradient3030)"/>
+  <rect width="28.2" height="9.4" x="17.733" y="5.2" id="rect843" fill="url(#linearGradient3032)"/>
+  <rect width="9.4" height="9.4" x="2.067" y="20.867" id="rect3034" fill="url(#linearGradient3038)"/>
+  <rect width="28.2" height="9.4" x="17.733" y="20.867" id="rect3036" fill="url(#linearGradient3040)"/>
+  <rect width="9.4" height="9.4" x="2.067" y="36.533" id="rect3042" fill="url(#linearGradient3046)"/>
+  <rect width="28.2" height="9.4" x="17.733" y="36.533" id="rect3044" fill="url(#linearGradient3048)"/>
   <path d="m 1.5,2.5 0,2 2,0 0,-2 -2,0 z m 5,0 0,2 8,0 0,-2 -8,0 z" transform="matrix(3.1333333,0,0,3.1333333,-1.0666666,-1.0666681)" id="path3058" opacity="0.4" fill="none" stroke="#000000"/>
   <path d="m 1.5,2.5 0,2 2,0 0,-2 -2,0 z m 5,0 0,2 8,0 0,-2 -8,0 z" transform="matrix(3.1333333,0,0,3.1333333,-1.0666667,14.599998)" id="path3060" opacity="0.4" fill="none" stroke="#000000"/>
   <path d="m 1.5,2.5 0,2 2,0 0,-2 -2,0 z m 5,0 0,2 8,0 0,-2 -8,0 z" transform="matrix(3.1333333,0,0,3.1333333,-1.0666667,30.266665)" id="path3062" opacity="0.4" fill="none" stroke="#000000"/>

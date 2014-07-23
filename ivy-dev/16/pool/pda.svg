@@ -19,7 +19,7 @@
  </defs>
  <g id="layer1">
   <rect width="36" height="2" x="6" y="42" id="rect1477" opacity="0.3" fill="url(#radialGradient1493)"/>
-  <rect width="34" height="41" rx="6.307693" x="7" y="2" id="rect1360" fill="url(#linearGradient1394)"/>
+  <rect width="34" height="41" rx="6.308" x="7" y="2" id="rect1360" fill="url(#linearGradient1394)"/>
   <rect width="24" height="24" x="12" y="8" id="rect1366" fill="#171717"/>
   <path d="m 27,39.5 a 3.5,2.5 0 1 1 -7,0 3.5,2.5 0 1 1 7,0 z" inkscape:connector-curvature="0" transform="matrix(0.85714286,0,0,1,3.8571428,-3)" id="path1436" opacity="0.5" fill="#ffffff"/>
   <path d="m 27,39.5 a 3.5,2.5 0 1 1 -7,0 3.5,2.5 0 1 1 7,0 z" inkscape:connector-curvature="0" transform="matrix(0.85714286,0,0,1,3.8571428,-1)" id="path1442" opacity="0.7"/>
@@ -36,6 +36,6 @@
   <rect width="8" height="1" x="20" y="7" id="rect1428" opacity="0.6" fill="#ffffff"/>
   <path d="m 20.4688,3.4688 0,3.0625 7.0625,0 0,-3.0625 h -7.0625 z" inkscape:connector-curvature="0" id="path1432" opacity="0.2" fill="none" stroke="#000000"/>
   <rect width="24" height="1" x="12" y="32" id="rect1434" opacity="0.5" fill="#ffffff"/>
-  <path d="m 12.5625,8.5625 0,22.875 22.875,0 0,-22.875 h -22.875 z" inkscape:connector-curvature="0" id="path1402" opacity="0.3968" fill="none" stroke="#000000"/>
+  <path d="m 12.5625,8.5625 0,22.875 22.875,0 0,-22.875 h -22.875 z" inkscape:connector-curvature="0" id="path1402" opacity="0.397" fill="none" stroke="#000000"/>
  </g>
 </svg>

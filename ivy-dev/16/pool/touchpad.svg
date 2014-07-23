@@ -7,8 +7,8 @@
   </linearGradient>
   <linearGradient y1="3" x2="0" y2="44" id="linearGradient4015" xlink:href="#linearGradient919" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-0.33274603,0.34333534,0,-0.10915701,-0.0018055)"/>
  </defs>
- <rect width="12" height="13.975333" rx="0.415011" ry="0.402211" x="4" y="-15" transform="matrix(0,1,-1,0,0,0)" id="rect3020" opacity="0.1"/>
- <rect width="12" height="13.975333" rx="0.415011" ry="0.402211" x="3" y="-15" transform="matrix(0,1,-1,0,0,0)" id="rect4007" fill="url(#linearGradient4015)"/>
+ <rect width="12" height="13.975" rx="0.415" ry="0.402" x="4" y="-15" transform="matrix(0,1,-1,0,0,0)" id="rect3020" opacity="0.1"/>
+ <rect width="12" height="13.975" rx="0.415" ry="0.402" x="3" y="-15" transform="matrix(0,1,-1,0,0,0)" id="rect4007" fill="url(#linearGradient4015)"/>
  <path d="m 1.0123315,12 0,2.94375 c 0,0.01997 0.007,0.03718 0.010417,0.05625 H 15.001915 c 0.0034,-0.01907 0.01042,-0.03628 0.01042,-0.05625 V 12 H 1.0123315 z" inkscape:connector-curvature="0" id="rect3015" opacity="0.2" fill="#171717"/>
  <rect width="1" height="3" x="12" y="5" id="rect3024" opacity="0.3" fill="#171717"/>
  <rect width="8" height="1" x="3" y="9" id="rect3026" opacity="0.3" fill="#171717"/>

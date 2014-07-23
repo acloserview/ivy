@@ -9,15 +9,15 @@
    <stop id="stop4025" stop-color="#ffffff"/>
    <stop id="stop4027" offset="1" stop-color="#ffffff" stop-opacity="0"/>
   </linearGradient>
-  <linearGradient y1="44.0069" x2="0" y2="2" id="linearGradient4015" xlink:href="#linearGradient919-6" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.37194661,0,0,0.38088987,-16.226557,-16.761781)"/>
-  <linearGradient y1="43.996658" x2="0" y2="1.989767" id="linearGradient4029" xlink:href="#linearGradient4023" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.37194661,0,0,-0.38088987,16.234976,16.757882)"/>
+  <linearGradient y1="44.01" x2="0" y2="2" id="linearGradient4015" xlink:href="#linearGradient919-6" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.37194661,0,0,0.38088987,-16.226557,-16.761781)"/>
+  <linearGradient y1="43.997" x2="0" y2="1.99" id="linearGradient4029" xlink:href="#linearGradient4023" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.37194661,0,0,-0.38088987,16.234976,16.757882)"/>
   <linearGradient id="linearGradient919-6">
    <stop id="stop921-2" stop-color="#dedede"/>
    <stop id="stop923-8" offset="1" stop-color="#f4f4f4"/>
   </linearGradient>
   <linearGradient y1="1" x2="0" y2="8" id="linearGradient3789" xlink:href="#linearGradient3783" gradientUnits="userSpaceOnUse"/>
  </defs>
- <rect width="13" height="15.997375" rx="0.460405" x="-14" y="-16" transform="scale(-1,-1)" id="rect4007" fill="url(#linearGradient4015)"/>
+ <rect width="13" height="15.997" rx="0.46" x="-14" y="-16" transform="scale(-1,-1)" id="rect4007" fill="url(#linearGradient4015)"/>
  <path d="m 13.4749,0.5322 -11.9375,0 0,14.9375 11.9375,0 0,-14.9375 z" inkscape:connector-curvature="0" id="path828" opacity="0.4" fill="none" stroke="#000000"/>
  <path d="M 6,2 6,6 5,6 5,7 6,7 6,8 7,8 7,9 8,9 8,8 9,8 9,7 10,7 10,6 9,6 9,2 6,2 z" inkscape:connector-curvature="0" id="path3791" opacity="0.32" fill="#ffffff"/>
  <path d="M 6,1 6,5 5,5 5,6 6,6 6,7 7,7 7,8 8,8 8,7 9,7 9,6 10,6 10,5 9,5 9,1 6,1 z" inkscape:connector-curvature="0" id="rect3006" fill="url(#linearGradient3789)"/>

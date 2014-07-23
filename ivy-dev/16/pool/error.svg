@@ -9,18 +9,16 @@
    <stop id="stop840" stop-color="#d02604"/>
    <stop id="stop842" offset="1" stop-color="#fb5736"/>
   </linearGradient>
-  <radialGradient cx="60.05332" cy="51.39256" r="15.03245" id="radialGradient3625" xlink:href="#linearGradient3588" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.404511,1.1888571,-1,-1.1813958,199.73811,11.750541)"/>
+  <radialGradient cx="60.05" cy="51.39" r="15.03" id="radialGradient3625" xlink:href="#linearGradient3588" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.404511,1.1888571,-1,-1.1813958,199.73811,11.750541)"/>
   <linearGradient id="linearGradient3588">
    <stop id="stop3590" stop-color="#eeeeee"/>
    <stop id="stop3592" offset="1" stop-color="#dcdcdc"/>
   </linearGradient>
-  <radialGradient cx="60.05332" cy="51.39256" r="15.03245" id="radialGradient3625-5" xlink:href="#linearGradient3588" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.404511,1.1888571,-1,-1.1813958,199.73811,11.750541)"/>
-  <radialGradient cx="60.05332" cy="51.39256" r="15.03245" id="radialGradient3625-56" xlink:href="#linearGradient3588" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.404511,1.1888571,-1,-1.1813958,199.73811,11.750541)"/>
   <linearGradient y1="4" x2="0" y2="44" id="linearGradient844" xlink:href="#linearGradient838" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.4010321,0,0,0.4010321,-1.6342548,-1.6357383)"/>
   <linearGradient y1="1" x2="0" y2="15" id="linearGradient854" xlink:href="#linearGradient848" gradientUnits="userSpaceOnUse"/>
  </defs>
  <path d="m 5,0 -5,5 0,6 5,5 6,0 5,-5 0,-6 -5,-5 z" inkscape:connector-curvature="0" id="path2420" fill="url(#linearGradient844)" fill-rule="evenodd"/>
- <path d="M 13,8.8072 13,6 3,6 l 0,2.8072 10,0 z" inkscape:connector-curvature="0" id="path2890" opacity="0.6096"/>
+ <path d="M 13,8.8072 13,6 3,6 l 0,2.8072 10,0 z" inkscape:connector-curvature="0" id="path2890" opacity="0.61"/>
  <path d="M 13,10 13,7 3,7 3,10 13,10 z" inkscape:connector-curvature="0" id="rect3194" fill="#ffffff"/>
  <path d="M 5.1875,0.5 0.5,5.21875 l 0,5.5625 4.71875,4.71875 5.5625,0 L 15.5,10.78125 15.5,5.21875 10.78125,0.5 5.1875,0.5 z" inkscape:connector-curvature="0" id="path844" opacity="0.64" fill="none" stroke="#000000"/>
  <path d="M 5.625,1.5 1.5,5.625 l 0,4.75 4.125,4.125 4.75,0 4.125,-4.125 0,-4.75 -4.125,-4.125 -4.75,0 z" inkscape:connector-curvature="0" id="path846" opacity="0.55" fill="none" stroke="url(#linearGradient854)"/>

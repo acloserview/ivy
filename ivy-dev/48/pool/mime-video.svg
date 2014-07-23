@@ -5,15 +5,15 @@
    <stop id="stop4025" stop-color="#ffffff"/>
    <stop id="stop4027" offset="1" stop-color="#ffffff" stop-opacity="0"/>
   </linearGradient>
-  <linearGradient x1="6.04065" y1="1.882114" x2="41" y2="1.926829" id="linearGradient4015" xlink:href="#linearGradient3095" gradientUnits="userSpaceOnUse" gradientTransform="translate(3.0625176,-46.999999)"/>
-  <linearGradient x1="6.971545" y1="3.203252" x2="40.1095" y2="3.02973" id="linearGradient4029" xlink:href="#linearGradient4023" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,1,-1,0,47.006893,3.055624)"/>
+  <linearGradient x1="6.04" y1="1.882" x2="41" y2="1.927" id="linearGradient4015" xlink:href="#linearGradient3095" gradientUnits="userSpaceOnUse" gradientTransform="translate(3.0625176,-46.999999)"/>
+  <linearGradient x1="6.972" y1="3.203" x2="40.11" y2="3.03" id="linearGradient4029" xlink:href="#linearGradient4023" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,1,-1,0,47.006893,3.055624)"/>
   <linearGradient id="linearGradient3095">
    <stop id="stop3097" stop-color="#171717"/>
    <stop id="stop3099" offset="1" stop-color="#646464"/>
   </linearGradient>
  </defs>
- <rect width="34.951252" height="42" rx="1.208762" x="10.04875" y="-45" transform="matrix(0,1,-1,0,0,0)" id="rect833" opacity="0.1"/>
- <rect width="34.951252" height="42" rx="1.208762" x="9.04875" y="-45" transform="matrix(0,1,-1,0,0,0)" id="rect4007" fill="url(#linearGradient4015)"/>
+ <rect width="34.951" height="42" rx="1.209" x="10.05" y="-45" transform="matrix(0,1,-1,0,0,0)" id="rect833" opacity="0.1"/>
+ <rect width="34.951" height="42" rx="1.209" x="9.05" y="-45" transform="matrix(0,1,-1,0,0,0)" id="rect4007" fill="url(#linearGradient4015)"/>
  <path d="m 44.5069,10.2431 c 0,-0.403779 -0.299839,-0.6875 -0.71875,-0.6875 H 4.22565 c -0.418911,0 -0.71875,0.283721 -0.71875,0.6875 v 32.5312 c 0,0.40378 0.31497,0.71875 0.71875,0.71875 h 39.5625 c 0.403779,0 0.71875,-0.31497 0.71875,-0.71875 V 10.2431 z" inkscape:connector-curvature="0" id="path4019" fill="none" stroke="#000000"/>
  <path d="m 43.4756,10.5869 -38.9375,0 0,31.875 38.9375,0 v -31.875 z" inkscape:connector-curvature="0" id="path4021" opacity="0.3" fill="none" stroke="url(#linearGradient4029)"/>
  <rect width="34" height="6" x="7" y="35" id="rect3020" opacity="0.3" color="#000000"/>
