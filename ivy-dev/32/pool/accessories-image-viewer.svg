@@ -15,7 +15,7 @@
   </linearGradient>
   <radialGradient cx="18.87" cy="52.975" r="22.04" id="radialGradient2917" xlink:href="#linearGradient2923" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.6805983,-0.8283957,0.74370027,0.61101369,-27.240726,30.097539)"/>
   <linearGradient y1="11.656" x2="0" y2="36.34" id="linearGradient3709" xlink:href="#linearGradient3690" gradientUnits="userSpaceOnUse" gradientTransform="translate(0,0.5765)"/>
-  <radialGradient cx="17.354" cy="29.13" r="11.121" id="radialGradient3731" xlink:href="#linearGradient3733" gradientUnits="userSpaceOnUse" gradientTransform="matrix(3.3051367e-7,-1.3367476,1.4387096,2.83664e-7,-17.916198,55.773807)"/>
+  <radialGradient cx="17.354" cy="29.13" r="11.12" id="radialGradient3731" xlink:href="#linearGradient3733" gradientUnits="userSpaceOnUse" gradientTransform="matrix(3.3051367e-7,-1.3367476,1.4387096,2.83664e-7,-17.916198,55.773807)"/>
   <linearGradient y1="12.554" x2="0" y2="35.879" id="linearGradient3696" xlink:href="#linearGradient3690" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.0002957,0,0,0.98350985,-0.00709746,0.77127991)"/>
  </defs>
  <path d="M 46.3724,25.5765 C 44.13516,32.28827 36.3495,39 24,39 11.6505,39 3.8648,32.28827 1.6276,25.5765 3.8648,18.86482 11.6505,12.153 24,12.153 c 12.3496,0 20.1352,6.71182 22.3724,13.4235 z" inkscape:connector-curvature="0" id="path3059" opacity="0.1" fill-rule="evenodd"/>

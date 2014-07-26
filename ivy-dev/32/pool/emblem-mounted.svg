@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.0" width="32" height="32">
+ <metadata id="metadata19"/>
+ <defs id="defs3">
+  <linearGradient id="linearGradient3005">
+   <stop stop-color="#66b03e" id="stop3007"/>
+   <stop stop-color="#b0db98" offset="1" id="stop3009"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3771">
+   <stop id="stop3773" stop-color="#ffffff"/>
+   <stop id="stop3775" offset="1" stop-color="#ffffff" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="linearGradient837">
+   <stop id="stop839" stop-color="#ff8b36"/>
+   <stop id="stop841" offset="1" stop-color="#ffbe8e"/>
+  </linearGradient>
+  <linearGradient y1="12" x2="0" y2="32" id="linearGradient845" xlink:href="#linearGradient837" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.8,0,0,0.8,6.3999995,6.4000005)"/>
+  <linearGradient y1="17" x2="0" y2="31" id="linearGradient3777" xlink:href="#linearGradient3771" gradientUnits="userSpaceOnUse"/>
+  <linearGradient inkscape:collect="always" xlink:href="#linearGradient3771" id="linearGradient2999" gradientUnits="userSpaceOnUse" y1="17" x2="0" y2="31" gradientTransform="matrix(-1,0,0,1,32,0)"/>
+  <linearGradient inkscape:collect="always" xlink:href="#linearGradient3005" id="linearGradient3003" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.8,0,0,0.8,25.6,6.4000005)" y1="12" x2="0" y2="32"/>
+ </defs>
+ <path id="rect834" inkscape:connector-curvature="0" d="m 3,16 -3,0 0,16 16,0 0,-3 z" fill="url(#linearGradient3003)"/>
+ <path id="path2999" inkscape:connector-curvature="0" d="m 2.75,16.5 12.75,12.75 0,2.25 -15,0 0,-15 2.25,0 z" opacity="0.4" fill="none" stroke="#000000"/>
+ <path id="path3001" inkscape:connector-curvature="0" d="m 2.375,17.5 12.125,12.125 0,0.875 -13,0 0,-13 0.875,0 z" opacity="0.4" fill="none" stroke="url(#linearGradient2999)"/>
+</svg>
