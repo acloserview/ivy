@@ -82,4 +82,4 @@ done
 cd $basedir
 gtk-update-icon-cache ivy
 #7z a -mx=9 -m0=PPMd -mmem=512m -ms=on ivy ivy
-echo "done, you can now copy the ivy folder to your icon dir($HOME/.icons) or ($HOME/.kde/share/icons) for KDE"
+echo "done, you can now copy the ivy folder to your icon dir($HOME/.icons), ($HOME/.kde/share/icons) for KDE.
