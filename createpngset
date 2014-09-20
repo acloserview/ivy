@@ -61,6 +61,10 @@ cd /tmp/ivy-dev-tmp
 for svgsymlinks in `find  -wholename "*.svg"`; do
 	ln -sf "`readlink $svgsymlinks|sed 's/\.svg$/\.png/'`" "`ls $svgsymlinks|sed 's/\.svg$/\.png/'`"
 done
+#fix that ugly apple mono rip-off
+for svgsymlinks in `find  -wholename "*.svg"`; do
+	ln -sf "`readlink $svgsymlinks|sed 's/\.svg$/\.png/'`" "`ls $svgsymlinks|sed 's/\.svg$/-symbolic.png/'`"
+done
 find  -wholename "*.svg" -exec rm -rf {} \;
 
 #copy the pngs to the png theme
@@ -82,4 +86,4 @@ done
 cd $basedir
 gtk-update-icon-cache ivy
 #7z a -mx=9 -m0=PPMd -mmem=512m -ms=on ivy ivy
-echo "done, you can now copy the ivy folder to your icon dir($HOME/.icons), ($HOME/.kde/share/icons) for KDE.
+echo "done, you can now copy the ivy folder to your icon dir($HOME/.icons) or ($HOME/.kde/share/icons) for KDE."
