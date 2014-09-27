@@ -26,6 +26,7 @@ A very minimalistic but colorful png icon theme for X11 Desktop Environments suc
 ####Notes:
 
 * The recommend Xfce Icon size setting is: 
+
 **`xfconf-query -c xsettings -p /Gtk/IconSizes -s "panel-menu=22,22:gtk-dialog=48,48:gtk-small-toolbar=22,22:gtk-large-toolbar=22,22:gtk-menu=22,22:gtk-button=22,22:panel-applications-menu=24,24:panel-directory-menu=24,24"`**
 
 ####Limitations/Bugs:
