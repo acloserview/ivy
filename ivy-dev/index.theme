@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=Ivy(SVG)
-Comment=Ex Rodentium Xfce theme
+Name=Ivy(test theme)
+Comment=svg only => terrible loading times
 Example=text-x-script
 Inherits=hicolor, Tango, Tangoish KDE, Gnome
 
