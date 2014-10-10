@@ -19,7 +19,7 @@ A very minimalistic but colorful png icon theme for X11 Desktop Environments suc
 **Note:** *We make a png theme because it's faster and pixel perfect*
 
 * **`cd ~`**
-* **`git clone https://github.com/sixsixfive/ivy.git`**
+* **`git clone https://github.com/sixsixfive/ivy.git`** or **`svn co https://github.com/sixsixfive/ivy/trunk/ivy-dev`**
 * **`cd ivy`**
 * **`bash createpngset`**
 
