@@ -4,7 +4,7 @@ Comment=
 Example=emblem-favorite
 Inherits=hicolor
 
-Directories=16/actions,16/apps,16/categories,16/devices,16/emblems,16/emotes,16/mimetypes,16/places,16/status,16/gtk,22/actions,22/apps,22/categories,22/devices,22/emblems,22/emotes,22/mimetypes,22/places,22/status,22/gtk,24/actions,24/apps,24/categories,24/devices,24/emblems,24/emotes,24/mimetypes,24/places,24/status,24/gtk,32/actions,32/apps,32/categories,32/devices,32/emblems,32/emotes,32/mimetypes,32/places,32/status,32/gtk,48/actions,48/apps,48/categories,48/devices,48/emblems,48/emotes,48/mimetypes,48/places,48/status,48/gtk
+Directories=16/actions,16/apps,16/animations,16/categories,16/devices,16/emblems,16/emotes,16/mimetypes,16/places,16/status,16/gtk,22/actions,22/apps,22/animations,22/categories,22/devices,22/emblems,22/emotes,22/mimetypes,22/places,22/status,22/gtk,24/actions,24/apps,24/animations,24/categories,24/devices,24/emblems,24/emotes,24/mimetypes,24/places,24/status,24/gtk,32/actions,32/apps,animations,32/categories,32/devices,32/emblems,32/emotes,32/mimetypes,32/places,32/status,32/gtk,48/actions,48/apps,48/animations,48/categories,48/devices,48/emblems,48/emotes,48/mimetypes,48/places,48/status,48/gtk
 
 #######
 #KDE-Stuff
@@ -46,6 +46,11 @@ Type=Fixed
 [16/apps]
 Size=16
 Context=Applications
+Type=Fixed
+
+[16/animations]
+Size=16
+Context=Animations
 Type=Fixed
 
 [16/categories]
@@ -97,6 +102,11 @@ Size=22
 Context=Applications
 Type=Fixed
 
+[22/animations]
+Size=22
+Context=Animations
+Type=Fixed
+
 [22/categories]
 Size=22
 Context=Categories
@@ -144,6 +154,11 @@ Type=Fixed
 [24/apps]
 Size=24
 Context=Applications
+Type=Fixed
+
+[24/animations]
+Size=24
+Context=Animations
 Type=Fixed
 
 [24/categories]
@@ -195,6 +210,11 @@ Size=32
 Context=Applications
 Type=Fixed
 
+[32/animations]
+Size=32
+Context=Animations
+Type=Fixed
+
 [32/categories]
 Size=32
 Context=Categories
@@ -242,6 +262,11 @@ Type=Fixed
 [48/apps]
 Size=48
 Context=Applications
+Type=Fixed
+
+[48/animations]
+Size=48
+Context=Animations
 Type=Fixed
 
 [48/categories]
