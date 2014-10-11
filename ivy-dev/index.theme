@@ -44,46 +44,64 @@ DialogSizes=16,24,32,48
 Size=48
 Context=Actions
 Type=Scalable
+MinSize=8
+MaxSize=512
 
 [48/apps]
 Size=48
 Context=Applications
 Type=Scalable
+MinSize=8
+MaxSize=512
 
 [48/categories]
 Size=48
 Context=Categories
 Type=Scalable
+MinSize=8
+MaxSize=512
 
 [48/devices]
 Size=48
 Context=Devices
 Type=Scalable
+MinSize=8
+MaxSize=512
 
 [48/emblems]
 Size=48
 Context=Emblems
 Type=Scalable
+MinSize=8
+MaxSize=512
 
 [48/emotes]
 Size=48
 Context=Emotes
 Type=Scalable
+MinSize=8
+MaxSize=512
 
 [48/mimetypes]
 Size=48
 Context=MimeTypes
 Type=Scalable
+MinSize=8
+MaxSize=512
 
 [48/places]
 Size=48
 Context=Places
 Type=Scalable
+MinSize=8
+MaxSize=512
 
 [48/status]
 Size=48
 Context=Status
 Type=Scalable
+MinSize=8
+MaxSize=512
 
 ##########################
 ## Current GTK3.8 Icons
@@ -93,3 +111,5 @@ Type=Scalable
 Size=48
 Context=Stock
 Type=Scalable
+MinSize=8
+MaxSize=512
