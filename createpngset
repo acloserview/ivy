@@ -11,14 +11,14 @@ echo "Would you like to upscale all icons(takes a lot more time)(Needed for all 
 read input
 if [[ $input == "Y" || $input == "y" ]]; then
 	echo "creating scaled version" && sleep 5
-sizes="16 22 32 48 64 80 96 112 128 144 160 176 192 208 224 240 256"
-defaultsizes="16 22 32 48"
-extrasizes="64 80 96 112 128 144 160 176 192 208 224 240 256"
-indextheme=ivy-dev/index.theme.scaled
+	sizes="16 22 32 48 64 80 96 112 128 144 160 176 192 208 224 240 256"
+	defaultsizes="16 22 32 48"
+	extrasizes="64 80 96 112 128 144 160 176 192 208 224 240 256"
+	indextheme=ivy-dev/index.theme.scaled
 else
 	echo "creating fixed version" && sleep 5
-sizes="16 22 32 48"
-indextheme=ivy-dev/index.theme.48
+	sizes="16 22 32 48"
+	indextheme=ivy-dev/index.theme.48
 fi
 
 cd $basedir
@@ -47,15 +47,17 @@ cp $indextheme $basedir/ivy/index.theme
 for size in $sizes; do
 	cd $basedir/ivy/$size/pool
 		for name in `find  -wholename "*.svg"`; do
-		inkscape -z --export-area-page --export-width=$size --export-height=$size --export-png="`echo "$name" | sed "s/\.\w*$/.png/"`" "$name"
+			inkscape -z --export-area-page --export-width=$size --export-height=$size --export-png="`echo "$name" | sed "s/\.\w*$/.png/"`" "$name"
 		done
+		convert +append busy*.png process-working.png
+		convert -append busy*.png process-working-kde.png
 	rm *.svg
 done
 
 #copying symlinks
 cd $basedir/ivy-dev/48/
 mkdir /tmp/ivy-dev-tmp
-cp -R actions apps categories devices emblems gtk mimetypes places status /tmp/ivy-dev-tmp
+cp -R actions apps animations categories devices emblems gtk mimetypes places status /tmp/ivy-dev-tmp
 #convert them into png
 cd /tmp/ivy-dev-tmp
 for svgsymlinks in `find  -wholename "*.svg"`; do
@@ -81,7 +83,8 @@ cd $basedir/ivy/24/pool
 for name24 in `find  -wholename "*.png"`; do
 	convert -gravity center -extent 24x24 -background Transparent "$name24" -set colorspace RGB "$name24"
 done
-
+convert +append busy*.png process-working.png
+convert -append busy*.png process-working-kde.png
 #create a icon cache
 cd $basedir
 gtk-update-icon-cache ivy
