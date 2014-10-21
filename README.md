@@ -1,7 +1,6 @@
 
 | ![alt text](https://raw.githubusercontent.com/sixsixfive/ivy/master/xfcesettings.png) | ![alt text](https://raw.githubusercontent.com/sixsixfive/ivy/master/matecontrol.png)|
 | ------------- |:-------------:|
-| Xfce4 Systemsettings | current(sep 2014) 48px icons |
 
 A very minimalistic but colorful png icon theme for X11 Desktops such as: [Xfce](http://xfce.org/), [LXQt](http://lxqt.org/), [MATE](http://mate-desktop.org/) or [Enlightenment](https://www.enlightenment.org/) heavily inspired by the [FatCow](http://www.fatcow.com/free-icons) & [Tango!](http://en.wikipedia.org/wiki/Tango_Desktop_Project) icons under [CC-BY-SA](http://creativecommons.org/licenses/by-sa/4.0/deed.en)
 
