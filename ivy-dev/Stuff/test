@@ -1,0 +1,142 @@
+#!/bin/bash
+########################################################################
+###EDIT SCALED SIZES HERE!###
+###per default the icon theme includes already 16, 22 ,24 ,32 and 48 icons
+###Dolphins default fileview icons
+extrasizes="64 80 96 112 128 144 160 176 192 208 224 240 256"
+########################################################################
+########################################################################
+########################################################################
+#somechecks
+command -v inkscape >/dev/null 2>&1 || { echo >&2 "I require Inkscape but it's not installed.  Aborting."; exit 1; }
+command -v convert >/dev/null 2>&1 || { echo >&2 "I require ImageMagick but it's not installed.  Aborting."; exit 1; }
+command -v sed >/dev/null 2>&1 || { echo >&2 "I require sed but it's not installed.  Aborting."; exit 1; }
+command -v gtk-update-icon-cache >/dev/null 2>&1 || { echo >&2 "gtk-update-icon-cache is missing, icon cache creation will fail" && sleep 5; }
+basedir="$(dirname "$(readlink -f "${0}")")"
+defaultsizes="16 22 32 48"
+echo -e "You can choose between three themes:\n"
+echo -e "#1: create a PNG set(includes only 16,22,24,32 and 48 pixel icons, this is mainly for Xfce and other GTK DE's)\n"
+echo -e "#2: create a SVG set(in 16,22,32,48, works on the most DE's)\n"
+echo -e "#3: create a PNG set(same as above but upscale all 48 pixel Icons to the defined extrasizes at the top of this script, this should be used for Qt-DE's)\n"
+echo -e "#4: Abort(default)\n"
+echo -e "\n"
+sleep 10
+echo -e "Make your choice: [1,2,3,4]"
+read input
+if [[ $input == "1" ]]; then
+	echo "creating fixed PNG set" && sleep 5
+	sizes="$defaultsizes"
+	indextheme=ivy-dev/index.theme.48
+elif [[ $input == "2" ]]; then
+	echo "creating SVG set" && sleep 5
+	sizes="$defaultsizes"
+	indextheme=ivy-dev/index.theme.svg
+elif [[ $input == "3" ]]; then
+	echo "creating scaled PNG set" && sleep 5
+	sizes="$defaultsizes $extrasizes"
+	indextheme=ivy-dev/index.theme.scaled
+elif [[ $input == "4" ]]; then
+	exit
+else
+	echo "$input Aborting!"
+	exit
+fi
+###create the final theme folder
+cd $basedir
+for size in $sizes; do
+	mkdir -p $basedir/ivy/$size
+done
+if [[ $input == "1" || $input == "2" || $input == "3" ]]; then
+	for size in $sizes; do
+		cp -R ivy-dev/$defaultsize/pool $basedir/ivy/$size
+	done
+	if [[ $input == "3" ]]; then
+		for size in sizes; do
+			cp -R ivy-dev/48/pool $basedir/ivy/$size
+		done
+	fi
+fi
+###copy theme file, license stuff...
+cp ivy-dev/COPYING $basedir/ivy
+cp ivy-dev/COPYING.pdf $basedir/ivy
+cp $indextheme $basedir/ivy/index.theme
+
+###coverting the svgs to pngs
+if [[ $input == "1" || $input == "3" ]]; then
+	for size in $sizes; do
+		cd $basedir/ivy/$size/pool
+			for name in `find  -wholename "*.svg"`; do
+				inkscape -z --export-area-page --export-width=$size --export-height=$size --export-png="`echo "$name" | sed "s/\.\w*$/.png/"`" "$name"
+			done
+		convert +append busy*.png process-working.png
+		convert -append busy*.png process-working-kde.png
+		rm *.svg
+	done
+fi
+
+### change the svg size with sed
+###dont forget busy animation things
+if [[ $input == "2" ]]; then
+fi
+
+#copying symlinks
+if [[ $input == "1" || $input == "3" ]]; then
+	cd $basedir/ivy-dev/48/
+	mkdir /tmp/ivy-dev-tmp
+	cp -R actions apps animations categories devices emblems gtk mimetypes places status /tmp/ivy-dev-tmp
+	cd $basedir
+elif [[ $input == "2" ]]; then
+	cd $basedir/ivy-dev/48
+	for size in $sizes; do
+	cp -R actions apps animations categories devices emblems gtk mimetypes places status $basedir/ivy/$size
+	done
+	cd $basedir
+fi
+
+#convert them into png
+if [[ $input == "1" || $input == "3" ]]; then
+	cd /tmp/ivy-dev-tmp
+	for svgsymlinks in `find  -wholename "*.svg"`; do
+		ln -sf "`readlink $svgsymlinks|sed 's/\.svg$/\.png/'`" "`ls $svgsymlinks|sed 's/\.svg$/\.png/'`"
+	done
+	cd $basedir
+fi
+
+#fix those ugly apple mono rip-off icons
+if [[ $input == "1" || $input == "3" ]]; then
+	cd /tmp/ivy-dev-tmp
+	for svgsymlinks in `find  -wholename "*.svg"`; do
+		ln -sf "`readlink $svgsymlinks|sed 's/\.svg$/\.png/'`" "`ls $svgsymlinks|sed 's/\.svg$/-symbolic.png/'`"
+	done
+	find  -wholename "*.svg" -exec rm -rf {} \;
+	cd $basedir
+elif [[ $input == "2" ]]; then
+###cp svg to symbolic svg
+fi
+
+#copy the pngs to the png theme
+if [[ $input == "1" || $input == "3" ]]; then
+	cd $basedir
+	for size in $sizes; do
+		cp -R /tmp/ivy-dev-tmp/* $basedir/ivy/$size
+	done
+	rm -R /tmp/ivy-dev-tmp
+fi
+
+#fix 24px icons
+if [[ $input == "1" || $input == "3" ]]; then
+	cd $basedir
+	cp -R $basedir/ivy/22 $basedir/ivy/24
+	cd $basedir/ivy/24/pool
+	for name24 in `find  -wholename "*.png"`; do
+		convert -gravity center -extent 24x24 -background Transparent "$name24" -set colorspace RGB "$name24"
+	done
+	convert +append busy*.png process-working.png
+	convert -append busy*.png process-working-kde.png
+fi
+
+#create a icon cache
+cd $basedir
+gtk-update-icon-cache ivy
+#7z a -mx=9 -m0=PPMd -mmem=512m -ms=on ivy ivy
+echo "done, you can now copy the $basedir/ivy folder to your icon dir($HOME/.icons) or ($HOME/.kde/share/icons) for KDE."
