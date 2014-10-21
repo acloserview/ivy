@@ -30,33 +30,33 @@ use some fixes:
 
 ### Disable Menu icons:
 
-* GTK2 
+#####GTK2 
 
 [xsettings](http://www.freedesktop.org/wiki/Specifications/XSettingsRegistry/), Xfce uses xfconf, MATE uses gconf/mateconf)
 
 **`Gtk/MenuImages "0"`**
 
-* Qt4/KDE4
+#####Qt4/KDE4
 
 KDE-Systemsettings>App. Appearance>Style>Fine Tuning
 
-* GTK3
+#####GTK3
 
 disabled by default(will inherit xsettings)
 
 ### or make them bigger (eg. 22px):
 
-* GTK2 
+#####GTK2 
 
 [xsettings](http://www.freedesktop.org/wiki/Specifications/XSettingsRegistry/), Xfce uses xfconf, MATE uses gconf/mateconf)
 
 **`Gtk/IconSizes "panel-menu=22,22:gtk-dialog=48,48:gtk-small-toolbar=22,22:gtk-large-toolbar=22,22:gtk-menu=22,22:gtk-button=22,22:panel-applications-menu=22,22:panel-directory-menu=22,22"`**
 
-* Qt4/KDE4
+#####Qt4/KDE4
 
 KDE-Systemsettings>App. Appearance>Icons>Advanced
 
-* GTK3
+#####GTK3
 
 this useful setting has been removed by the gnome devs (o_O)
 
