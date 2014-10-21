@@ -26,9 +26,16 @@ A very minimalistic but colorful png icon theme for X11 Desktop Environments suc
 
 ####Notes:
 
-* The recommend Xfce Icon size setting is: 
+Since the theme is still missing various small icons it's recommend to
+disable Menuicons:
 
-**`xfconf-query -c xsettings -p /Gtk/IconSizes -s "panel-menu=22,22:gtk-dialog=48,48:gtk-small-toolbar=22,22:gtk-large-toolbar=22,22:gtk-menu=22,22:gtk-button=22,22:panel-applications-menu=22,22:panel-directory-menu=22,22"`**
+* disable Menu icons [(xsettings)](http://www.freedesktop.org/wiki/Specifications/XSettingsRegistry/): 
+
+**`Gtk/MenuImages "0"`**
+
+* You could also make them bigger(eg. 22px): 
+
+**`Gtk/IconSizes "panel-menu=22,22:gtk-dialog=48,48:gtk-small-toolbar=22,22:gtk-large-toolbar=22,22:gtk-menu=22,22:gtk-button=22,22:panel-applications-menu=22,22:panel-directory-menu=22,22"`**
 
 ####Limitations/Bugs:
 
