@@ -1,5 +1,5 @@
 
-| ![alt text](https://raw.githubusercontent.com/sixsixfive/ivy/master/prev.png "Xfce4 Systemsettings") | ![alt text](https://raw.githubusercontent.com/sixsixfive/ivy/master/prev2.png "all")|
+| ![alt text](https://raw.githubusercontent.com/sixsixfive/ivy/master/xfcesettings.png) | ![alt text](https://raw.githubusercontent.com/sixsixfive/ivy/master/matecontrol.png)|
 | ------------- |:-------------:|
 | Xfce4 Systemsettings | current(sep 2014) 48px icons |
 
