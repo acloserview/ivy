@@ -17,11 +17,6 @@
    ICON("view-inherit","icon_dummy.png",64)                 // *** // EFMBUTTON("inherit"
 //Standard Status Icons
 //Standard Application Icons
-   ICON("preferences-desktop-mouse-left","icon_mouse_left.png",64)     // *** // "enlightenment/mouse_left"
-   ICON("preferences-desktop-mouse-right","icon_mouse_right.png",64)   // *** // "enlightenment/mouse_right"
-   ICON("preferences-desktop-mouse-middle","icon_mouse_middle.png",64) // *** // "enlightenment/mouse_middle"
-   ICON("preferences-desktop-mouse-wheel","icon_mouse_wheel.png",64)   // *** // "enlightenment/mouse_wheel"
-   ICON("preferences-desktop-mouse-extra","icon_mouse_extra.png",64)   // *** // "enlightenment/mouse_extra"
    ICON("preferences-desktop-shelf-bottom-desk","icon_shelf_bottom_desk.png",64)// *** // "enlightenment/shelf_bottom_desk"
    ICON("preferences-desktop-shelf-custom","icon_shelf_custom.png",64)          // *** // "enlightenment/shelf_custom"
    ICON("preferences-desktop-shelf-dock","icon_shelf_dock.png",64)              // *** // "enlightenment/shelf_dock"
@@ -40,14 +35,11 @@
    ICON("preferences-engine","icon_engine.png",64)               // *** // "enlightenment/engine"
    ICON("preferences-imc","icon_imc.png",64)                     // *** // "enlightenment/imc"
    ICON("preferences-icon-theme","icon_icon_theme.png",64)       // *** // "enlightenment/icon_theme"
-   ICON("preferences-transitions","icon_transitions.png",64)     // *** // "enlightenment/transitions"
-   ICON("preferences-desktop-edge-bindings","icon_shelf_right.png",64)  // *** // "enlightenment/edges"
    ICON("preferences-toolbar","icon_toolbar.png",64)             // *** // "enlightenment/toolbar"
    ICON("preferences-profiles","icon_profiles.png",64)           // *** // "enlightenment/profiles"
    ICON("preferences-menus","icon_menus.png",64)                 // *** // "enlightenment/menus"
    ICON("preferences-menu-settings","icon_menu_settings.png",64) // *** // "enlightenment/menu_settings"
    ICON("preferences-advanced","icon_advanced.png",64)           // *** // "enlightenment/advanced"
-   ICON("preferences-look","icon_look.png",64)                   // *** // "enlightenment/look"
    ICON("preferences-utils","icon_gadget.png",64)                // *** // "enlightenment/utils"
    ICON("preferences-scale","icon_scale.png",64)                 // *** // "enlightenment/scale"
    ICON("preferences-screen-normal","icon_screen_normal.png",64) // *** // "enlightenment/screen_normal"
@@ -58,7 +50,6 @@
    ICON("preferences-screen-hflip","icon_screen_hflip.png",64)   // *** // "enlightenment/screen_hflip"
    ICON("preferences-applications-add","icon_applications_new.png",64)         // *** // "enlightenment/add_application"
    ICON("preferences-applications-ibar","icon_applications_ibar.png",64)       // *** // "enlightenment/ibar_applications"
-   ICON("preferences-system","icon_configuration.png",64)                             // "enlightenment/configuration" "enlightenment/settings"
    ICON("preferences-system-performance","icon_performance.png",64)                   // "enlightenment/performance"
    ICON("preferences-illume","icon_illume.png",64)
 //Standard Module Category Icons 
@@ -74,3 +65,21 @@
 //   ICON("", 48, "")
 #endif
 #undef ICON
+
+
+module icons
+e-module-backlight #backlight
+e-module-conf_menus #menus
+e-module-conf_performance #performance
+e-module-conf_window_remembers
+e-module-contact #kontakte #addressbook
+https://git.enlightenment.org/core/enlightenment.git/tree/src/modules/everything #checkplugins for icons
+https://git.enlightenment.org/core/enlightenment.git/tree/src/modules check illumestuff
+e-module-layout #whatever
+e-module-msgbus #D-Bus
+https://git.enlightenment.org/core/enlightenment.git/tree/src/modules/policy_mobile
+e-module-tasks #which tasks? windows? or tasks?
+e-module-teamwork #teamwork whatever it does maybe the SED logo ;)
+e-module-tiling #need a tiling icon...
+https://git.enlightenment.org/core/enlightenment.git/tree/src/modules #check that wl(wayland stuff)
+https://git.enlightenment.org/ check all other modules
