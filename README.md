@@ -4,7 +4,7 @@
 
 A very minimalistic but colorful png icon theme for X11 Desktops such as: [Xfce](http://xfce.org/), [LXQt](http://lxqt.org/), [MATE](http://mate-desktop.org/) or [Enlightenment](https://www.enlightenment.org/) heavily inspired by the [FatCow](http://www.fatcow.com/free-icons) & [Tango!](http://en.wikipedia.org/wiki/Tango_Desktop_Project) icons under [CC-BY-SA](http://creativecommons.org/licenses/by-sa/4.0/deed.en)
 
-* Prebuilt set for Download: [Ivy@2014-10-22](https://drive.google.com/file/d/0B_2_dsXrefR-SnpETU9JVGZxazg/view?usp=sharing)
+* Prebuilt set: [Ivy@2014-10-22](https://drive.google.com/file/d/0B_2_dsXrefR-SnpETU9JVGZxazg/view?usp=sharing)
 
 ##Goals:
 

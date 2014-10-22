@@ -1,0 +1,197 @@
+#!/bin/bash
+#somechecks
+command -v gtk-update-icon-cache >/dev/null 2>&1 || { echo >&2 "gtk-update-icon-cache is missing, icon cache creation will fail"; sleep 5; }
+defaultsizes="16 22 32 48"
+scale48="96 128 144 192 240"
+scale32="64 96 128 160 172 224 256"
+symlinkdirs="actions apps animations categories devices emblems gtk mimetypes places status"
+basedir="$(dirname "$(readlink -f "${0}")")"
+tmpdir=/tmp/$iconname
+echo -e "You can choose between three themes:\n"
+echo -e "#1: create a SVG set (terrible loading times, works on the most DE's)\n"
+echo -e "#2: create a mixed SVG & PNG set (best compromise, won't work with Qt)\n"
+echo -e "#3: create a PNG set (the only choice for Qt-desktops)\n"
+echo -e "#4: Abort\n"
+echo -e "\n"
+sleep 10
+echo -e "Make your choice: [1,2,3,4]"
+read input
+if [[ $input == "1" ]]; then
+	echo "creating SVG set"; sleep 5
+	sizes="$defaultsizes"
+	iconname=Ivy-svg
+	indextheme="$basedir"/ivy-dev/index.theme.1
+elif [[ $input == "2" ]]; then
+	command -v inkscape >/dev/null 2>&1 || { echo >&2 "I require Inkscape but it's not installed.  Aborting."; exit 1; }
+	command -v convert >/dev/null 2>&1 || { echo >&2 "I require ImageMagick(convert) but it's not installed.  Aborting."; exit 1; }
+	echo "creating SVG set"; sleep 5
+	sizes="$defaultsizes"
+	iconname=Ivy
+	indextheme="$basedir"/ivy-dev/index.theme.2
+elif [[ $input == "3" ]]; then
+	command -v inkscape >/dev/null 2>&1 || { echo >&2 "I require Inkscape but it's not installed.  Aborting."; exit 1; }
+	command -v convert >/dev/null 2>&1 || { echo >&2 "I require ImageMagick(convert) but it's not installed.  Aborting."; exit 1; }
+	echo "creating PNG set"; sleep 5
+	sizes="$defaultsizes"
+	pngsizes="$defaultsizes $scale32 $scale48"
+	iconname=Ivy-png
+	indextheme="$basedir"/ivy-dev/index.theme.3
+elif [[ $input == "4" ]]; then
+	exit
+else
+	echo "$input Aborting!"
+	exit
+fi
+#####
+##### SVG
+#####
+cd "$basedir"
+if [[ $input == "1" ]]; then
+	for size in $sizes; do
+		mkdir -p "$basedir"/$iconname/$size
+	done
+	for size in $sizes; do
+		cp -R "$basedir"/ivy-dev/$size/pool "$basedir"/$iconname/$size
+	done
+	cd "$basedir"/ivy-dev/48
+	#fix that apple rip-off
+	for symlinkdir in "$sysmlinkdirs"; do
+		cd $symlinkdir
+		for svgsymlinks in `find  -wholename "*.svg"`; do
+			ln -sf "`readlink $svgsymlinks`" "`ls $svgsymlinks|sed 's/\.svg$/-symbolic.svg/'`"
+		done
+	done
+	for size in `echo "$sizes"|sed "s/ 48//g"`; do
+		cp -R "$symlinkdirs" "$basedir"/$iconname/$size
+	done
+fi
+	
+#####
+##### PNG+SVG
+#####
+cd "$basedir"
+if [[ $input == "2" ]]; then
+	mkdir -p "$basedir"/$iconname/scalable
+	cp -R "$basedir"/ivy-dev/48 "$basedir"/$iconname/scalable
+	#fix that apple rip-off
+		cd "$basedir"/$iconname/scalable
+		for symlinkdir in "$sysmlinkdirs"; do
+			cd $symlinkdir
+			for svgsymlinks in `find  -wholename "*.svg"`; do
+			ln -sf "`readlink $svgsymlinks`" "`ls $svgsymlinks|sed 's/\.svg$/-symbolic.svg/'`"
+			done
+		done
+	####PNG STUFF
+	for size in $sizes; do
+		mkdir -p "$basedir"/$iconname/$size
+	done
+	for size in $sizes; do
+		cp -R "$basedir"/ivy-dev/$size/pool "$basedir"/$iconname/$size
+	done
+	#covert the svgs to pngs
+	for size in $sizes; do
+		cd $basedir/ivy/$size/pool
+		for name in `find  -wholename "*.svg"`; do
+			inkscape -z --export-area-page --export-width=$size --export-height=$size --export-png="`echo "$name" | sed "s/\.\w*$/.png/"`" "$name"
+		done
+		convert +append busy*.png process-working.png
+		convert -append busy*.png process-working-kde.png
+		rm *.svg
+	done
+	#copying symlinks
+	cd "$basedir"/ivy-dev/48/
+	mkdir -p "$tmpdir"
+	cp -R "$symlinkdirs" "tempdir"
+	#convert symlinks to png
+	cd "$tmpdir"
+	for svgsymlinks in `find  -wholename "*.svg"`; do
+		ln -sf "`readlink $svgsymlinks|sed 's/\.svg$/\.png/'`" "`ls $svgsymlinks|sed 's/\.svg$/\.png/'`"
+	done
+	#fix that apple rip-off
+	for svgsymlinks in `find  -wholename "*.svg"`; do
+		ln -sf "`readlink $svgsymlinks|sed 's/\.svg$/\.png/'`" "`ls $svgsymlinks|sed 's/\.svg$/-symbolic.png/'`"
+	done
+	find  -wholename "*.svg" -exec rm -rf {} \;
+	#copy the pngs to the png theme
+	cd "$basedir"
+	for size in $sizes; do
+		cp -R "$tmpdir"/* "$basedir"/$iconname/$size
+	done
+	#add 24px icons
+	cd "$basedir"
+	cp -R "$basedir"/$iconname/22 "$basedir"/$iconname/24
+	cd $basedir/$iconname/24/pool
+	for name24 in `find  -wholename "*.png"`; do
+		convert -gravity center -extent 24x24 -background Transparent "$name24" -set colorspace RGB "$name24"
+	done
+	convert +append busy*.png process-working.png
+	convert -append busy*.png process-working-kde.png
+	cd "$basedir"
+fi
+
+#####
+##### PNG
+#####
+cd "$basedir"
+if [[ $input == "3" ]]; then
+	for pngsize in $pngsizes; do
+		mkdir -p "$basedir"/$iconname/$pngsize
+	done
+	for defaultsize in $defaultsizes; do
+		cp -R "$basedir"/ivy-dev/$defaultsize/pool "$basedir"/$iconname/$defaultsize
+	done
+	for scale32 in $scales32; do
+		cp -R "$basedir"ivy-dev/32/pool "$basedir"/$iconname/$scale32
+	done
+	for scale48 in $scales48; do
+		cp -R "$basedir"ivy-dev/48/pool "$basedir"/$iconname/$scale48
+	done
+	#covert the svgs to pngs
+	for size in $sizes; do
+		cd $basedir/ivy/$size/pool
+		for name in `find  -wholename "*.svg"`; do
+			inkscape -z --export-area-page --export-width=$size --export-height=$size --export-png="`echo "$name" | sed "s/\.\w*$/.png/"`" "$name"
+		done
+		convert +append busy*.png process-working.png
+		convert -append busy*.png process-working-kde.png
+		rm *.svg
+	done
+	#copying symlinks
+	cd "$basedir"/ivy-dev/48/
+	mkdir -p "$tmpdir"
+	cp -R "$symlinkdirs" "tempdir"
+	#convert symlinks to png
+	cd "$tmpdir"
+	for svgsymlinks in `find  -wholename "*.svg"`; do
+		ln -sf "`readlink $svgsymlinks|sed 's/\.svg$/\.png/'`" "`ls $svgsymlinks|sed 's/\.svg$/\.png/'`"
+	done
+	#fix that apple rip-off
+	for svgsymlinks in `find  -wholename "*.svg"`; do
+		ln -sf "`readlink $svgsymlinks|sed 's/\.svg$/\.png/'`" "`ls $svgsymlinks|sed 's/\.svg$/-symbolic.png/'`"
+	done
+	find  -wholename "*.svg" -exec rm -rf {} \;
+	#copy the pngs to the png theme
+	cd "$basedir"
+	for size in $sizes; do
+		cp -R "$tmpdir"/* "$basedir"/$iconname/$size
+	done
+	#add 24px icons
+	cd "$basedir"
+	cp -R "$basedir"/$iconname/22 "$basedir"/$iconname/24
+	cd $basedir/$iconname/24/pool
+	for name24 in `find  -wholename "*.png"`; do
+		convert -gravity center -extent 24x24 -background Transparent "$name24" -set colorspace RGB "$name24"
+	done
+	convert +append busy*.png process-working.png
+	convert -append busy*.png process-working-kde.png
+	cd "$basedir"
+fi
+
+#finalsteps
+cd $basedir
+cp "$basedir"/ivy-dev/COPYING "$basedir"/$iconname
+cp "$basedir"/ivy-dev/COPYING.pdf "$basedir"/$iconname
+cp "$basedir"/index.theme.created "$basedir"/$iconname/index.theme
+gtk-update-icon-cache $iconname
+#7z a -mx=9 -m0=PPMd -mmem=512m -ms=on $iconname $iconname
+echo "done, you can now copy the $iconname folder to your icon dir($HOME/.icons) or ($HOME/.kde/share/icons) for KDE."
