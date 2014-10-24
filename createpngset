@@ -57,7 +57,7 @@ done
 #copying symlinks
 cd $basedir/ivy-dev/48/
 mkdir /tmp/ivy-dev-tmp
-cp -R actions apps animations categories devices emblems gtk mimetypes places status /tmp/ivy-dev-tmp
+cp -R actions apps animations categories devices emblems misc mimetypes places status /tmp/ivy-dev-tmp
 #convert them into png
 cd /tmp/ivy-dev-tmp
 for svgsymlinks in `find  -wholename "*.svg"`; do

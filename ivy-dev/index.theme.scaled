@@ -4,7 +4,7 @@ Comment=
 Example=emblem-favorite
 Inherits=hicolor
 
-Directories=16/actions,16/apps,16/animations,16/categories,16/devices,16/emblems,16/emotes,16/mimetypes,16/places,16/status,16/gtk,22/actions,22/apps,22/animations,22/categories,22/devices,22/emblems,22/emotes,22/mimetypes,22/places,22/status,22/gtk,24/actions,24/apps,24/animations,24/categories,24/devices,24/emblems,24/emotes,24/mimetypes,24/places,24/status,24/gtk,32/actions,32/apps,32/animations,32/categories,32/devices,32/emblems,32/emotes,32/mimetypes,32/places,32/status,32/gtk,48/actions,48/apps,48/animations,48/categories,48/devices,48/emblems,48/emotes,48/mimetypes,48/places,48/status,48/gtk,64/actions,64/apps,64/animations,64/categories,64/devices,64/emblems,64/emotes,64/mimetypes,64/places,64/status,64/gtk,80/actions,80/apps,80/categories,80/devices,80/emblems,80/emotes,80/mimetypes,80/places,80/status,80/gtk,96/actions,96/apps,96/categories,96/devices,96/emblems,96/emotes,96/mimetypes,96/places,96/status,96/gtk,112/actions,112/apps,112/categories,112/devices,112/emblems,112/emotes,112/mimetypes,112/places,112/status,112/gtk,128/actions,128/apps,128/categories,128/devices,128/emblems,128/emotes,128/mimetypes,128/places,128/status,128/gtk,144/actions,144/apps,144/categories,144/devices,144/emblems,144/emotes,144/mimetypes,144/places,144/status,144/gtk,160/actions,160/apps,160/categories,160/devices,160/emblems,160/emotes,160/mimetypes,160/places,160/status,160/gtk,176/actions,176/apps,176/categories,176/devices,176/emblems,176/emotes,176/mimetypes,176/places,176/status,176/gtk,192/actions,192/apps,192/categories,192/devices,192/emblems,192/emotes,192/mimetypes,192/places,192/status,192/gtk,208/actions,208/apps,208/categories,208/devices,208/emblems,208/emotes,208/mimetypes,208/places,208/status,208/gtk,224/actions,224/apps,224/categories,224/devices,224/emblems,224/emotes,224/mimetypes,224/places,224/status,224/gtk,240/actions,240/apps,240/categories,240/devices,240/emblems,240/emotes,240/mimetypes,240/places,240/status,240/gtk,256/actions,256/apps,256/categories,256/devices,256/emblems,256/emotes,256/mimetypes,256/places,256/status,256/gtk
+Directories=16/actions,16/apps,16/animations,16/categories,16/devices,16/emblems,16/emotes,16/mimetypes,16/places,16/status,16/misc,22/actions,22/apps,22/animations,22/categories,22/devices,22/emblems,22/emotes,22/mimetypes,22/places,22/status,22/misc,24/actions,24/apps,24/animations,24/categories,24/devices,24/emblems,24/emotes,24/mimetypes,24/places,24/status,24/misc,32/actions,32/apps,32/animations,32/categories,32/devices,32/emblems,32/emotes,32/mimetypes,32/places,32/status,32/misc,48/actions,48/apps,48/animations,48/categories,48/devices,48/emblems,48/emotes,48/mimetypes,48/places,48/status,48/misc,64/actions,64/apps,64/animations,64/categories,64/devices,64/emblems,64/emotes,64/mimetypes,64/places,64/status,64/misc,80/actions,80/apps,80/categories,80/devices,80/emblems,80/emotes,80/mimetypes,80/places,80/status,80/misc,96/actions,96/apps,96/categories,96/devices,96/emblems,96/emotes,96/mimetypes,96/places,96/status,96/misc,112/actions,112/apps,112/categories,112/devices,112/emblems,112/emotes,112/mimetypes,112/places,112/status,112/misc,128/actions,128/apps,128/categories,128/devices,128/emblems,128/emotes,128/mimetypes,128/places,128/status,128/misc,144/actions,144/apps,144/categories,144/devices,144/emblems,144/emotes,144/mimetypes,144/places,144/status,144/misc,160/actions,160/apps,160/categories,160/devices,160/emblems,160/emotes,160/mimetypes,160/places,160/status,160/misc,176/actions,176/apps,176/categories,176/devices,176/emblems,176/emotes,176/mimetypes,176/places,176/status,176/misc,192/actions,192/apps,192/categories,192/devices,192/emblems,192/emotes,192/mimetypes,192/places,192/status,192/misc,208/actions,208/apps,208/categories,208/devices,208/emblems,208/emotes,208/mimetypes,208/places,208/status,208/misc,224/actions,224/apps,224/categories,224/devices,224/emblems,224/emotes,224/mimetypes,224/places,224/status,224/misc,240/actions,240/apps,240/categories,240/devices,240/emblems,240/emotes,240/mimetypes,240/places,240/status,240/misc,256/actions,256/apps,256/categories,256/devices,256/emblems,256/emotes,256/mimetypes,256/places,256/status,256/misc
 
 #######
 #KDE-Stuff
@@ -88,9 +88,9 @@ Size=16
 Context=Status
 Type=Fixed
 
-[16/gtk]
+[16/misc]
 Size=16
-Context=Stock
+Context=Misc
 Type=Fixed
 
 ######
@@ -147,9 +147,9 @@ Size=22
 Context=Status
 Type=Fixed
 
-[22/gtk]
+[22/misc]
 Size=22
-Context=Stock
+Context=Misc
 Type=Fixed
 
 ######
@@ -206,9 +206,9 @@ Size=24
 Context=Status
 Type=Fixed
 
-[24/gtk]
+[24/misc]
 Size=24
-Context=Stock
+Context=Misc
 Type=Fixed
 
 ######
@@ -265,9 +265,9 @@ Size=32
 Context=Status
 Type=Fixed
 
-[32/gtk]
+[32/misc]
 Size=32
-Context=Stock
+Context=Misc
 Type=Fixed
 
 ######
@@ -324,9 +324,9 @@ Size=48
 Context=Status
 Type=Fixed
 
-[48/gtk]
+[48/misc]
 Size=48
-Context=Stock
+Context=Misc
 Type=Fixed
 
 ######
@@ -383,9 +383,9 @@ Size=64
 Context=Status
 Type=Fixed
 
-[64/gtk]
+[64/misc]
 Size=64
-Context=Stock
+Context=Misc
 Type=Fixed
 ######
 # 80px
@@ -436,9 +436,9 @@ Size=80
 Context=Status
 Type=Fixed
 
-[80/gtk]
+[80/misc]
 Size=80
-Context=Stock
+Context=Misc
 Type=Fixed
 ######
 # 96px
@@ -489,9 +489,9 @@ Size=96
 Context=Status
 Type=Fixed
 
-[96/gtk]
+[96/misc]
 Size=96
-Context=Stock
+Context=Misc
 Type=Fixed
 ######
 # 112px
@@ -542,9 +542,9 @@ Size=112
 Context=Status
 Type=Fixed
 
-[112/gtk]
+[112/misc]
 Size=112
-Context=Stock
+Context=Misc
 Type=Fixed
 ######
 # 128px
@@ -595,9 +595,9 @@ Size=128
 Context=Status
 Type=Fixed
 
-[128/gtk]
+[128/misc]
 Size=128
-Context=Stock
+Context=Misc
 Type=Fixed
 ######
 # 144px
@@ -648,9 +648,9 @@ Size=144
 Context=Status
 Type=Fixed
 
-[144/gtk]
+[144/misc]
 Size=144
-Context=Stock
+Context=Misc
 Type=Fixed
 ######
 # 160px
@@ -701,9 +701,9 @@ Size=160
 Context=Status
 Type=Fixed
 
-[160/gtk]
+[160/misc]
 Size=160
-Context=Stock
+Context=Misc
 Type=Fixed
 ######
 # 176px
@@ -754,9 +754,9 @@ Size=176
 Context=Status
 Type=Fixed
 
-[176/gtk]
+[176/misc]
 Size=176
-Context=Stock
+Context=Misc
 Type=Fixed
 ######
 # 192px
@@ -807,9 +807,9 @@ Size=192
 Context=Status
 Type=Fixed
 
-[192/gtk]
+[192/misc]
 Size=192
-Context=Stock
+Context=Misc
 Type=Fixed
 ######
 # 208px
@@ -860,9 +860,9 @@ Size=208
 Context=Status
 Type=Fixed
 
-[208/gtk]
+[208/misc]
 Size=208
-Context=Stock
+Context=Misc
 Type=Fixed
 ######
 # 224px
@@ -913,9 +913,9 @@ Size=224
 Context=Status
 Type=Fixed
 
-[224/gtk]
+[224/misc]
 Size=224
-Context=Stock
+Context=Misc
 Type=Fixed
 ######
 # 240px
@@ -966,9 +966,9 @@ Size=240
 Context=Status
 Type=Fixed
 
-[240/gtk]
+[240/misc]
 Size=240
-Context=Stock
+Context=Misc
 Type=Fixed
 ######
 # 256px
@@ -1019,9 +1019,9 @@ Size=256
 Context=Status
 Type=Fixed
 
-[256/gtk]
+[256/misc]
 Size=256
-Context=Stock
+Context=Misc
 Type=Fixed
 
 

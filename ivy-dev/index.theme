@@ -4,7 +4,7 @@ Comment=svg only => terrible loading times
 Example=text-x-script
 Inherits=hicolor, locolor, Tango, gnome, oxygen
 
-Directories=48/actions,48/apps,48/animations,48/categories,48/devices,48/emblems,48/emotes,48/mimetypes,48/places,48/status,48/gtk
+Directories=48/actions,48/apps,48/animations,48/categories,48/devices,48/emblems,48/emotes,48/mimetypes,48/places,48/status,48/misc
 
 #######
 #KDE-STuff
@@ -111,12 +111,12 @@ MinSize=8
 MaxSize=512
 
 ##########################
-## Current GTK3.8 Icons
+## misc Icons
 ##########################
 
-[48/gtk]
+[48/misc]
 Size=48
-Context=Stock
+Context=Misc
 Type=Scalable
 MinSize=8
 MaxSize=512
