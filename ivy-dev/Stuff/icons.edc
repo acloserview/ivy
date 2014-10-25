@@ -78,7 +78,6 @@ https://git.enlightenment.org/core/enlightenment.git/tree/src/modules check illu
 e-module-layout #whatever
 e-module-msgbus #D-Bus
 https://git.enlightenment.org/core/enlightenment.git/tree/src/modules/policy_mobile
-e-module-tasks #which tasks? windows? or tasks?
 e-module-teamwork #teamwork whatever it does maybe the SED logo ;)
 e-module-tiling #need a tiling icon...
 https://git.enlightenment.org/core/enlightenment.git/tree/src/modules #check that wl(wayland stuff)
