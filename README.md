@@ -6,7 +6,7 @@ A very minimalistic but colorful png icon theme for X11 Desktops such as: [Xfce]
 
 * Prebuilt snapshot: [Ivy@2014-10-24](https://docs.google.com/uc?id=0B_2_dsXrefR-cWJRa1B1N1N4Q1k&export=download)
 
-##Goals:
+####Goals:
 
 - try to create a generic icon theme from scratch
 - no reflections (glossy highlights) or big fat icon shadows (the main difference to tango)
@@ -17,22 +17,26 @@ A very minimalistic but colorful png icon theme for X11 Desktops such as: [Xfce]
 
 **Note:** *We make a png theme because it's faster and pixel perfect*
 
-* **`cd ~`**
-* **`git clone https://github.com/sixsixfive/ivy.git`** or
-**`svn co https://github.com/sixsixfive/ivy/trunk/ivy-dev ivy-dev`**
-* **`cd ivy`**
-* **`bash createpngset`**
+1. **`cd ~`**
+
+2. 
+   * **`git clone https://github.com/sixsixfive/ivy.git`**
+   * **or**
+   * **`svn co https://github.com/sixsixfive/ivy/trunk ivy`**
+ 
+3. **`cd ivy`**
+4. **`bash createpngset`**
 
 ##Notes:
 
 Since the theme is still missing various small icons it's recommend to
 use some fixes:
 
-### Disable Menu icons:
+#### Disable Menu icons:
 
 #####GTK2 
 
-[xsettings](http://www.freedesktop.org/wiki/Specifications/XSettingsRegistry/), Xfce uses xfconf, MATE uses gconf/mateconf)
+with [xsettings](http://www.freedesktop.org/wiki/Specifications/XSettingsRegistry/) (Xfce uses xfconf, MATE uses dconf)
 
 **`Gtk/MenuImages "0"`**
 
@@ -44,11 +48,11 @@ KDE-Systemsettings>App. Appearance>Style>Fine Tuning
 
 disabled by default(will inherit xsettings)
 
-### or make them bigger (eg. 22px):
+#### or make them bigger (eg. 22px):
 
 #####GTK2 
 
-[xsettings](http://www.freedesktop.org/wiki/Specifications/XSettingsRegistry/), Xfce uses xfconf, MATE uses gconf/mateconf)
+with [xsettings](http://www.freedesktop.org/wiki/Specifications/XSettingsRegistry/), Xfce uses xfconf, MATE uses gconf/mateconf)
 
 **`Gtk/IconSizes "panel-menu=22,22:gtk-dialog=48,48:gtk-small-toolbar=22,22:gtk-large-toolbar=22,22:gtk-menu=22,22:gtk-button=22,22:panel-applications-menu=22,22:panel-directory-menu=22,22"`**
 
